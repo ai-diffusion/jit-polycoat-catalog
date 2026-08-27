@@ -62,9 +62,9 @@
   <script>
     const IMG_BASES = [
       "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/",
-      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/",
       "./"
     ];
+    const CAT_VER = "20260827d";
     const PAGE = 24;
     let all = [], shown = 0, filtered = [];
     const grid = document.getElementById("grid");
@@ -105,8 +105,8 @@
       for (const d of slice) {
         const v = (d.variants && d.variants[0]) || {};
         const hi = (v.hi || "").replace(/^\//, "");
-        const src = hi ? IMG_BASES[0] + hi : "";
-        const fallbacks = hi ? IMG_BASES.slice(1).map((b) => b + hi) : [];
+        const src = hi ? IMG_BASES[0] + hi + "?v=" + CAT_VER : "";
+        const fallbacks = hi ? IMG_BASES.slice(1).map((b) => b + hi + "?v=" + CAT_VER) : [];
         const el = document.createElement("article");
         const code = tradeCode(d, v);
         const img = `<img loading="lazy" alt="${(d.name || "").replace(/"/g, "")}" src="${src}" ${fallbacks.length ? `data-fb="${fallbacks.join("|")}"` : ""} onerror="window.__imgFb && window.__imgFb(this)" />`;
@@ -126,9 +126,8 @@
     };
 
     const CAT_URLS = [
-      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json",
-      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/catalog.json",
-      "./catalog.json"
+      "./catalog.json?v=" + CAT_VER,
+      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json?v=" + CAT_VER
     ];
     async function loadCatalog() {
       for (const url of CAT_URLS) {
