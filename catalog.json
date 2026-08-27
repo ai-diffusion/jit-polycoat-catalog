@@ -37,7 +37,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": true,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -46,7 +45,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21233-01",
     "featured": true,
     "variants": [
@@ -65,7 +63,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21316-01",
     "featured": true,
     "variants": [
@@ -84,7 +81,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21318-02",
     "featured": true,
     "variants": [
@@ -103,7 +99,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21421-02",
     "featured": true,
     "variants": [
@@ -122,7 +117,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21430-01",
     "featured": true,
     "variants": [
@@ -141,7 +135,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21433-01",
     "featured": true,
     "variants": [
@@ -160,7 +153,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21440-01",
     "featured": true,
     "variants": [
@@ -179,7 +171,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21443-01",
     "featured": true,
     "variants": [
@@ -237,7 +228,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -285,7 +275,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -294,7 +283,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7101",
     "featured": false,
     "variants": [
@@ -313,7 +301,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7102",
     "featured": false,
     "variants": [
@@ -332,7 +319,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7103",
     "featured": false,
     "variants": [
@@ -351,7 +337,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7104",
     "featured": false,
     "variants": [
@@ -370,7 +355,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7105",
     "featured": false,
     "variants": [
@@ -389,7 +373,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7106",
     "featured": false,
     "variants": [
@@ -408,7 +391,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7107",
     "featured": false,
     "variants": [
@@ -427,7 +409,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7108",
     "featured": false,
     "variants": [
@@ -446,7 +427,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7109",
     "featured": false,
     "variants": [
@@ -465,7 +445,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7110",
     "featured": false,
     "variants": [
@@ -484,7 +463,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7111",
     "featured": false,
     "variants": [
@@ -503,7 +481,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7112",
     "featured": false,
     "variants": [
@@ -522,7 +499,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7113",
     "featured": false,
     "variants": [
@@ -541,7 +517,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7114",
     "featured": false,
     "variants": [
@@ -560,7 +535,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7115",
     "featured": false,
     "variants": [
@@ -579,7 +553,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7116",
     "featured": false,
     "variants": [
@@ -598,7 +571,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7117",
     "featured": false,
     "variants": [
@@ -617,7 +589,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7118",
     "featured": false,
     "variants": [
@@ -636,7 +607,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7119",
     "featured": false,
     "variants": [
@@ -655,7 +625,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7120",
     "featured": false,
     "variants": [
@@ -674,7 +643,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7121",
     "featured": false,
     "variants": [
@@ -693,7 +661,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7122",
     "featured": false,
     "variants": [
@@ -712,7 +679,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7123",
     "featured": false,
     "variants": [
@@ -731,7 +697,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7124",
     "featured": false,
     "variants": [
@@ -750,7 +715,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7125",
     "featured": false,
     "variants": [
@@ -769,7 +733,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7126",
     "featured": false,
     "variants": [
@@ -788,7 +751,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7127",
     "featured": false,
     "variants": [
@@ -807,7 +769,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7128",
     "featured": false,
     "variants": [
@@ -826,7 +787,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7129",
     "featured": false,
     "variants": [
@@ -845,7 +805,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7130",
     "featured": false,
     "variants": [
@@ -864,7 +823,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7131",
     "featured": false,
     "variants": [
@@ -883,7 +841,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7132",
     "featured": false,
     "variants": [
@@ -902,7 +859,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7133",
     "featured": false,
     "variants": [
@@ -921,7 +877,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7134",
     "featured": false,
     "variants": [
@@ -940,7 +895,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7135",
     "featured": false,
     "variants": [
@@ -959,7 +913,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7136",
     "featured": false,
     "variants": [
@@ -978,7 +931,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7137",
     "featured": false,
     "variants": [
@@ -997,7 +949,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7138",
     "featured": false,
     "variants": [
@@ -1016,7 +967,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7139",
     "featured": false,
     "variants": [
@@ -1035,7 +985,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7140",
     "featured": false,
     "variants": [
@@ -1054,7 +1003,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7141",
     "featured": false,
     "variants": [
@@ -1073,7 +1021,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7142",
     "featured": false,
     "variants": [
@@ -1092,7 +1039,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7143",
     "featured": false,
     "variants": [
@@ -1111,7 +1057,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7144",
     "featured": false,
     "variants": [
@@ -1130,7 +1075,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7145",
     "featured": false,
     "variants": [
@@ -1149,7 +1093,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7146",
     "featured": false,
     "variants": [
@@ -1168,7 +1111,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7147",
     "featured": false,
     "variants": [
@@ -1187,7 +1129,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7148",
     "featured": false,
     "variants": [
@@ -1206,7 +1147,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7149",
     "featured": false,
     "variants": [
@@ -1225,7 +1165,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7150",
     "featured": false,
     "variants": [
@@ -1244,7 +1183,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7151",
     "featured": false,
     "variants": [
@@ -1263,7 +1201,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7152",
     "featured": false,
     "variants": [
@@ -1282,7 +1219,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7153",
     "featured": false,
     "variants": [
@@ -1301,7 +1237,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7154",
     "featured": false,
     "variants": [
@@ -1320,7 +1255,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7155",
     "featured": false,
     "variants": [
@@ -1339,7 +1273,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7156",
     "featured": false,
     "variants": [
@@ -1358,7 +1291,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7157",
     "featured": false,
     "variants": [
@@ -1377,7 +1309,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7158",
     "featured": false,
     "variants": [
@@ -1396,7 +1327,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7159",
     "featured": false,
     "variants": [
@@ -1415,7 +1345,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7160",
     "featured": false,
     "variants": [
@@ -1434,7 +1363,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7161",
     "featured": false,
     "variants": [
@@ -1453,7 +1381,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7162",
     "featured": false,
     "variants": [
@@ -1472,7 +1399,6 @@
     "series": "COLORPEDIA",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/colorpedia/7163",
     "featured": false,
     "variants": [
@@ -1491,7 +1417,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/1015e",
     "featured": false,
     "variants": [
@@ -1510,7 +1435,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/14201",
     "featured": false,
     "variants": [
@@ -1529,7 +1453,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/21901",
     "featured": false,
     "variants": [
@@ -1548,7 +1471,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/25401",
     "featured": false,
     "variants": [
@@ -1567,7 +1489,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34101",
     "featured": false,
     "variants": [
@@ -1586,7 +1507,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34102",
     "featured": false,
     "variants": [
@@ -1605,7 +1525,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34103",
     "featured": false,
     "variants": [
@@ -1624,7 +1543,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34104",
     "featured": false,
     "variants": [
@@ -1643,7 +1561,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34105",
     "featured": false,
     "variants": [
@@ -1662,7 +1579,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34601",
     "featured": false,
     "variants": [
@@ -1681,7 +1597,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/34605",
     "featured": false,
     "variants": [
@@ -1700,7 +1615,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36501",
     "featured": false,
     "variants": [
@@ -1719,7 +1633,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36502",
     "featured": false,
     "variants": [
@@ -1738,7 +1651,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36503",
     "featured": false,
     "variants": [
@@ -1757,7 +1669,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36504",
     "featured": false,
     "variants": [
@@ -1776,7 +1687,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36601",
     "featured": false,
     "variants": [
@@ -1795,7 +1705,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36701",
     "featured": false,
     "variants": [
@@ -1814,7 +1723,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36801",
     "featured": false,
     "variants": [
@@ -1833,7 +1741,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36802",
     "featured": false,
     "variants": [
@@ -1852,7 +1759,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/36803",
     "featured": false,
     "variants": [
@@ -1871,7 +1777,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37001",
     "featured": false,
     "variants": [
@@ -1890,7 +1795,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37801",
     "featured": false,
     "variants": [
@@ -1909,7 +1813,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37802",
     "featured": false,
     "variants": [
@@ -1928,7 +1831,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37803",
     "featured": false,
     "variants": [
@@ -1947,7 +1849,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37804",
     "featured": false,
     "variants": [
@@ -1966,7 +1867,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37901",
     "featured": false,
     "variants": [
@@ -1985,7 +1885,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37902",
     "featured": false,
     "variants": [
@@ -2004,7 +1903,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/37903",
     "featured": false,
     "variants": [
@@ -2023,7 +1921,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38001",
     "featured": false,
     "variants": [
@@ -2042,7 +1939,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38002",
     "featured": false,
     "variants": [
@@ -2061,7 +1957,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38003",
     "featured": false,
     "variants": [
@@ -2080,7 +1975,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38004",
     "featured": false,
     "variants": [
@@ -2099,7 +1993,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38005",
     "featured": false,
     "variants": [
@@ -2118,7 +2011,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38201",
     "featured": false,
     "variants": [
@@ -2137,7 +2029,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38204",
     "featured": false,
     "variants": [
@@ -2156,7 +2047,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38301",
     "featured": false,
     "variants": [
@@ -2175,7 +2065,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38303",
     "featured": false,
     "variants": [
@@ -2194,7 +2083,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38304",
     "featured": false,
     "variants": [
@@ -2213,7 +2101,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38502",
     "featured": false,
     "variants": [
@@ -2232,7 +2119,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38503",
     "featured": false,
     "variants": [
@@ -2251,7 +2137,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38504",
     "featured": false,
     "variants": [
@@ -2270,7 +2155,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38505",
     "featured": false,
     "variants": [
@@ -2289,7 +2173,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38601",
     "featured": false,
     "variants": [
@@ -2308,7 +2191,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38602",
     "featured": false,
     "variants": [
@@ -2327,7 +2209,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38603",
     "featured": false,
     "variants": [
@@ -2346,7 +2227,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38604",
     "featured": false,
     "variants": [
@@ -2365,7 +2245,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38701",
     "featured": false,
     "variants": [
@@ -2384,7 +2263,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38702",
     "featured": false,
     "variants": [
@@ -2403,7 +2281,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38703",
     "featured": false,
     "variants": [
@@ -2422,7 +2299,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38704",
     "featured": false,
     "variants": [
@@ -2441,7 +2317,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38705",
     "featured": false,
     "variants": [
@@ -2460,7 +2335,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38801",
     "featured": false,
     "variants": [
@@ -2479,7 +2353,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38803",
     "featured": false,
     "variants": [
@@ -2498,7 +2371,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38804",
     "featured": false,
     "variants": [
@@ -2517,7 +2389,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38901",
     "featured": false,
     "variants": [
@@ -2536,7 +2407,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38902",
     "featured": false,
     "variants": [
@@ -2555,7 +2425,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38903",
     "featured": false,
     "variants": [
@@ -2574,7 +2443,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38904",
     "featured": false,
     "variants": [
@@ -2593,7 +2461,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/38905",
     "featured": false,
     "variants": [
@@ -2612,7 +2479,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39201",
     "featured": false,
     "variants": [
@@ -2631,7 +2497,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39301",
     "featured": false,
     "variants": [
@@ -2650,7 +2515,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39302",
     "featured": false,
     "variants": [
@@ -2669,7 +2533,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39401",
     "featured": false,
     "variants": [
@@ -2688,7 +2551,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39402",
     "featured": false,
     "variants": [
@@ -2707,7 +2569,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39501",
     "featured": false,
     "variants": [
@@ -2726,7 +2587,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39502",
     "featured": false,
     "variants": [
@@ -2745,7 +2605,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39503",
     "featured": false,
     "variants": [
@@ -2764,7 +2623,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39504",
     "featured": false,
     "variants": [
@@ -2783,7 +2641,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39505",
     "featured": false,
     "variants": [
@@ -2802,7 +2659,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39601",
     "featured": false,
     "variants": [
@@ -2821,7 +2677,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39602",
     "featured": false,
     "variants": [
@@ -2840,7 +2695,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39603",
     "featured": false,
     "variants": [
@@ -2859,7 +2713,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39701",
     "featured": false,
     "variants": [
@@ -2878,7 +2731,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39702",
     "featured": false,
     "variants": [
@@ -2897,7 +2749,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39703",
     "featured": false,
     "variants": [
@@ -2916,7 +2767,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39704",
     "featured": false,
     "variants": [
@@ -2935,7 +2785,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39801",
     "featured": false,
     "variants": [
@@ -2954,7 +2803,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39802",
     "featured": false,
     "variants": [
@@ -2973,7 +2821,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39803",
     "featured": false,
     "variants": [
@@ -2992,7 +2839,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39804",
     "featured": false,
     "variants": [
@@ -3011,7 +2857,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39901",
     "featured": false,
     "variants": [
@@ -3030,7 +2875,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/39902",
     "featured": false,
     "variants": [
@@ -3049,7 +2893,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40001",
     "featured": false,
     "variants": [
@@ -3068,7 +2911,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40002",
     "featured": false,
     "variants": [
@@ -3087,7 +2929,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40003",
     "featured": false,
     "variants": [
@@ -3106,7 +2947,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40004",
     "featured": false,
     "variants": [
@@ -3125,7 +2965,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40101",
     "featured": false,
     "variants": [
@@ -3144,7 +2983,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40102",
     "featured": false,
     "variants": [
@@ -3163,7 +3001,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40103",
     "featured": false,
     "variants": [
@@ -3182,7 +3019,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40104",
     "featured": false,
     "variants": [
@@ -3201,7 +3037,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40201",
     "featured": false,
     "variants": [
@@ -3220,7 +3055,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40203",
     "featured": false,
     "variants": [
@@ -3239,7 +3073,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40204",
     "featured": false,
     "variants": [
@@ -3258,7 +3091,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40301",
     "featured": false,
     "variants": [
@@ -3277,7 +3109,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40302",
     "featured": false,
     "variants": [
@@ -3296,7 +3127,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40401",
     "featured": false,
     "variants": [
@@ -3315,7 +3145,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40402",
     "featured": false,
     "variants": [
@@ -3334,7 +3163,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40501",
     "featured": false,
     "variants": [
@@ -3353,7 +3181,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40601",
     "featured": false,
     "variants": [
@@ -3372,7 +3199,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40602",
     "featured": false,
     "variants": [
@@ -3391,7 +3217,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40603",
     "featured": false,
     "variants": [
@@ -3410,7 +3235,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40701",
     "featured": false,
     "variants": [
@@ -3429,7 +3253,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40702",
     "featured": false,
     "variants": [
@@ -3448,7 +3271,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40703",
     "featured": false,
     "variants": [
@@ -3467,7 +3289,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40704",
     "featured": false,
     "variants": [
@@ -3486,7 +3307,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40801",
     "featured": false,
     "variants": [
@@ -3505,7 +3325,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40802",
     "featured": false,
     "variants": [
@@ -3524,7 +3343,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40803",
     "featured": false,
     "variants": [
@@ -3543,7 +3361,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40804",
     "featured": false,
     "variants": [
@@ -3562,7 +3379,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40901",
     "featured": false,
     "variants": [
@@ -3581,7 +3397,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40902",
     "featured": false,
     "variants": [
@@ -3600,7 +3415,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40903",
     "featured": false,
     "variants": [
@@ -3619,7 +3433,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/40904",
     "featured": false,
     "variants": [
@@ -3638,7 +3451,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41001",
     "featured": false,
     "variants": [
@@ -3657,7 +3469,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41002",
     "featured": false,
     "variants": [
@@ -3676,7 +3487,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41101",
     "featured": false,
     "variants": [
@@ -3695,7 +3505,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41201",
     "featured": false,
     "variants": [
@@ -3714,7 +3523,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41301",
     "featured": false,
     "variants": [
@@ -3733,7 +3541,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41401",
     "featured": false,
     "variants": [
@@ -3752,7 +3559,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41501",
     "featured": false,
     "variants": [
@@ -3771,7 +3577,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41502",
     "featured": false,
     "variants": [
@@ -3790,7 +3595,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41601",
     "featured": false,
     "variants": [
@@ -3809,7 +3613,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41602",
     "featured": false,
     "variants": [
@@ -3828,7 +3631,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/4163-04",
     "featured": false,
     "variants": [
@@ -3847,7 +3649,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41701",
     "featured": false,
     "variants": [
@@ -3866,7 +3667,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41702",
     "featured": false,
     "variants": [
@@ -3885,7 +3685,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41801",
     "featured": false,
     "variants": [
@@ -3904,7 +3703,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41802",
     "featured": false,
     "variants": [
@@ -3923,7 +3721,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41902",
     "featured": false,
     "variants": [
@@ -3942,7 +3739,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41903",
     "featured": false,
     "variants": [
@@ -3961,7 +3757,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/41904",
     "featured": false,
     "variants": [
@@ -3980,7 +3775,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42301",
     "featured": false,
     "variants": [
@@ -3999,7 +3793,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42302",
     "featured": false,
     "variants": [
@@ -4018,7 +3811,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42401-l",
     "featured": false,
     "variants": [
@@ -4037,7 +3829,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42402",
     "featured": false,
     "variants": [
@@ -4056,7 +3847,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42501",
     "featured": false,
     "variants": [
@@ -4075,7 +3865,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42502",
     "featured": false,
     "variants": [
@@ -4094,7 +3883,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42503",
     "featured": false,
     "variants": [
@@ -4113,7 +3901,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42504",
     "featured": false,
     "variants": [
@@ -4132,7 +3919,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42601",
     "featured": false,
     "variants": [
@@ -4151,7 +3937,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42602",
     "featured": false,
     "variants": [
@@ -4170,7 +3955,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42603",
     "featured": false,
     "variants": [
@@ -4189,7 +3973,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/42604",
     "featured": false,
     "variants": [
@@ -4208,7 +3991,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43201",
     "featured": false,
     "variants": [
@@ -4227,7 +4009,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43202",
     "featured": false,
     "variants": [
@@ -4246,7 +4027,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43203",
     "featured": false,
     "variants": [
@@ -4265,7 +4045,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43204",
     "featured": false,
     "variants": [
@@ -4284,7 +4063,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43301",
     "featured": false,
     "variants": [
@@ -4303,7 +4081,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43302",
     "featured": false,
     "variants": [
@@ -4322,7 +4099,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43401",
     "featured": false,
     "variants": [
@@ -4341,7 +4117,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43402",
     "featured": false,
     "variants": [
@@ -4360,7 +4135,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43403",
     "featured": false,
     "variants": [
@@ -4379,7 +4153,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43501",
     "featured": false,
     "variants": [
@@ -4398,7 +4171,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43502",
     "featured": false,
     "variants": [
@@ -4417,7 +4189,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43503",
     "featured": false,
     "variants": [
@@ -4436,7 +4207,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43504",
     "featured": false,
     "variants": [
@@ -4455,7 +4225,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43601",
     "featured": false,
     "variants": [
@@ -4474,7 +4243,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43602",
     "featured": false,
     "variants": [
@@ -4493,7 +4261,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43603",
     "featured": false,
     "variants": [
@@ -4512,7 +4279,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43604",
     "featured": false,
     "variants": [
@@ -4531,7 +4297,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43701",
     "featured": false,
     "variants": [
@@ -4550,7 +4315,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43702",
     "featured": false,
     "variants": [
@@ -4569,7 +4333,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43801",
     "featured": false,
     "variants": [
@@ -4588,7 +4351,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43802",
     "featured": false,
     "variants": [
@@ -4607,7 +4369,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43803",
     "featured": false,
     "variants": [
@@ -4626,7 +4387,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43901",
     "featured": false,
     "variants": [
@@ -4645,7 +4405,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43902",
     "featured": false,
     "variants": [
@@ -4664,7 +4423,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43903",
     "featured": false,
     "variants": [
@@ -4683,7 +4441,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/43904",
     "featured": false,
     "variants": [
@@ -4702,7 +4459,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44001",
     "featured": false,
     "variants": [
@@ -4721,7 +4477,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44002",
     "featured": false,
     "variants": [
@@ -4740,7 +4495,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44003",
     "featured": false,
     "variants": [
@@ -4759,7 +4513,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44004",
     "featured": false,
     "variants": [
@@ -4778,7 +4531,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44101",
     "featured": false,
     "variants": [
@@ -4797,7 +4549,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44102",
     "featured": false,
     "variants": [
@@ -4816,7 +4567,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44103",
     "featured": false,
     "variants": [
@@ -4835,7 +4585,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44201",
     "featured": false,
     "variants": [
@@ -4854,7 +4603,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44202",
     "featured": false,
     "variants": [
@@ -4873,7 +4621,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44203",
     "featured": false,
     "variants": [
@@ -4892,7 +4639,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44301",
     "featured": false,
     "variants": [
@@ -4911,7 +4657,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44302",
     "featured": false,
     "variants": [
@@ -4930,7 +4675,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44303",
     "featured": false,
     "variants": [
@@ -4949,7 +4693,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44401",
     "featured": false,
     "variants": [
@@ -4968,7 +4711,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44402",
     "featured": false,
     "variants": [
@@ -4987,7 +4729,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44403",
     "featured": false,
     "variants": [
@@ -5006,7 +4747,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44501",
     "featured": false,
     "variants": [
@@ -5025,7 +4765,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/44502",
     "featured": false,
     "variants": [
@@ -5044,7 +4783,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e-32401",
     "featured": false,
     "variants": [
@@ -5175,7 +4913,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e-1007-01",
     "featured": false,
     "variants": [
@@ -5201,7 +4938,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e-black-oak",
     "featured": false,
     "variants": [
@@ -5220,7 +4956,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e-lemon-oak",
     "featured": false,
     "variants": [
@@ -5239,7 +4974,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e-naina-teak-red",
     "featured": false,
     "variants": [
@@ -5258,7 +4992,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e1026",
     "featured": false,
     "variants": [
@@ -5277,7 +5010,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e1027",
     "featured": false,
     "variants": [
@@ -5296,7 +5028,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e1031",
     "featured": false,
     "variants": [
@@ -5315,7 +5046,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20101",
     "featured": false,
     "variants": [
@@ -5334,7 +5064,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20102",
     "featured": false,
     "variants": [
@@ -5353,7 +5082,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20503",
     "featured": false,
     "variants": [
@@ -5372,7 +5100,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20504",
     "featured": false,
     "variants": [
@@ -5391,7 +5118,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20806",
     "featured": false,
     "variants": [
@@ -5410,7 +5136,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e20807",
     "featured": false,
     "variants": [
@@ -5429,7 +5154,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e22001",
     "featured": false,
     "variants": [
@@ -5448,7 +5172,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e22801",
     "featured": false,
     "variants": [
@@ -5467,7 +5190,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e22806",
     "featured": false,
     "variants": [
@@ -5486,7 +5208,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e23501",
     "featured": false,
     "variants": [
@@ -5505,7 +5226,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e23502",
     "featured": false,
     "variants": [
@@ -5524,7 +5244,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e24203",
     "featured": false,
     "variants": [
@@ -5543,7 +5262,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e24204",
     "featured": false,
     "variants": [
@@ -5562,7 +5280,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31701",
     "featured": false,
     "variants": [
@@ -5581,7 +5298,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31702",
     "featured": false,
     "variants": [
@@ -5600,7 +5316,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31703",
     "featured": false,
     "variants": [
@@ -5619,7 +5334,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31704",
     "featured": false,
     "variants": [
@@ -5638,7 +5352,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31705",
     "featured": false,
     "variants": [
@@ -5657,7 +5370,6 @@
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/lino/e31706",
     "featured": false,
     "variants": [
@@ -5676,7 +5388,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1001-02",
     "featured": false,
     "variants": [
@@ -5702,7 +5413,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1003-01",
     "featured": false,
     "variants": [
@@ -5735,7 +5445,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1004-01",
     "featured": false,
     "variants": [
@@ -5768,7 +5477,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1006-04",
     "featured": false,
     "variants": [
@@ -5787,7 +5495,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1007-05",
     "featured": false,
     "variants": [
@@ -5806,7 +5513,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1008-01",
     "featured": false,
     "variants": [
@@ -5832,7 +5538,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1011-02",
     "featured": false,
     "variants": [
@@ -5858,7 +5563,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1012-01",
     "featured": false,
     "variants": [
@@ -5891,7 +5595,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1013-01",
     "featured": false,
     "variants": [
@@ -5917,7 +5620,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1015-01",
     "featured": false,
     "variants": [
@@ -5957,7 +5659,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1016-05",
     "featured": false,
     "variants": [
@@ -5976,7 +5677,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1017-02",
     "featured": false,
     "variants": [
@@ -5995,7 +5695,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1021-01",
     "featured": false,
     "variants": [
@@ -6028,7 +5727,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1023-04",
     "featured": false,
     "variants": [
@@ -6047,7 +5745,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1024-04",
     "featured": false,
     "variants": [
@@ -6066,7 +5763,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1025-03",
     "featured": false,
     "variants": [
@@ -6085,7 +5781,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1026-03",
     "featured": false,
     "variants": [
@@ -6111,7 +5806,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1030-03",
     "featured": false,
     "variants": [
@@ -6137,7 +5831,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1034-02",
     "featured": false,
     "variants": [
@@ -6163,7 +5856,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1036-03",
     "featured": false,
     "variants": [
@@ -6182,7 +5874,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1040-02",
     "featured": false,
     "variants": [
@@ -6201,7 +5892,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1041-04",
     "featured": false,
     "variants": [
@@ -6220,7 +5910,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1042-02",
     "featured": false,
     "variants": [
@@ -6246,7 +5935,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1043-01",
     "featured": false,
     "variants": [
@@ -6279,7 +5967,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1044-02",
     "featured": false,
     "variants": [
@@ -6305,7 +5992,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1046-03",
     "featured": false,
     "variants": [
@@ -6324,7 +6010,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1047-01",
     "featured": false,
     "variants": [
@@ -6350,7 +6035,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1049-01",
     "featured": false,
     "variants": [
@@ -6369,7 +6053,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1050-01",
     "featured": false,
     "variants": [
@@ -6409,7 +6092,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1052-01",
     "featured": false,
     "variants": [
@@ -6442,7 +6124,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1057-02",
     "featured": false,
     "variants": [
@@ -6468,7 +6149,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1059-01",
     "featured": false,
     "variants": [
@@ -6501,7 +6181,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1064-01",
     "featured": false,
     "variants": [
@@ -6520,7 +6199,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1065-03",
     "featured": false,
     "variants": [
@@ -6539,7 +6217,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1067-03",
     "featured": false,
     "variants": [
@@ -6558,7 +6235,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1068-01",
     "featured": false,
     "variants": [
@@ -6598,7 +6274,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1069-01",
     "featured": false,
     "variants": [
@@ -6624,7 +6299,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1070-01",
     "featured": false,
     "variants": [
@@ -6657,7 +6331,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1071-01",
     "featured": false,
     "variants": [
@@ -6690,7 +6363,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1072-02",
     "featured": false,
     "variants": [
@@ -6709,7 +6381,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1073-01",
     "featured": false,
     "variants": [
@@ -6756,7 +6427,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1074-02",
     "featured": false,
     "variants": [
@@ -6782,7 +6452,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1075-03",
     "featured": false,
     "variants": [
@@ -6801,7 +6470,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1076-01",
     "featured": false,
     "variants": [
@@ -6827,7 +6495,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1078-01",
     "featured": false,
     "variants": [
@@ -6867,7 +6534,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1079-01",
     "featured": false,
     "variants": [
@@ -6907,7 +6573,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1080-01",
     "featured": false,
     "variants": [
@@ -6940,7 +6605,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1081-02",
     "featured": false,
     "variants": [
@@ -6966,7 +6630,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1082-01",
     "featured": false,
     "variants": [
@@ -6985,7 +6648,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1084-02",
     "featured": false,
     "variants": [
@@ -7011,7 +6673,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1085-03",
     "featured": false,
     "variants": [
@@ -7037,7 +6698,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1087",
     "featured": false,
     "variants": [
@@ -7056,7 +6716,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1088-01",
     "featured": false,
     "variants": [
@@ -7082,7 +6741,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1090-04",
     "featured": false,
     "variants": [
@@ -7101,7 +6759,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1091-01",
     "featured": false,
     "variants": [
@@ -7134,7 +6791,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1092-01",
     "featured": false,
     "variants": [
@@ -7174,7 +6830,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1093-02",
     "featured": false,
     "variants": [
@@ -7207,7 +6862,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1094-01",
     "featured": false,
     "variants": [
@@ -7226,7 +6880,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1095-01",
     "featured": false,
     "variants": [
@@ -7273,7 +6926,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1096-01",
     "featured": false,
     "variants": [
@@ -7299,7 +6951,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1097-02",
     "featured": false,
     "variants": [
@@ -7332,7 +6983,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1098-01",
     "featured": false,
     "variants": [
@@ -7372,7 +7022,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1099-01",
     "featured": false,
     "variants": [
@@ -7412,7 +7061,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1100-01",
     "featured": false,
     "variants": [
@@ -7459,7 +7107,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1101-01",
     "featured": false,
     "variants": [
@@ -7506,7 +7153,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1102-01",
     "featured": false,
     "variants": [
@@ -7553,7 +7199,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1103-01",
     "featured": false,
     "variants": [
@@ -7572,7 +7217,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1104-01",
     "featured": false,
     "variants": [
@@ -7605,7 +7249,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1105-01",
     "featured": false,
     "variants": [
@@ -7624,7 +7267,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1106-01",
     "featured": false,
     "variants": [
@@ -7671,7 +7313,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1107-01",
     "featured": false,
     "variants": [
@@ -7725,7 +7366,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1108-01",
     "featured": false,
     "variants": [
@@ -7765,7 +7405,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1109-01",
     "featured": false,
     "variants": [
@@ -7805,7 +7444,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1110-01",
     "featured": false,
     "variants": [
@@ -7845,7 +7483,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1111-01",
     "featured": false,
     "variants": [
@@ -7885,7 +7522,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1112-01",
     "featured": false,
     "variants": [
@@ -7925,7 +7561,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1113-01",
     "featured": false,
     "variants": [
@@ -7965,7 +7600,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1114-01",
     "featured": false,
     "variants": [
@@ -8005,7 +7639,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1115-01",
     "featured": false,
     "variants": [
@@ -8052,7 +7685,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1116-01",
     "featured": false,
     "variants": [
@@ -8092,7 +7724,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1117-01",
     "featured": false,
     "variants": [
@@ -8125,7 +7756,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1118-01",
     "featured": false,
     "variants": [
@@ -8165,7 +7795,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1119-01",
     "featured": false,
     "variants": [
@@ -8205,7 +7834,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1120-01",
     "featured": false,
     "variants": [
@@ -8245,7 +7873,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1121-01",
     "featured": false,
     "variants": [
@@ -8285,7 +7912,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1122-01",
     "featured": false,
     "variants": [
@@ -8325,7 +7951,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1123-01",
     "featured": false,
     "variants": [
@@ -8365,7 +7990,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1124-01",
     "featured": false,
     "variants": [
@@ -8405,7 +8029,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1125-01",
     "featured": false,
     "variants": [
@@ -8445,7 +8068,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1126-01",
     "featured": false,
     "variants": [
@@ -8485,7 +8107,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1127-01",
     "featured": false,
     "variants": [
@@ -8525,7 +8146,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1128-01",
     "featured": false,
     "variants": [
@@ -8565,7 +8185,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1129-01",
     "featured": false,
     "variants": [
@@ -8605,7 +8224,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1130-01",
     "featured": false,
     "variants": [
@@ -8638,7 +8256,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1142-01",
     "featured": false,
     "variants": [
@@ -8678,7 +8295,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1143-01",
     "featured": false,
     "variants": [
@@ -8718,7 +8334,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1144-01",
     "featured": false,
     "variants": [
@@ -8758,7 +8373,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1145-01",
     "featured": false,
     "variants": [
@@ -8798,7 +8412,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1146-01",
     "featured": false,
     "variants": [
@@ -8838,7 +8451,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/6009-01",
     "featured": false,
     "variants": [
@@ -8857,7 +8469,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1131-01",
     "featured": false,
     "variants": [
@@ -8897,7 +8508,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1132-01",
     "featured": false,
     "variants": [
@@ -8937,7 +8547,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1133-01",
     "featured": false,
     "variants": [
@@ -8977,7 +8586,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1134-01",
     "featured": false,
     "variants": [
@@ -9017,7 +8625,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1135-01",
     "featured": false,
     "variants": [
@@ -9057,7 +8664,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1136-01",
     "featured": false,
     "variants": [
@@ -9097,7 +8703,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1137-01",
     "featured": false,
     "variants": [
@@ -9116,7 +8721,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1139-01",
     "featured": false,
     "variants": [
@@ -9156,7 +8760,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1140-01",
     "featured": false,
     "variants": [
@@ -9189,7 +8792,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/n1141-01",
     "featured": false,
     "variants": [
@@ -9229,7 +8831,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11000-01",
     "featured": false,
     "variants": [
@@ -9248,7 +8849,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11002-01",
     "featured": false,
     "variants": [
@@ -9267,7 +8867,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11003-01",
     "featured": false,
     "variants": [
@@ -9286,7 +8885,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11004-01",
     "featured": false,
     "variants": [
@@ -9312,7 +8910,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11005-01",
     "featured": false,
     "variants": [
@@ -9331,7 +8928,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11006-01",
     "featured": false,
     "variants": [
@@ -9350,7 +8946,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11007-01",
     "featured": false,
     "variants": [
@@ -9369,7 +8964,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11008-01",
     "featured": false,
     "variants": [
@@ -9388,7 +8982,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11020-01",
     "featured": false,
     "variants": [
@@ -9407,7 +9000,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11023-01",
     "featured": false,
     "variants": [
@@ -9426,7 +9018,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11024-01",
     "featured": false,
     "variants": [
@@ -9445,7 +9036,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11026-01",
     "featured": false,
     "variants": [
@@ -9464,7 +9054,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11035-01",
     "featured": false,
     "variants": [
@@ -9483,7 +9072,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11037-01",
     "featured": false,
     "variants": [
@@ -9502,7 +9090,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11038-01",
     "featured": false,
     "variants": [
@@ -9521,7 +9108,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11041-01",
     "featured": false,
     "variants": [
@@ -9540,7 +9126,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11045-01",
     "featured": false,
     "variants": [
@@ -9559,7 +9144,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11049-01",
     "featured": false,
     "variants": [
@@ -9578,7 +9162,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11055-01",
     "featured": false,
     "variants": [
@@ -9597,7 +9180,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11059-01",
     "featured": false,
     "variants": [
@@ -9616,7 +9198,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11074-01",
     "featured": false,
     "variants": [
@@ -9635,7 +9216,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11107-02",
     "featured": false,
     "variants": [
@@ -9654,7 +9234,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11627-01",
     "featured": false,
     "variants": [
@@ -9673,7 +9252,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11630-01",
     "featured": false,
     "variants": [
@@ -9692,7 +9270,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11633-01",
     "featured": false,
     "variants": [
@@ -9711,7 +9288,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11639-01",
     "featured": false,
     "variants": [
@@ -9730,7 +9306,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11644-01",
     "featured": false,
     "variants": [
@@ -9749,7 +9324,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11647-01",
     "featured": false,
     "variants": [
@@ -9768,7 +9342,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/11653-01",
     "featured": false,
     "variants": [
@@ -9787,7 +9360,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/12347-01",
     "featured": false,
     "variants": [
@@ -9806,7 +9378,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/12638-01",
     "featured": false,
     "variants": [
@@ -9825,7 +9396,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15234-02",
     "featured": false,
     "variants": [
@@ -9844,7 +9414,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15336-25",
     "featured": false,
     "variants": [
@@ -9863,7 +9432,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15337-01",
     "featured": false,
     "variants": [
@@ -9882,7 +9450,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15378-01",
     "featured": false,
     "variants": [
@@ -9901,7 +9468,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15384-02",
     "featured": false,
     "variants": [
@@ -9920,7 +9486,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15386-03",
     "featured": false,
     "variants": [
@@ -9939,7 +9504,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15387-01",
     "featured": false,
     "variants": [
@@ -9958,7 +9522,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15395-01",
     "featured": false,
     "variants": [
@@ -9977,7 +9540,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15396-01",
     "featured": false,
     "variants": [
@@ -9996,7 +9558,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15400-02",
     "featured": false,
     "variants": [
@@ -10015,7 +9576,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15411-06",
     "featured": false,
     "variants": [
@@ -10034,7 +9594,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15452-02",
     "featured": false,
     "variants": [
@@ -10053,7 +9612,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15474-01",
     "featured": false,
     "variants": [
@@ -10072,7 +9630,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15491-04",
     "featured": false,
     "variants": [
@@ -10091,7 +9648,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15496-06",
     "featured": false,
     "variants": [
@@ -10110,7 +9666,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15498-05",
     "featured": false,
     "variants": [
@@ -10129,7 +9684,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15506-01",
     "featured": false,
     "variants": [
@@ -10148,7 +9702,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15507-01",
     "featured": false,
     "variants": [
@@ -10167,7 +9720,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15513-01",
     "featured": false,
     "variants": [
@@ -10186,7 +9738,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15517-01",
     "featured": false,
     "variants": [
@@ -10205,7 +9756,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15544-01",
     "featured": false,
     "variants": [
@@ -10224,7 +9774,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15546-01",
     "featured": false,
     "variants": [
@@ -10243,7 +9792,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15548-01",
     "featured": false,
     "variants": [
@@ -10262,7 +9810,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15552-03",
     "featured": false,
     "variants": [
@@ -10281,7 +9828,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21227-01",
     "featured": false,
     "variants": [
@@ -10300,7 +9846,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21671-01",
     "featured": false,
     "variants": [
@@ -10319,7 +9864,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/21713-02",
     "featured": false,
     "variants": [
@@ -10338,7 +9882,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25020-05",
     "featured": false,
     "variants": [
@@ -10357,7 +9900,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25031-02",
     "featured": false,
     "variants": [
@@ -10376,7 +9918,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25035-01",
     "featured": false,
     "variants": [
@@ -10395,7 +9936,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25046-03",
     "featured": false,
     "variants": [
@@ -10414,7 +9954,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25099-01",
     "featured": false,
     "variants": [
@@ -10433,7 +9972,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25212-04",
     "featured": false,
     "variants": [
@@ -10452,7 +9990,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25213-03",
     "featured": false,
     "variants": [
@@ -10471,7 +10008,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25214-02",
     "featured": false,
     "variants": [
@@ -10490,7 +10026,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25220-04",
     "featured": false,
     "variants": [
@@ -10509,7 +10044,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25244-02",
     "featured": false,
     "variants": [
@@ -10528,7 +10062,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/25303-01",
     "featured": false,
     "variants": [
@@ -10579,7 +10112,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10620,7 +10152,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10668,7 +10199,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10695,7 +10225,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10743,7 +10272,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10770,7 +10298,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10790,7 +10317,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10824,7 +10350,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10865,7 +10390,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10913,7 +10437,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10961,7 +10484,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -10995,7 +10517,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -11036,7 +10557,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -11077,7 +10597,6 @@
     "look": "wood",
     "line": "decorative",
     "featured": false,
-    "supplier": "Baaya",
     "source_url": null
   },
   {
@@ -11086,7 +10605,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4001-02",
     "featured": false,
     "variants": [
@@ -11105,7 +10623,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4002-01",
     "featured": false,
     "variants": [
@@ -11138,7 +10655,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4003-02",
     "featured": false,
     "variants": [
@@ -11171,7 +10687,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4004-02",
     "featured": false,
     "variants": [
@@ -11197,7 +10712,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4005-01",
     "featured": false,
     "variants": [
@@ -11230,7 +10744,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4006-01",
     "featured": false,
     "variants": [
@@ -11263,7 +10776,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4007-01",
     "featured": false,
     "variants": [
@@ -11296,7 +10808,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4010-01",
     "featured": false,
     "variants": [
@@ -11329,7 +10840,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4012-01",
     "featured": false,
     "variants": [
@@ -11369,7 +10879,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4014-02",
     "featured": false,
     "variants": [
@@ -11395,7 +10904,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4015-01",
     "featured": false,
     "variants": [
@@ -11435,7 +10943,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4016-03",
     "featured": false,
     "variants": [
@@ -11461,7 +10968,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4017-02",
     "featured": false,
     "variants": [
@@ -11487,7 +10993,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4019-02",
     "featured": false,
     "variants": [
@@ -11506,7 +11011,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4021-02",
     "featured": false,
     "variants": [
@@ -11525,7 +11029,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4022-01",
     "featured": false,
     "variants": [
@@ -11565,7 +11068,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4023-01",
     "featured": false,
     "variants": [
@@ -11591,7 +11093,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4024-01",
     "featured": false,
     "variants": [
@@ -11624,7 +11125,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4025-01",
     "featured": false,
     "variants": [
@@ -11657,7 +11157,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4026-01",
     "featured": false,
     "variants": [
@@ -11697,7 +11196,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4027-02",
     "featured": false,
     "variants": [
@@ -11723,7 +11221,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4028-01",
     "featured": false,
     "variants": [
@@ -11763,7 +11260,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4029-01",
     "featured": false,
     "variants": [
@@ -11803,7 +11299,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4030-01",
     "featured": false,
     "variants": [
@@ -11836,7 +11331,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4031-03",
     "featured": false,
     "variants": [
@@ -11862,7 +11356,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4032-02",
     "featured": false,
     "variants": [
@@ -11888,7 +11381,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4033-01",
     "featured": false,
     "variants": [
@@ -11928,7 +11420,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4034-02",
     "featured": false,
     "variants": [
@@ -11947,7 +11438,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4035-01",
     "featured": false,
     "variants": [
@@ -11973,7 +11463,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4036-01",
     "featured": false,
     "variants": [
@@ -12006,7 +11495,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4036-04-peacock-wood",
     "featured": false,
     "variants": [
@@ -12025,7 +11513,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4037-01",
     "featured": false,
     "variants": [
@@ -12065,7 +11552,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4038-01",
     "featured": false,
     "variants": [
@@ -12105,7 +11591,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4039-01",
     "featured": false,
     "variants": [
@@ -12145,7 +11630,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4041-01",
     "featured": false,
     "variants": [
@@ -12185,7 +11669,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4042-01",
     "featured": false,
     "variants": [
@@ -12225,7 +11708,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4043-03",
     "featured": false,
     "variants": [
@@ -12244,7 +11726,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4044-02",
     "featured": false,
     "variants": [
@@ -12263,7 +11744,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4046-01",
     "featured": false,
     "variants": [
@@ -12303,7 +11783,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4047-01",
     "featured": false,
     "variants": [
@@ -12336,7 +11815,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4049-02",
     "featured": false,
     "variants": [
@@ -12369,7 +11847,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4050-02",
     "featured": false,
     "variants": [
@@ -12402,7 +11879,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4051-01",
     "featured": false,
     "variants": [
@@ -12435,7 +11911,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4052-03",
     "featured": false,
     "variants": [
@@ -12461,7 +11936,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4053-01",
     "featured": false,
     "variants": [
@@ -12494,7 +11968,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4054-03",
     "featured": false,
     "variants": [
@@ -12513,7 +11986,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4055-02",
     "featured": false,
     "variants": [
@@ -12539,7 +12011,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4060-02",
     "featured": false,
     "variants": [
@@ -12565,7 +12036,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4061-01",
     "featured": false,
     "variants": [
@@ -12598,7 +12068,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4062-02",
     "featured": false,
     "variants": [
@@ -12631,7 +12100,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4063-02",
     "featured": false,
     "variants": [
@@ -12664,7 +12132,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4064",
     "featured": false,
     "variants": [
@@ -12711,7 +12178,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4065-01",
     "featured": false,
     "variants": [
@@ -12751,7 +12217,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4066-01",
     "featured": false,
     "variants": [
@@ -12791,7 +12256,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4067-01",
     "featured": false,
     "variants": [
@@ -12810,7 +12274,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4068-03",
     "featured": false,
     "variants": [
@@ -12829,7 +12292,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4069-04",
     "featured": false,
     "variants": [
@@ -12848,7 +12310,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4070-01",
     "featured": false,
     "variants": [
@@ -12881,7 +12342,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4071-02",
     "featured": false,
     "variants": [
@@ -12914,7 +12374,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4072-01",
     "featured": false,
     "variants": [
@@ -12947,7 +12406,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4073-02",
     "featured": false,
     "variants": [
@@ -12973,7 +12431,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4074-01",
     "featured": false,
     "variants": [
@@ -13006,7 +12463,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4075-01",
     "featured": false,
     "variants": [
@@ -13039,7 +12495,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4077-01",
     "featured": false,
     "variants": [
@@ -13079,7 +12534,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4078-02",
     "featured": false,
     "variants": [
@@ -13112,7 +12566,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4079-01",
     "featured": false,
     "variants": [
@@ -13152,7 +12605,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4080-02",
     "featured": false,
     "variants": [
@@ -13185,7 +12637,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4081-01",
     "featured": false,
     "variants": [
@@ -13225,7 +12676,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4082-04",
     "featured": false,
     "variants": [
@@ -13244,7 +12694,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4083-01",
     "featured": false,
     "variants": [
@@ -13270,7 +12719,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4086-01",
     "featured": false,
     "variants": [
@@ -13310,7 +12758,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4087-01",
     "featured": false,
     "variants": [
@@ -13350,7 +12797,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4088-01",
     "featured": false,
     "variants": [
@@ -13383,7 +12829,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4089-03",
     "featured": false,
     "variants": [
@@ -13402,7 +12847,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4090-01",
     "featured": false,
     "variants": [
@@ -13442,7 +12886,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4092-01",
     "featured": false,
     "variants": [
@@ -13468,7 +12911,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4093-02",
     "featured": false,
     "variants": [
@@ -13487,7 +12929,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4094-02",
     "featured": false,
     "variants": [
@@ -13513,7 +12954,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4096-01",
     "featured": false,
     "variants": [
@@ -13539,7 +12979,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4097-02",
     "featured": false,
     "variants": [
@@ -13565,7 +13004,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4098-01",
     "featured": false,
     "variants": [
@@ -13591,7 +13029,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4099-02",
     "featured": false,
     "variants": [
@@ -13610,7 +13047,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4100-01",
     "featured": false,
     "variants": [
@@ -13643,7 +13079,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4101-01",
     "featured": false,
     "variants": [
@@ -13676,7 +13111,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4102-01",
     "featured": false,
     "variants": [
@@ -13702,7 +13136,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4103-01",
     "featured": false,
     "variants": [
@@ -13742,7 +13175,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4104-01",
     "featured": false,
     "variants": [
@@ -13782,7 +13214,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4105-01",
     "featured": false,
     "variants": [
@@ -13808,7 +13239,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4106-01",
     "featured": false,
     "variants": [
@@ -13848,7 +13278,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4107-01",
     "featured": false,
     "variants": [
@@ -13888,7 +13317,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4108-02",
     "featured": false,
     "variants": [
@@ -13914,7 +13342,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4109-01",
     "featured": false,
     "variants": [
@@ -13940,7 +13367,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4110-01",
     "featured": false,
     "variants": [
@@ -13973,7 +13399,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4111-01",
     "featured": false,
     "variants": [
@@ -13999,7 +13424,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4112-01",
     "featured": false,
     "variants": [
@@ -14039,7 +13463,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4113-01",
     "featured": false,
     "variants": [
@@ -14079,7 +13502,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4114-01",
     "featured": false,
     "variants": [
@@ -14112,7 +13534,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4116-01",
     "featured": false,
     "variants": [
@@ -14145,7 +13566,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4117-01",
     "featured": false,
     "variants": [
@@ -14185,7 +13605,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4118-02",
     "featured": false,
     "variants": [
@@ -14204,7 +13623,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4119-02",
     "featured": false,
     "variants": [
@@ -14237,7 +13655,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4120-02",
     "featured": false,
     "variants": [
@@ -14263,7 +13680,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4121-01",
     "featured": false,
     "variants": [
@@ -14303,7 +13719,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4122-01",
     "featured": false,
     "variants": [
@@ -14343,7 +13758,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4123-01",
     "featured": false,
     "variants": [
@@ -14376,7 +13790,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4124-01",
     "featured": false,
     "variants": [
@@ -14409,7 +13822,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4125-01",
     "featured": false,
     "variants": [
@@ -14442,7 +13854,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4126-01",
     "featured": false,
     "variants": [
@@ -14482,7 +13893,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4127-01",
     "featured": false,
     "variants": [
@@ -14522,7 +13932,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4128-01",
     "featured": false,
     "variants": [
@@ -14555,7 +13964,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4129-01",
     "featured": false,
     "variants": [
@@ -14595,7 +14003,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4130-01",
     "featured": false,
     "variants": [
@@ -14635,7 +14042,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4131-02",
     "featured": false,
     "variants": [
@@ -14661,7 +14067,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4132-01",
     "featured": false,
     "variants": [
@@ -14701,7 +14106,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4133",
     "featured": false,
     "variants": [
@@ -14748,7 +14152,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4134-01",
     "featured": false,
     "variants": [
@@ -14774,7 +14177,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4135-01",
     "featured": false,
     "variants": [
@@ -14814,7 +14216,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4136-01",
     "featured": false,
     "variants": [
@@ -14854,7 +14255,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4139-01",
     "featured": false,
     "variants": [
@@ -14894,7 +14294,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4140-01",
     "featured": false,
     "variants": [
@@ -14934,7 +14333,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4141-01",
     "featured": false,
     "variants": [
@@ -14974,7 +14372,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4142-01",
     "featured": false,
     "variants": [
@@ -15014,7 +14411,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4143-02",
     "featured": false,
     "variants": [
@@ -15040,7 +14436,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4144-01",
     "featured": false,
     "variants": [
@@ -15080,7 +14475,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4145-01",
     "featured": false,
     "variants": [
@@ -15120,7 +14514,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4146-01",
     "featured": false,
     "variants": [
@@ -15139,7 +14532,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4147-01",
     "featured": false,
     "variants": [
@@ -15179,7 +14571,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4148-01",
     "featured": false,
     "variants": [
@@ -15219,7 +14610,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4149-01",
     "featured": false,
     "variants": [
@@ -15259,7 +14649,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4150-01",
     "featured": false,
     "variants": [
@@ -15299,7 +14688,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4151-01",
     "featured": false,
     "variants": [
@@ -15339,7 +14727,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4152-01",
     "featured": false,
     "variants": [
@@ -15379,7 +14766,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4153-01",
     "featured": false,
     "variants": [
@@ -15426,7 +14812,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4154-01",
     "featured": false,
     "variants": [
@@ -15445,7 +14830,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4155-01",
     "featured": false,
     "variants": [
@@ -15471,7 +14855,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4157-01",
     "featured": false,
     "variants": [
@@ -15490,7 +14873,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4158-01",
     "featured": false,
     "variants": [
@@ -15530,7 +14912,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4159-01",
     "featured": false,
     "variants": [
@@ -15570,7 +14951,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4160-01",
     "featured": false,
     "variants": [
@@ -15610,7 +14990,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4161-01",
     "featured": false,
     "variants": [
@@ -15650,7 +15029,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4162-01",
     "featured": false,
     "variants": [
@@ -15690,7 +15068,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4163-01",
     "featured": false,
     "variants": [
@@ -15723,7 +15100,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4164-01",
     "featured": false,
     "variants": [
@@ -15756,7 +15132,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4165-01",
     "featured": false,
     "variants": [
@@ -15803,7 +15178,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4166-01",
     "featured": false,
     "variants": [
@@ -15843,7 +15217,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4167-01",
     "featured": false,
     "variants": [
@@ -15883,7 +15256,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4168-01",
     "featured": false,
     "variants": [
@@ -15923,7 +15295,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4169-01",
     "featured": false,
     "variants": [
@@ -15963,7 +15334,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4170-01",
     "featured": false,
     "variants": [
@@ -16003,7 +15373,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4171-01",
     "featured": false,
     "variants": [
@@ -16043,7 +15412,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4172-01",
     "featured": false,
     "variants": [
@@ -16083,7 +15451,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4173-01",
     "featured": false,
     "variants": [
@@ -16102,7 +15469,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4174-01",
     "featured": false,
     "variants": [
@@ -16135,7 +15501,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4175-01",
     "featured": false,
     "variants": [
@@ -16154,7 +15519,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4176-01",
     "featured": false,
     "variants": [
@@ -16187,7 +15551,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4177-01",
     "featured": false,
     "variants": [
@@ -16227,7 +15590,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4178-01",
     "featured": false,
     "variants": [
@@ -16253,7 +15615,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4179-01",
     "featured": false,
     "variants": [
@@ -16293,7 +15654,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/418",
     "featured": false,
     "variants": [
@@ -16312,7 +15672,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4180-01",
     "featured": false,
     "variants": [
@@ -16352,7 +15711,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4181-01",
     "featured": false,
     "variants": [
@@ -16392,7 +15750,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4182-01",
     "featured": false,
     "variants": [
@@ -16432,7 +15789,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4184-01",
     "featured": false,
     "variants": [
@@ -16472,7 +15828,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4185-01",
     "featured": false,
     "variants": [
@@ -16512,7 +15867,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4186-01",
     "featured": false,
     "variants": [
@@ -16552,7 +15906,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4187-01",
     "featured": false,
     "variants": [
@@ -16592,7 +15945,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4188-01",
     "featured": false,
     "variants": [
@@ -16618,7 +15970,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4189-01",
     "featured": false,
     "variants": [
@@ -16651,7 +16002,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/419",
     "featured": false,
     "variants": [
@@ -16670,7 +16020,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4190-01",
     "featured": false,
     "variants": [
@@ -16710,7 +16059,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4191-01",
     "featured": false,
     "variants": [
@@ -16743,7 +16091,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4192-01",
     "featured": false,
     "variants": [
@@ -16783,7 +16130,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4193-01",
     "featured": false,
     "variants": [
@@ -16830,7 +16176,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4194-01",
     "featured": false,
     "variants": [
@@ -16870,7 +16215,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4195-01",
     "featured": false,
     "variants": [
@@ -16910,7 +16254,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4196-01",
     "featured": false,
     "variants": [
@@ -16950,7 +16293,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4197-01",
     "featured": false,
     "variants": [
@@ -16990,7 +16332,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4198-01",
     "featured": false,
     "variants": [
@@ -17016,7 +16357,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4199-01",
     "featured": false,
     "variants": [
@@ -17035,7 +16375,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/420",
     "featured": false,
     "variants": [
@@ -17054,7 +16393,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4200-01",
     "featured": false,
     "variants": [
@@ -17094,7 +16432,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4201-01",
     "featured": false,
     "variants": [
@@ -17120,7 +16457,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4202-01",
     "featured": false,
     "variants": [
@@ -17160,7 +16496,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4203-01",
     "featured": false,
     "variants": [
@@ -17200,7 +16535,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4204-01",
     "featured": false,
     "variants": [
@@ -17240,7 +16574,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4205-01",
     "featured": false,
     "variants": [
@@ -17280,7 +16613,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4206-01",
     "featured": false,
     "variants": [
@@ -17320,7 +16652,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4207-01",
     "featured": false,
     "variants": [
@@ -17360,7 +16691,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4208-01",
     "featured": false,
     "variants": [
@@ -17393,7 +16723,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4208-02-v",
     "featured": false,
     "variants": [
@@ -17412,7 +16741,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4209-01",
     "featured": false,
     "variants": [
@@ -17452,7 +16780,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/421",
     "featured": false,
     "variants": [
@@ -17471,7 +16798,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4210-01",
     "featured": false,
     "variants": [
@@ -17511,7 +16837,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4211-01",
     "featured": false,
     "variants": [
@@ -17551,7 +16876,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4212-02",
     "featured": false,
     "variants": [
@@ -17577,7 +16901,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4213-01",
     "featured": false,
     "variants": [
@@ -17596,7 +16919,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4214-01",
     "featured": false,
     "variants": [
@@ -17629,7 +16951,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/422",
     "featured": false,
     "variants": [
@@ -17648,7 +16969,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4269-01",
     "featured": false,
     "variants": [
@@ -17688,7 +17008,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4270-01",
     "featured": false,
     "variants": [
@@ -17735,7 +17054,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4271-01",
     "featured": false,
     "variants": [
@@ -17754,7 +17072,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4272-01",
     "featured": false,
     "variants": [
@@ -17787,7 +17104,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4273-01",
     "featured": false,
     "variants": [
@@ -17827,7 +17143,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4274-01",
     "featured": false,
     "variants": [
@@ -17867,7 +17182,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4275-01",
     "featured": false,
     "variants": [
@@ -17907,7 +17221,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4276-01",
     "featured": false,
     "variants": [
@@ -17947,7 +17260,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4277-01",
     "featured": false,
     "variants": [
@@ -17994,7 +17306,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4278-01",
     "featured": false,
     "variants": [
@@ -18034,7 +17345,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4279-01",
     "featured": false,
     "variants": [
@@ -18081,7 +17391,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4280-01",
     "featured": false,
     "variants": [
@@ -18121,7 +17430,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4281-01",
     "featured": false,
     "variants": [
@@ -18161,7 +17469,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4282-01",
     "featured": false,
     "variants": [
@@ -18201,7 +17508,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4291-01",
     "featured": false,
     "variants": [
@@ -18241,7 +17547,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4292-01",
     "featured": false,
     "variants": [
@@ -18281,7 +17586,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4215-01",
     "featured": false,
     "variants": [
@@ -18321,7 +17625,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4216-01",
     "featured": false,
     "variants": [
@@ -18361,7 +17664,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4217-01",
     "featured": false,
     "variants": [
@@ -18401,7 +17703,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4218-01",
     "featured": false,
     "variants": [
@@ -18441,7 +17742,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4219-01",
     "featured": false,
     "variants": [
@@ -18481,7 +17781,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4220-01",
     "featured": false,
     "variants": [
@@ -18521,7 +17820,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4221-01",
     "featured": false,
     "variants": [
@@ -18561,7 +17859,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4222-01",
     "featured": false,
     "variants": [
@@ -18601,7 +17898,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4224-01",
     "featured": false,
     "variants": [
@@ -18641,7 +17937,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4226-01",
     "featured": false,
     "variants": [
@@ -18681,7 +17976,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4228-01",
     "featured": false,
     "variants": [
@@ -18721,7 +18015,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4229-01",
     "featured": false,
     "variants": [
@@ -18761,7 +18054,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4230-01",
     "featured": false,
     "variants": [
@@ -18801,7 +18093,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4231-01",
     "featured": false,
     "variants": [
@@ -18834,7 +18125,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4232-03",
     "featured": false,
     "variants": [
@@ -18867,7 +18157,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4243-01",
     "featured": false,
     "variants": [
@@ -18886,7 +18175,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4247-02",
     "featured": false,
     "variants": [
@@ -18905,7 +18193,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/v4261-03",
     "featured": false,
     "variants": [
@@ -18960,7 +18247,6 @@
     "series": "NXT",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/m-g-nxt/15062-03",
     "featured": false,
     "variants": [
@@ -18979,7 +18265,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4267-02",
     "featured": false,
     "variants": [
@@ -19019,7 +18304,6 @@
     "series": "NATURAL",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/natural-decor/1028-04",
     "featured": false,
     "variants": [
@@ -19038,7 +18322,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4266-02",
     "featured": false,
     "variants": [
@@ -19071,7 +18354,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4265-01",
     "featured": false,
     "variants": [
@@ -19097,7 +18379,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4264-01",
     "featured": false,
     "variants": [
@@ -19130,7 +18411,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4263-01",
     "featured": false,
     "variants": [
@@ -19163,7 +18443,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4262-01",
     "featured": false,
     "variants": [
@@ -19203,7 +18482,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4261-01",
     "featured": false,
     "variants": [
@@ -19236,7 +18514,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4260-01",
     "featured": false,
     "variants": [
@@ -19276,7 +18553,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4259-02",
     "featured": false,
     "variants": [
@@ -19309,7 +18585,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4258-01",
     "featured": false,
     "variants": [
@@ -19349,7 +18624,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4257-04",
     "featured": false,
     "variants": [
@@ -19389,7 +18663,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4255-01",
     "featured": false,
     "variants": [
@@ -19429,7 +18702,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4254-02",
     "featured": false,
     "variants": [
@@ -19469,7 +18741,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4252-01",
     "featured": false,
     "variants": [
@@ -19502,7 +18773,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4253-01",
     "featured": false,
     "variants": [
@@ -19542,7 +18812,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4251-01",
     "featured": false,
     "variants": [
@@ -19561,7 +18830,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4250-01",
     "featured": false,
     "variants": [
@@ -19601,7 +18869,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4249-01",
     "featured": false,
     "variants": [
@@ -19641,7 +18908,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4247-01",
     "featured": false,
     "variants": [
@@ -19667,7 +18933,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4246-01",
     "featured": false,
     "variants": [
@@ -19707,7 +18972,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4245-01",
     "featured": false,
     "variants": [
@@ -19726,7 +18990,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4244-02",
     "featured": false,
     "variants": [
@@ -19766,7 +19029,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4243-02",
     "featured": false,
     "variants": [
@@ -19792,7 +19054,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4241-01",
     "featured": false,
     "variants": [
@@ -19811,7 +19072,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4242-01",
     "featured": false,
     "variants": [
@@ -19830,7 +19090,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4240-01",
     "featured": false,
     "variants": [
@@ -19849,7 +19108,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4239-01",
     "featured": false,
     "variants": [
@@ -19896,7 +19154,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4238-01",
     "featured": false,
     "variants": [
@@ -19943,7 +19200,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4236-01",
     "featured": false,
     "variants": [
@@ -19983,7 +19239,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4235-01",
     "featured": false,
     "variants": [
@@ -20023,7 +19278,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4234-01",
     "featured": false,
     "variants": [
@@ -20063,7 +19317,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4233-01",
     "featured": false,
     "variants": [
@@ -20103,7 +19356,6 @@
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
-    "supplier": "Match Graphics",
     "source_url": "https://lamital.in/matchgraphics/product/vogue/4232-01",
     "featured": false,
     "variants": [

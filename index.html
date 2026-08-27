@@ -71,13 +71,13 @@
   <header>
     <div class="kicker">Decorative cement fiberboard · Trade catalog</div>
     <h1>World’s largest PVC-free decorative cement fiberboard collection.</h1>
-    <p class="sub">Polymer Paper Composite laminated onto 4×4 ft cement fiber boards. Trade codes end <strong>MG</strong> or <strong>BY</strong>. Click any design to open the board sheet.</p>
+    <p class="sub">Polymer Paper Composite laminated onto 4×4 ft cement fiber boards. Click any design to open the board sheet.</p>
     <div class="stats"><div><div class="lab">Opening order</div><div class="num">200,000 tiles</div><div class="hint">3.2M sq ft · ≈ 46 mill blocks</div></div><div><div class="lab">1 mill block</div><div class="num">5,333 m</div><div class="hint">1,220 mm web · 70,033 sq ft · 4,377 of the 4×4 boards</div></div></div>
   </header>
-  <div class="toolbar"><input id="q" type="search" placeholder="Search name, SKU, MG or BY code…" /><div class="pills" id="pills"></div><span id="count"></span></div>
+  <div class="toolbar"><input id="q" type="search" placeholder="Search name or trade code…" /><div class="pills" id="pills"></div><span id="count"></span></div>
   <div class="grid" id="grid"></div>
   <button class="more" id="more" hidden>Load more</button>
-  <footer>Help: <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a> · MG = Match Graphics · BY = Baaya · MIPPC / MIPFC are underside insulation, not face finishes.</footer>
+  <footer>Help: <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a> · MIPPC / MIPFC are underside insulation, not face finishes.</footer>
   <div id="lb" role="dialog" aria-modal="true"><div class="sheet"><img class="hero" id="lbImg" alt="" /><div class="copy"><div class="series" id="lbSeries"></div><h2 id="lbName"></h2><div class="code" id="lbCode"></div><p class="sub" id="lbNote" style="margin-top:12px"></p><div class="thumbs" id="lbThumbs"></div><div class="actions"><a id="lbMail" class="primary" href="mailto:jitpolycoat@gmail.com">Enquire</a><button type="button" id="lbClose">Close</button></div></div></div></div>
   <script>
     const CDN = "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/";
@@ -98,10 +98,7 @@
       return parts[0] + "-" + parts[1] + "-" + ((v && v.sku) || parts[2]) + "-" + parts[parts.length - 1];
     }
     function sourceLabel(d) {
-      const suf = String(d.mcode || "").split("-").pop();
-      if (suf === "BY") return "Baaya";
-      if (suf === "MG") return "Match Graphics";
-      return suf || "";
+      return d.series || "";
     }
     function imgUrl(hi) {
       const path = String(hi || "").replace(/^\//, "");
@@ -128,7 +125,7 @@
         else if (ser && d.series !== ser) return false;
         if (ser && ser !== "INSULATION" && d.line === "underside") return false;
         if (!query) return true;
-        const blob = [d.name, d.mcode, d.series, sourceLabel(d), ...(d.variants || []).flatMap((v) => [v.sku, tradeCode(d, v)])].join(" ").toLowerCase();
+        const blob = [d.name, d.mcode, d.series, ...(d.variants || []).flatMap((v) => [v.sku, tradeCode(d, v)])].join(" ").toLowerCase();
         return blob.includes(query);
       });
       filtered.sort((a, b) => Number(!!b.featured) - Number(!!a.featured));
@@ -142,7 +139,7 @@
         const el = document.createElement("article");
         el.dataset.mcode = d.mcode;
         el.setAttribute("role", "button"); el.tabIndex = 0;
-        el.innerHTML = `<img loading="lazy" alt="${esc(d.name)}" src="${imgUrl(v.hi)}" /><span class="open-hint">Open board</span><div class="meta">${d.featured ? `<div class="feat">Featured</div>` : ""}<div class="series">${esc(d.series)} · ${esc(sourceLabel(d))}</div><h3>${esc(d.name)}</h3><div class="sku">${esc(v.sku)} · ${esc(code)}</div></div>`;
+        el.innerHTML = `<img loading="lazy" alt="${esc(d.name)}" src="${imgUrl(v.hi)}" /><span class="open-hint">Open board</span><div class="meta">${d.featured ? `<div class="feat">Featured</div>` : ""}<div class="series">${esc(d.series)}</div><h3>${esc(d.name)}</h3><div class="sku">${esc(v.sku)} · ${esc(code)}</div></div>`;
         el.querySelector("img").addEventListener("error", function(){ this.src = "./" + String(v.hi || "").replace(/^\//, ""); });
         el.addEventListener("click", () => openDesign(d));
         el.addEventListener("keydown", (ev) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); openDesign(d); } });
@@ -165,7 +162,7 @@
       const code = tradeCode(d, v);
       document.getElementById("lbImg").src = imgUrl(v.hi);
       document.getElementById("lbImg").alt = (d.name || "") + " " + code;
-      document.getElementById("lbSeries").textContent = (d.series || "") + " · " + sourceLabel(d);
+      document.getElementById("lbSeries").textContent = d.series || "";
       document.getElementById("lbName").textContent = d.name || v.sku;
       document.getElementById("lbCode").textContent = (v.sku || "") + " · " + code;
       document.getElementById("lbNote").textContent = d.line === "underside"
