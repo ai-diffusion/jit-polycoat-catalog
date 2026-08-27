@@ -4,152 +4,87 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Jit Polycoat Enterprise — Decorative cement fiberboard catalog</title>
-  <meta name="description" content="World’s largest decorative cement fiberboard catalog. 750 real designs, 1,587 SKUs. PVC-free, VOC-free Polymer Paper Composite. Trade codes end MG or BY." />
+  <meta name="description" content="World’s largest decorative cement fiberboard catalog. 750 real designs. Click a board to open the design sheet." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=IBM+Plex+Mono:wght@400;500&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
   <style>
-    :root {
-      --bg: #f3eee4;
-      --ink: #0e0c0a;
-      --fg: #161310;
-      --muted: #7a7268;
-      --line: #ddd4c6;
-      --card: #fbfaf6;
-      --walnut: #6f4a2e;
-      --accent: #c4b09a;
-    }
+    :root { --bg:#f3eee4; --ink:#0e0c0a; --fg:#161310; --muted:#7a7268; --line:#ddd4c6; --card:#fbfaf6; --walnut:#6f4a2e; --accent:#c4b09a; }
     * { box-sizing: border-box; }
-    html, body { margin: 0; background: var(--bg); color: var(--fg); }
-    body { font: 15px/1.5 Outfit, ui-sans-serif, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
-    a { color: var(--walnut); }
-    button:not(:disabled), [role="button"] { cursor: pointer; }
-    .bar {
-      background: var(--ink); color: var(--card);
-      padding: 10px 24px;
-    }
-    .bar-inner { max-width: 1280px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: baseline; justify-content: space-between; }
-    .bar .brand { font-family: "Cormorant Garamond", Georgia, serif; font-size: 17px; letter-spacing: 0.02em; }
-    .bar .meta { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); }
-    .bar a { color: var(--card); }
-    header { padding: 36px 24px 18px; max-width: 1280px; margin: 0 auto; }
-    .kicker { font-family: "IBM Plex Mono", ui-monospace, monospace; letter-spacing: 0.2em; text-transform: uppercase; font-size: 11px; color: var(--walnut); }
-    h1 { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 500; font-size: clamp(32px, 5vw, 52px); line-height: 1.08; margin: 10px 0 12px; max-width: 18ch; }
-    .sub { color: var(--muted); max-width: 62ch; margin: 0; }
-    .stats { display: grid; grid-template-columns: 1fr; margin-top: 28px; max-width: 640px; border: 1px solid var(--line); background: var(--card); }
-    @media (min-width: 640px) { .stats { grid-template-columns: 1fr 1fr; } }
-    .stats div { padding: 16px 18px; }
-    .stats div + div { border-top: 1px solid var(--line); }
-    @media (min-width: 640px) { .stats div + div { border-top: 0; border-left: 1px solid var(--line); } }
-    .stats .lab { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--walnut); }
-    .stats .num { font-family: "Cormorant Garamond", Georgia, serif; font-size: 28px; margin-top: 4px; }
-    .stats .hint { font-size: 12px; color: var(--muted); margin-top: 4px; }
-    .toolbar { display: flex; flex-wrap: wrap; gap: 8px; padding: 8px 24px 18px; max-width: 1280px; margin: 0 auto; align-items: center; }
-    input[type="search"] {
-      flex: 1; min-width: 200px; max-width: 360px; height: 44px;
-      background: var(--card); color: var(--fg); border: 1px solid var(--line);
-      padding: 0 14px; font: 13px/1 "IBM Plex Mono", ui-monospace, monospace;
-    }
-    input[type="search"]:focus { outline: none; border-color: var(--ink); }
-    .pills { display: flex; flex-wrap: wrap; gap: 6px; }
-    .pills button {
-      height: 44px; padding: 0 12px; border: 1px solid var(--line); background: var(--card);
-      font: 11px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted);
-    }
-    .pills button.on { background: var(--ink); color: var(--card); border-color: var(--ink); }
-    #count { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; padding: 0 24px 48px; max-width: 1280px; margin: 0 auto; }
-    article { background: var(--card); border: 1px solid var(--line); overflow: hidden; cursor: pointer; transition: transform 180ms cubic-bezier(0.22,1,0.36,1); }
-    article:hover { transform: translateY(-2px); }
-    article img { width: 100%; aspect-ratio: 1/1; object-fit: cover; display: block; background: #e8e0d4; }
-    article .meta { padding: 12px 14px 14px; }
-    article h3 { margin: 0 0 6px; font-family: "Cormorant Garamond", Georgia, serif; font-size: 22px; font-weight: 500; line-height: 1.15; }
-    .sku, .series { color: var(--muted); font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 10px; letter-spacing: 0.06em; }
-    .series { text-transform: uppercase; margin-bottom: 4px; }
-    .feat { display: inline-block; margin-bottom: 4px; font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--walnut); }
-    .more {
-      display: block; margin: 0 auto 64px; background: transparent; color: var(--ink);
-      border: 1px solid var(--ink); padding: 14px 28px;
-      font: 12px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing: 0.14em; text-transform: uppercase;
-    }
-    .more:hover { background: var(--ink); color: var(--card); }
-    footer { border-top: 1px solid var(--line); padding: 24px; color: var(--muted); font-size: 13px; max-width: 1280px; margin: 0 auto; }
-    #lb { position: fixed; inset: 0; background: color-mix(in oklab, var(--ink) 72%, transparent); display: none; align-items: center; justify-content: center; padding: 16px; z-index: 40; }
-    #lb.open { display: flex; }
-    #lb .sheet { background: var(--card); border: 1px solid var(--line); width: min(920px, 100%); max-height: calc(100vh - 32px); overflow: auto; display: grid; grid-template-columns: 1fr; }
-    @media (min-width: 800px) { #lb .sheet { grid-template-columns: 1.1fr 0.9fr; } }
-    #lb img.hero { width: 100%; aspect-ratio: 1/1; object-fit: cover; background: #e8e0d4; display: block; }
-    #lb .copy { padding: 22px 24px 28px; }
-    #lb h2 { font-family: "Cormorant Garamond", Georgia, serif; font-size: 36px; font-weight: 500; margin: 6px 0 8px; line-height: 1.1; }
-    #lb .code { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 12px; letter-spacing: 0.04em; }
-    #lb .thumbs { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
-    #lb .thumbs button { width: 56px; height: 56px; padding: 0; border: 2px solid transparent; background: none; }
-    #lb .thumbs button.on { border-color: var(--walnut); }
-    #lb .thumbs img { width: 100%; height: 100%; object-fit: cover; display: block; }
-    #lbClose { margin-top: 22px; height: 44px; padding: 0 16px; border: 1px solid var(--ink); background: transparent; font: 11px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing: 0.12em; text-transform: uppercase; }
-    @media (prefers-reduced-motion: reduce) {
-      article { transition: none; }
-    }
+    html, body { margin:0; background:var(--bg); color:var(--fg); }
+    body { font:15px/1.5 Outfit, ui-sans-serif, system-ui, sans-serif; -webkit-font-smoothing:antialiased; }
+    a { color:var(--walnut); }
+    button:not(:disabled), [role=button] { cursor:pointer; }
+    .bar { background:var(--ink); color:var(--card); padding:10px 24px; }
+    .bar-inner { max-width:1280px; margin:0 auto; display:flex; flex-wrap:wrap; gap:8px 18px; align-items:baseline; justify-content:space-between; }
+    .bar .brand { font-family:"Cormorant Garamond", Georgia, serif; font-size:17px; }
+    .bar .meta { font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--accent); }
+    .bar a { color:var(--card); }
+    header { padding:36px 24px 18px; max-width:1280px; margin:0 auto; }
+    .kicker { font-family:"IBM Plex Mono", ui-monospace, monospace; letter-spacing:.2em; text-transform:uppercase; font-size:11px; color:var(--walnut); }
+    h1 { font-family:"Cormorant Garamond", Georgia, serif; font-weight:500; font-size:clamp(32px,5vw,52px); line-height:1.08; margin:10px 0 12px; max-width:18ch; }
+    .sub { color:var(--muted); max-width:62ch; margin:0; }
+    .stats { display:grid; grid-template-columns:1fr; margin-top:28px; max-width:640px; border:1px solid var(--line); background:var(--card); }
+    @media (min-width:640px) { .stats { grid-template-columns:1fr 1fr; } .stats div + div { border-top:0; border-left:1px solid var(--line); } }
+    .stats div { padding:16px 18px; }
+    .stats div + div { border-top:1px solid var(--line); }
+    .stats .lab { font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:10px; letter-spacing:.16em; text-transform:uppercase; color:var(--walnut); }
+    .stats .num { font-family:"Cormorant Garamond", Georgia, serif; font-size:28px; margin-top:4px; }
+    .stats .hint { font-size:12px; color:var(--muted); margin-top:4px; }
+    .toolbar { display:flex; flex-wrap:wrap; gap:8px; padding:8px 24px 18px; max-width:1280px; margin:0 auto; align-items:center; }
+    input[type=search] { flex:1; min-width:200px; max-width:360px; height:44px; background:var(--card); color:var(--fg); border:1px solid var(--line); padding:0 14px; font:13px/1 "IBM Plex Mono", ui-monospace, monospace; }
+    .pills { display:flex; flex-wrap:wrap; gap:6px; }
+    .pills button { height:44px; padding:0 12px; border:1px solid var(--line); background:var(--card); font:11px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+    .pills button.on { background:var(--ink); color:var(--card); border-color:var(--ink); }
+    #count { font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:11px; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); }
+    .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:16px; padding:0 24px 48px; max-width:1280px; margin:0 auto; }
+    article { background:var(--card); border:1px solid var(--line); overflow:hidden; cursor:pointer; position:relative; }
+    article:hover { transform:translateY(-2px); }
+    article img { width:100%; aspect-ratio:1/1; object-fit:cover; display:block; background:#e8e0d4; pointer-events:none; }
+    article .meta { padding:12px 14px 14px; pointer-events:none; }
+    article h3 { margin:0 0 6px; font-family:"Cormorant Garamond", Georgia, serif; font-size:22px; font-weight:500; line-height:1.15; }
+    article .open-hint { position:absolute; left:10px; bottom:10px; background:rgba(14,12,10,.82); color:#fbfaf6; font:10px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing:.12em; text-transform:uppercase; padding:6px 8px; }
+    .sku, .series { color:var(--muted); font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:10px; letter-spacing:.06em; }
+    .series { text-transform:uppercase; margin-bottom:4px; }
+    .feat { display:inline-block; margin-bottom:4px; font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:9px; letter-spacing:.14em; text-transform:uppercase; color:var(--walnut); }
+    .more { display:block; margin:0 auto 64px; background:transparent; color:var(--ink); border:1px solid var(--ink); padding:14px 28px; font:12px/1 "IBM Plex Mono", ui-monospace, monospace; letter-spacing:.14em; text-transform:uppercase; }
+    footer { border-top:1px solid var(--line); padding:24px; color:var(--muted); font-size:13px; max-width:1280px; margin:0 auto; }
+    #lb { position:fixed; inset:0; background:rgba(14,12,10,.78); display:none; align-items:center; justify-content:center; padding:16px; z-index:80; }
+    #lb.open { display:flex; }
+    #lb .sheet { background:var(--card); border:1px solid var(--line); width:min(960px,100%); max-height:calc(100vh - 32px); overflow:auto; display:grid; grid-template-columns:1fr; }
+    @media (min-width:800px) { #lb .sheet { grid-template-columns:1.1fr .9fr; } }
+    #lb img.hero { width:100%; aspect-ratio:1/1; object-fit:cover; background:#e8e0d4; display:block; }
+    #lb .copy { padding:22px 24px 28px; }
+    #lb h2 { font-family:"Cormorant Garamond", Georgia, serif; font-size:36px; font-weight:500; margin:6px 0 8px; line-height:1.1; }
+    #lb .code { font-family:"IBM Plex Mono", ui-monospace, monospace; font-size:12px; }
+    #lb .thumbs { display:flex; flex-wrap:wrap; gap:8px; margin-top:18px; }
+    #lb .thumbs button { width:56px; height:56px; padding:0; border:2px solid transparent; background:none; }
+    #lb .thumbs button.on { border-color:var(--walnut); }
+    #lb .thumbs img { width:100%; height:100%; object-fit:cover; display:block; }
+    #lb .actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:22px; }
+    #lb .actions a, #lbClose { height:44px; padding:0 16px; border:1px solid var(--ink); background:transparent; font:11px/44px "IBM Plex Mono", ui-monospace, monospace; letter-spacing:.12em; text-transform:uppercase; color:var(--ink); text-decoration:none; display:inline-block; }
+    #lb .actions a.primary { background:var(--ink); color:var(--card); }
   </style>
 </head>
 <body>
-  <div class="bar">
-    <div class="bar-inner">
-      <div class="brand">Jit Polycoat Enterprise</div>
-      <div class="meta">Mumbai · PVC-free · VOC-free · <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a></div>
-    </div>
-  </div>
+  <div class="bar"><div class="bar-inner"><div class="brand">Jit Polycoat Enterprise</div><div class="meta">Mumbai · PVC-free · VOC-free · <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a></div></div></div>
   <header>
     <div class="kicker">Decorative cement fiberboard · Trade catalog</div>
     <h1>World’s largest PVC-free decorative cement fiberboard collection.</h1>
-    <p class="sub">Polymer Paper Composite laminated onto 4×4 ft cement fiber boards. Real Match Graphics and Baaya grains only. Trade codes end <strong>MG</strong> (Match Graphics) or <strong>BY</strong> (Baaya). Official names from the mill — SKU-only titles stay numeric.</p>
-    <div class="stats">
-      <div>
-        <div class="lab">Opening order</div>
-        <div class="num">200,000 tiles</div>
-        <div class="hint">3.2M sq ft · ≈ 46 mill blocks</div>
-      </div>
-      <div>
-        <div class="lab">1 mill block</div>
-        <div class="num">5,333 m</div>
-        <div class="hint">1,220 mm web · 70,033 sq ft · 4,377 of the 4×4 boards</div>
-      </div>
-    </div>
+    <p class="sub">Polymer Paper Composite laminated onto 4×4 ft cement fiber boards. Trade codes end <strong>MG</strong> or <strong>BY</strong>. Click any design to open the board sheet.</p>
+    <div class="stats"><div><div class="lab">Opening order</div><div class="num">200,000 tiles</div><div class="hint">3.2M sq ft · ≈ 46 mill blocks</div></div><div><div class="lab">1 mill block</div><div class="num">5,333 m</div><div class="hint">1,220 mm web · 70,033 sq ft · 4,377 of the 4×4 boards</div></div></div>
   </header>
-  <div class="toolbar">
-    <input id="q" type="search" placeholder="Search name, SKU, MG or BY code…" />
-    <div class="pills" id="pills"></div>
-    <span id="count"></span>
-  </div>
+  <div class="toolbar"><input id="q" type="search" placeholder="Search name, SKU, MG or BY code…" /><div class="pills" id="pills"></div><span id="count"></span></div>
   <div class="grid" id="grid"></div>
   <button class="more" id="more" hidden>Load more</button>
-  <footer>
-    Help: <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a>
-    · MG = Match Graphics · BY = Baaya
-    · MIPPC / MIPFC are underside insulation, not face finishes.
-    · <a href="https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json">catalog.json</a>
-  </footer>
-  <div id="lb" role="dialog" aria-modal="true">
-    <div class="sheet">
-      <img class="hero" id="lbImg" alt="" />
-      <div class="copy">
-        <div class="series" id="lbSeries"></div>
-        <h2 id="lbName"></h2>
-        <div class="code" id="lbCode"></div>
-        <p class="sub" id="lbNote" style="margin-top:12px"></p>
-        <div class="thumbs" id="lbThumbs"></div>
-        <button type="button" id="lbClose">Close</button>
-      </div>
-    </div>
-  </div>
+  <footer>Help: <a href="mailto:jitpolycoat@gmail.com">jitpolycoat@gmail.com</a> · MG = Match Graphics · BY = Baaya · MIPPC / MIPFC are underside insulation, not face finishes.</footer>
+  <div id="lb" role="dialog" aria-modal="true"><div class="sheet"><img class="hero" id="lbImg" alt="" /><div class="copy"><div class="series" id="lbSeries"></div><h2 id="lbName"></h2><div class="code" id="lbCode"></div><p class="sub" id="lbNote" style="margin-top:12px"></p><div class="thumbs" id="lbThumbs"></div><div class="actions"><a id="lbMail" class="primary" href="mailto:jitpolycoat@gmail.com">Enquire</a><button type="button" id="lbClose">Close</button></div></div></div></div>
   <script>
-    const IMG_BASES = [
-      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/",
-      "./"
-    ];
-    const CAT_VER = "20260827e";
+    const CDN = "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/";
+    const CAT_VER = "20260827f";
     const PAGE = 24;
     const SERIES = ["", "ATELIER", "SIGNATURE", "NXT", "NATURAL", "VOGUE", "LINO", "COLORPEDIA", "INSULATION"];
+    const HELP = "jitpolycoat@gmail.com";
     let all = [], shown = 0, filtered = [], ser = "", active = null, vid = null;
     const grid = document.getElementById("grid");
     const more = document.getElementById("more");
@@ -157,11 +92,10 @@
     const q = document.getElementById("q");
     const pills = document.getElementById("pills");
     const lb = document.getElementById("lb");
-
     function tradeCode(d, v) {
       const parts = String(d.mcode || "").split("-");
       if (parts.length < 4) return d.mcode || "";
-      return parts[0] + "-" + parts[1] + "-" + (v.sku || parts[2]) + "-" + parts[parts.length - 1];
+      return parts[0] + "-" + parts[1] + "-" + ((v && v.sku) || parts[2]) + "-" + parts[parts.length - 1];
     }
     function sourceLabel(d) {
       const suf = String(d.mcode || "").split("-").pop();
@@ -170,131 +104,98 @@
       return suf || "";
     }
     function imgUrl(hi) {
-      const path = (hi || "").replace(/^\//, "");
-      return path ? IMG_BASES[0] + path + "?v=" + CAT_VER : "";
+      const path = String(hi || "").replace(/^\//, "");
+      return path ? CDN + path + "?v=" + CAT_VER : "";
     }
     function esc(s) {
-      return String(s || "").replace(/[&<>"']/g, (c) => {
-        if (c === "&") return "\u0026amp;";
-        if (c === "<") return "\u0026lt;";
-        if (c === ">") return "\u0026gt;";
-        if (c === '"') return "\u0026quot;";
-        return "\u0026#39;";
-      });
+      return String(s || "").replace(/[&<>"']/g, (c) => ({ "&": "\u0026amp;", "<": "\u0026lt;", ">": "\u0026gt;", '"': "\u0026quot;" }[c] || "\u0026#39;"));
     }
-
+    function findDesign(code) {
+      const needle = String(code || "").toUpperCase();
+      return all.find((d) => String(d.mcode).toUpperCase() === needle || (d.variants || []).some((v) => tradeCode(d, v).toUpperCase() === needle));
+    }
     SERIES.forEach((s) => {
       const b = document.createElement("button");
-      b.type = "button";
-      b.textContent = s || "All";
-      b.dataset.s = s;
+      b.type = "button"; b.textContent = s || "All"; b.dataset.s = s;
       if (!s) b.classList.add("on");
-      b.addEventListener("click", () => {
-        ser = s;
-        [...pills.children].forEach((el) => el.classList.toggle("on", el.dataset.s === s));
-        apply();
-      });
+      b.addEventListener("click", () => { ser = s; [...pills.children].forEach((el) => el.classList.toggle("on", el.dataset.s === s)); apply(); });
       pills.appendChild(b);
     });
-
     function apply() {
       const query = q.value.trim().toLowerCase();
       filtered = all.filter((d) => {
-        if (ser && d.series !== ser) return false;
+        if (ser === "INSULATION") { if (d.line !== "underside" && d.series !== "INSULATION") return false; }
+        else if (ser && d.series !== ser) return false;
+        if (ser && ser !== "INSULATION" && d.line === "underside") return false;
         if (!query) return true;
         const blob = [d.name, d.mcode, d.series, sourceLabel(d), ...(d.variants || []).flatMap((v) => [v.sku, tradeCode(d, v)])].join(" ").toLowerCase();
         return blob.includes(query);
       });
       filtered.sort((a, b) => Number(!!b.featured) - Number(!!a.featured));
-      shown = 0;
-      grid.innerHTML = "";
-      paint();
+      shown = 0; grid.innerHTML = ""; paint();
     }
-
     function paint() {
       const slice = filtered.slice(shown, shown + PAGE);
-      slice.forEach((d, i) => {
+      slice.forEach((d) => {
         const v = (d.variants && d.variants[0]) || {};
-        const idx = shown + i;
         const code = tradeCode(d, v);
         const el = document.createElement("article");
-        el.dataset.i = String(idx);
-        el.innerHTML =
-          `<img loading="lazy" alt="${esc(d.name)}" src="${imgUrl(v.hi)}" />` +
-          `<div class="meta">` +
-          (d.featured ? `<div class="feat">Featured</div>` : "") +
-          `<div class="series">${esc(d.series)} · ${esc(sourceLabel(d))}</div>` +
-          `<h3>${esc(d.name)}</h3>` +
-          `<div class="sku">${esc(v.sku)} · ${esc(code)}</div>` +
-          `</div>`;
-        const img = el.querySelector("img");
-        img.addEventListener("error", function () {
-          this.src = "./" + String(v.hi || "").replace(/^\//, "");
-        });
+        el.dataset.mcode = d.mcode;
+        el.setAttribute("role", "button"); el.tabIndex = 0;
+        el.innerHTML = `<img loading="lazy" alt="${esc(d.name)}" src="${imgUrl(v.hi)}" /><span class="open-hint">Open board</span><div class="meta">${d.featured ? `<div class="feat">Featured</div>` : ""}<div class="series">${esc(d.series)} · ${esc(sourceLabel(d))}</div><h3>${esc(d.name)}</h3><div class="sku">${esc(v.sku)} · ${esc(code)}</div></div>`;
+        el.querySelector("img").addEventListener("error", function(){ this.src = "./" + String(v.hi || "").replace(/^\//, ""); });
+        el.addEventListener("click", () => openDesign(d));
+        el.addEventListener("keydown", (ev) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); openDesign(d); } });
         grid.appendChild(el);
       });
       shown += slice.length;
       count.textContent = filtered.length + " designs";
       more.hidden = shown >= filtered.length;
     }
-
-    grid.addEventListener("click", (e) => {
-      const art = e.target.closest("article");
-      if (!art) return;
-      openDesign(filtered[Number(art.dataset.i)]);
-    });
-
     function openDesign(d) {
-      if (!d) return;
-      active = d;
-      vid = (d.variants && d.variants[0] && d.variants[0].id) || "01";
-      renderLb();
-      lb.classList.add("open");
+      if (!d || !d.variants || !d.variants.length) return;
+      active = d; vid = d.variants[0].id || "01";
+      try { history.replaceState(null, "", "#" + encodeURIComponent(d.mcode)); } catch (e) {}
+      renderLb(); lb.classList.add("open");
     }
     function renderLb() {
-      const d = active;
-      const v = d.variants.find((x) => x.id === vid) || d.variants[0];
+      const d = active; if (!d) return;
+      const vars = d.variants || [];
+      const v = vars.find((x) => x.id === vid) || vars[0]; if (!v) return;
+      const code = tradeCode(d, v);
       document.getElementById("lbImg").src = imgUrl(v.hi);
-      document.getElementById("lbImg").alt = d.name + " " + tradeCode(d, v);
-      document.getElementById("lbSeries").textContent = d.series + " · " + sourceLabel(d);
-      document.getElementById("lbName").textContent = d.name;
-      document.getElementById("lbCode").textContent = v.sku + " · " + tradeCode(d, v);
-      document.getElementById("lbNote").textContent =
-        d.line === "underside"
-          ? "Underside insulation — silver metallized radiant barrier for the reverse of the board. Not a face grain."
-          : (d.variants.length > 1 ? d.variants.length + " colourways. " : "") +
-            "1 mill block = 5,333 m of 1,220 mm web ≈ 4,377 of the 4×4 boards. Specify Matt or Gloss, PPC or WPPPFCW.";
-      const thumbs = document.getElementById("lbThumbs");
-      thumbs.innerHTML = "";
-      d.variants.forEach((vv) => {
-        const b = document.createElement("button");
-        b.type = "button";
+      document.getElementById("lbImg").alt = (d.name || "") + " " + code;
+      document.getElementById("lbSeries").textContent = (d.series || "") + " · " + sourceLabel(d);
+      document.getElementById("lbName").textContent = d.name || v.sku;
+      document.getElementById("lbCode").textContent = (v.sku || "") + " · " + code;
+      document.getElementById("lbNote").textContent = d.line === "underside"
+        ? "Underside insulation — silver metallized radiant barrier for the reverse of the board. Not a face grain."
+        : (vars.length > 1 ? vars.length + " colourways. " : "") + "4×4 ft cement fiberboard. 1 mill block = 5,333 m of 1,220 mm web ≈ 4,377 boards. Specify Matt or Gloss, PPC or WPPPFCW.";
+      document.getElementById("lbMail").href = "mailto:" + HELP + "?subject=" + encodeURIComponent("Enquiry · " + (d.name || "") + " · " + code) + "&body=" + encodeURIComponent("Design: " + (d.name || "") + "\nTrade code: " + code + "\nSeries: " + (d.series || "") + "\n\nBlocks required:\nDestination port:\n");
+      const thumbs = document.getElementById("lbThumbs"); thumbs.innerHTML = "";
+      vars.forEach((vv) => {
+        const b = document.createElement("button"); b.type = "button";
         if (vv.id === v.id) b.classList.add("on");
         b.innerHTML = `<img alt="${esc(vv.sku)}" src="${imgUrl(vv.hi)}" />`;
-        b.addEventListener("click", (ev) => {
-          ev.stopPropagation();
-          vid = vv.id;
-          renderLb();
-        });
+        b.addEventListener("click", (ev) => { ev.stopPropagation(); vid = vv.id; renderLb(); });
         thumbs.appendChild(b);
       });
     }
-    function closeLb() { lb.classList.remove("open"); active = null; }
+    function closeLb() {
+      lb.classList.remove("open"); active = null;
+      try { if (location.hash) history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
+    }
     document.getElementById("lbClose").addEventListener("click", closeLb);
     lb.addEventListener("click", (e) => { if (e.target === lb) closeLb(); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeLb(); });
-
-    const CAT_URLS = [
-      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json?v=" + CAT_VER,
-      "./catalog.json?v=" + CAT_VER
-    ];
     async function loadCatalog() {
-      for (const url of CAT_URLS) {
+      const urls = [CDN + "catalog.json?v=" + CAT_VER, "./catalog.json?v=" + CAT_VER];
+      for (const url of urls) {
         try {
-          const r = await fetch(url);
-          if (!r.ok) continue;
-          all = await r.json();
-          apply();
+          const r = await fetch(url); if (!r.ok) continue;
+          all = await r.json(); apply();
+          const hash = decodeURIComponent((location.hash || "").replace(/^#/, ""));
+          if (hash) { const d = findDesign(hash); if (d) openDesign(d); }
           return;
         } catch (e) {}
       }
@@ -303,6 +204,11 @@
     loadCatalog();
     q.addEventListener("input", apply);
     more.addEventListener("click", paint);
+    window.addEventListener("hashchange", () => {
+      const hash = decodeURIComponent((location.hash || "").replace(/^#/, ""));
+      if (!hash) { closeLb(); return; }
+      const d = findDesign(hash); if (d) openDesign(d);
+    });
   </script>
 </body>
 </html>
