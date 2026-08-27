@@ -60,9 +60,9 @@
   </footer>
   <script>
     const IMG_BASES = [
-      "./",
       "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/",
-      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/"
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/",
+      "./"
     ];
     const PAGE = 24;
     let all = [], shown = 0, filtered = [];
@@ -111,9 +111,9 @@
     };
 
     const CAT_URLS = [
-      "./catalog.json",
       "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json",
-      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/catalog.json"
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/catalog.json",
+      "./catalog.json"
     ];
     async function loadCatalog() {
       for (const url of CAT_URLS) {
