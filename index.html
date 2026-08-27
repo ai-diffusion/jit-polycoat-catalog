@@ -60,7 +60,11 @@
     Help: jitpolycoat@gmail.com · MG = Match Graphics · BY = Baaya · MIPPC/MIPFC are underside insulation, not face finishes.
   </footer>
   <script>
-    const IMG_BASES = ["./", "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/"];
+    const IMG_BASES = [
+      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/",
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/",
+      "./"
+    ];
     const PAGE = 24;
     let all = [], shown = 0, filtered = [];
     const grid = document.getElementById("grid");
@@ -121,7 +125,11 @@
       img.src = rest[0];
     };
 
-    const CAT_URLS = ["./catalog.json", "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json"];
+    const CAT_URLS = [
+      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json",
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/catalog.json",
+      "./catalog.json"
+    ];
     async function loadCatalog() {
       for (const url of CAT_URLS) {
         try {
