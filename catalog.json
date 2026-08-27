@@ -1,6 +1,6 @@
 [
   {
-    "mcode": "PPC-AD28-9034-YP",
+    "mcode": "PPC-AD28-9034-BY",
     "name": "Kioko Herringbone",
     "series": "ATELIER",
     "variants": [
@@ -41,7 +41,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-D2AB-21233-XK",
+    "mcode": "PPC-D2AB-21233-MG",
     "name": "21233",
     "series": "NXT",
     "source": "atelier",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "mcode": "PPC-3822-21316-XK",
+    "mcode": "PPC-3822-21316-MG",
     "name": "21316",
     "series": "NXT",
     "source": "atelier",
@@ -79,7 +79,7 @@
     ]
   },
   {
-    "mcode": "PPC-3F28-21318-XK",
+    "mcode": "PPC-3F28-21318-MG",
     "name": "21318",
     "series": "NXT",
     "source": "atelier",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "mcode": "PPC-725F-21421-XK",
+    "mcode": "PPC-725F-21421-MG",
     "name": "21421",
     "series": "NXT",
     "source": "atelier",
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "mcode": "PPC-75F8-21430-XK",
+    "mcode": "PPC-75F8-21430-MG",
     "name": "21430",
     "series": "NXT",
     "source": "atelier",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "mcode": "PPC-7403-21433-XK",
+    "mcode": "PPC-7403-21433-MG",
     "name": "21433",
     "series": "NXT",
     "source": "atelier",
@@ -155,7 +155,7 @@
     ]
   },
   {
-    "mcode": "PPC-7896-21440-XK",
+    "mcode": "PPC-7896-21440-MG",
     "name": "21440",
     "series": "NXT",
     "source": "atelier",
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "mcode": "PPC-7F21-21443-XK",
+    "mcode": "PPC-7F21-21443-MG",
     "name": "21443",
     "series": "NXT",
     "source": "atelier",
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "mcode": "PPC-AC2E-9036-YP",
+    "mcode": "PPC-AC2E-9036-BY",
     "name": "Mocka Oak",
     "series": "ATELIER",
     "variants": [
@@ -241,7 +241,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B3B3-9037-YP",
+    "mcode": "PPC-B3B3-9037-BY",
     "name": "Cherry Veneer",
     "series": "ATELIER",
     "variants": [
@@ -289,7 +289,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-3E45-7101-XK",
+    "mcode": "PPC-3E45-7101-MG",
     "name": "7101",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -308,7 +308,7 @@
     ]
   },
   {
-    "mcode": "PPC-67C3-7102-XK",
+    "mcode": "PPC-67C3-7102-MG",
     "name": "7102",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -327,7 +327,7 @@
     ]
   },
   {
-    "mcode": "PPC-D5D6-7103-XK",
+    "mcode": "PPC-D5D6-7103-MG",
     "name": "7103",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "mcode": "PPC-417C-7104-XK",
+    "mcode": "PPC-417C-7104-MG",
     "name": "7104",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "mcode": "PPC-50A9-7105-XK",
+    "mcode": "PPC-50A9-7105-MG",
     "name": "7105",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -384,7 +384,7 @@
     ]
   },
   {
-    "mcode": "PPC-B368-7106-XK",
+    "mcode": "PPC-B368-7106-MG",
     "name": "7106",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "mcode": "PPC-7E3E-7107-XK",
+    "mcode": "PPC-7E3E-7107-MG",
     "name": "7107",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -422,7 +422,7 @@
     ]
   },
   {
-    "mcode": "PPC-CEBA-7108-XK",
+    "mcode": "PPC-CEBA-7108-MG",
     "name": "7108",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -441,7 +441,7 @@
     ]
   },
   {
-    "mcode": "PPC-19BE-7109-XK",
+    "mcode": "PPC-19BE-7109-MG",
     "name": "7109",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "mcode": "PPC-26A2-7110-XK",
+    "mcode": "PPC-26A2-7110-MG",
     "name": "7110",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -479,7 +479,7 @@
     ]
   },
   {
-    "mcode": "PPC-FDE4-7111-XK",
+    "mcode": "PPC-FDE4-7111-MG",
     "name": "7111",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "mcode": "PPC-C7B6-7112-XK",
+    "mcode": "PPC-C7B6-7112-MG",
     "name": "7112",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "mcode": "PPC-4F48-7113-XK",
+    "mcode": "PPC-4F48-7113-MG",
     "name": "7113",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "mcode": "PPC-2A28-7114-XK",
+    "mcode": "PPC-2A28-7114-MG",
     "name": "7114",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -555,7 +555,7 @@
     ]
   },
   {
-    "mcode": "PPC-658C-7115-XK",
+    "mcode": "PPC-658C-7115-MG",
     "name": "7115",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -574,7 +574,7 @@
     ]
   },
   {
-    "mcode": "PPC-ABC7-7116-XK",
+    "mcode": "PPC-ABC7-7116-MG",
     "name": "7116",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -593,7 +593,7 @@
     ]
   },
   {
-    "mcode": "PPC-37FE-7117-XK",
+    "mcode": "PPC-37FE-7117-MG",
     "name": "7117",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -612,7 +612,7 @@
     ]
   },
   {
-    "mcode": "PPC-F677-7118-XK",
+    "mcode": "PPC-F677-7118-MG",
     "name": "7118",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "mcode": "PPC-1653-7119-XK",
+    "mcode": "PPC-1653-7119-MG",
     "name": "7119",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "mcode": "PPC-7A1E-7120-XK",
+    "mcode": "PPC-7A1E-7120-MG",
     "name": "7120",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -669,7 +669,7 @@
     ]
   },
   {
-    "mcode": "PPC-1C6C-7121-XK",
+    "mcode": "PPC-1C6C-7121-MG",
     "name": "7121",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -688,7 +688,7 @@
     ]
   },
   {
-    "mcode": "PPC-4F49-7122-XK",
+    "mcode": "PPC-4F49-7122-MG",
     "name": "7122",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -707,7 +707,7 @@
     ]
   },
   {
-    "mcode": "PPC-6670-7123-XK",
+    "mcode": "PPC-6670-7123-MG",
     "name": "7123",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -726,7 +726,7 @@
     ]
   },
   {
-    "mcode": "PPC-52D0-7124-XK",
+    "mcode": "PPC-52D0-7124-MG",
     "name": "7124",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -745,7 +745,7 @@
     ]
   },
   {
-    "mcode": "PPC-6BD0-7125-XK",
+    "mcode": "PPC-6BD0-7125-MG",
     "name": "7125",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -764,7 +764,7 @@
     ]
   },
   {
-    "mcode": "PPC-F804-7126-XK",
+    "mcode": "PPC-F804-7126-MG",
     "name": "7126",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -783,7 +783,7 @@
     ]
   },
   {
-    "mcode": "PPC-CAEB-7127-XK",
+    "mcode": "PPC-CAEB-7127-MG",
     "name": "7127",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "mcode": "PPC-79B6-7128-XK",
+    "mcode": "PPC-79B6-7128-MG",
     "name": "7128",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -821,7 +821,7 @@
     ]
   },
   {
-    "mcode": "PPC-4727-7129-XK",
+    "mcode": "PPC-4727-7129-MG",
     "name": "7129",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -840,7 +840,7 @@
     ]
   },
   {
-    "mcode": "PPC-0A3D-7130-XK",
+    "mcode": "PPC-0A3D-7130-MG",
     "name": "7130",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -859,7 +859,7 @@
     ]
   },
   {
-    "mcode": "PPC-4733-7131-XK",
+    "mcode": "PPC-4733-7131-MG",
     "name": "7131",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -878,7 +878,7 @@
     ]
   },
   {
-    "mcode": "PPC-504F-7132-XK",
+    "mcode": "PPC-504F-7132-MG",
     "name": "7132",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -897,7 +897,7 @@
     ]
   },
   {
-    "mcode": "PPC-FFBC-7133-XK",
+    "mcode": "PPC-FFBC-7133-MG",
     "name": "7133",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -916,7 +916,7 @@
     ]
   },
   {
-    "mcode": "PPC-50E9-7134-XK",
+    "mcode": "PPC-50E9-7134-MG",
     "name": "7134",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -935,7 +935,7 @@
     ]
   },
   {
-    "mcode": "PPC-5C69-7135-XK",
+    "mcode": "PPC-5C69-7135-MG",
     "name": "7135",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -954,7 +954,7 @@
     ]
   },
   {
-    "mcode": "PPC-6D0B-7136-XK",
+    "mcode": "PPC-6D0B-7136-MG",
     "name": "7136",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -973,7 +973,7 @@
     ]
   },
   {
-    "mcode": "PPC-C4A7-7137-XK",
+    "mcode": "PPC-C4A7-7137-MG",
     "name": "7137",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -992,7 +992,7 @@
     ]
   },
   {
-    "mcode": "PPC-DD9D-7138-XK",
+    "mcode": "PPC-DD9D-7138-MG",
     "name": "7138",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1011,7 +1011,7 @@
     ]
   },
   {
-    "mcode": "PPC-CE86-7139-XK",
+    "mcode": "PPC-CE86-7139-MG",
     "name": "7139",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1030,7 +1030,7 @@
     ]
   },
   {
-    "mcode": "PPC-4845-7140-XK",
+    "mcode": "PPC-4845-7140-MG",
     "name": "7140",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1049,7 +1049,7 @@
     ]
   },
   {
-    "mcode": "PPC-A5ED-7141-XK",
+    "mcode": "PPC-A5ED-7141-MG",
     "name": "7141",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1068,7 +1068,7 @@
     ]
   },
   {
-    "mcode": "PPC-E3D5-7142-XK",
+    "mcode": "PPC-E3D5-7142-MG",
     "name": "7142",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1087,7 +1087,7 @@
     ]
   },
   {
-    "mcode": "PPC-3085-7143-XK",
+    "mcode": "PPC-3085-7143-MG",
     "name": "7143",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1106,7 +1106,7 @@
     ]
   },
   {
-    "mcode": "PPC-B23E-7144-XK",
+    "mcode": "PPC-B23E-7144-MG",
     "name": "7144",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1125,7 +1125,7 @@
     ]
   },
   {
-    "mcode": "PPC-4A16-7145-XK",
+    "mcode": "PPC-4A16-7145-MG",
     "name": "7145",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1144,7 +1144,7 @@
     ]
   },
   {
-    "mcode": "PPC-5426-7146-XK",
+    "mcode": "PPC-5426-7146-MG",
     "name": "7146",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1163,7 +1163,7 @@
     ]
   },
   {
-    "mcode": "PPC-F08E-7147-XK",
+    "mcode": "PPC-F08E-7147-MG",
     "name": "7147",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "mcode": "PPC-18A5-7148-XK",
+    "mcode": "PPC-18A5-7148-MG",
     "name": "7148",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1201,7 +1201,7 @@
     ]
   },
   {
-    "mcode": "PPC-B7E1-7149-XK",
+    "mcode": "PPC-B7E1-7149-MG",
     "name": "7149",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "mcode": "PPC-6891-7150-XK",
+    "mcode": "PPC-6891-7150-MG",
     "name": "7150",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1239,7 +1239,7 @@
     ]
   },
   {
-    "mcode": "PPC-2A70-7151-XK",
+    "mcode": "PPC-2A70-7151-MG",
     "name": "7151",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1258,7 +1258,7 @@
     ]
   },
   {
-    "mcode": "PPC-4567-7152-XK",
+    "mcode": "PPC-4567-7152-MG",
     "name": "7152",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1277,7 +1277,7 @@
     ]
   },
   {
-    "mcode": "PPC-454B-7153-XK",
+    "mcode": "PPC-454B-7153-MG",
     "name": "7153",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "mcode": "PPC-6399-7154-XK",
+    "mcode": "PPC-6399-7154-MG",
     "name": "7154",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1315,7 +1315,7 @@
     ]
   },
   {
-    "mcode": "PPC-D489-7155-XK",
+    "mcode": "PPC-D489-7155-MG",
     "name": "7155",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1334,7 +1334,7 @@
     ]
   },
   {
-    "mcode": "PPC-998E-7156-XK",
+    "mcode": "PPC-998E-7156-MG",
     "name": "7156",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1353,7 +1353,7 @@
     ]
   },
   {
-    "mcode": "PPC-09C3-7157-XK",
+    "mcode": "PPC-09C3-7157-MG",
     "name": "7157",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1372,7 +1372,7 @@
     ]
   },
   {
-    "mcode": "PPC-B132-7158-XK",
+    "mcode": "PPC-B132-7158-MG",
     "name": "7158",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1391,7 +1391,7 @@
     ]
   },
   {
-    "mcode": "PPC-C24A-7159-XK",
+    "mcode": "PPC-C24A-7159-MG",
     "name": "7159",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "mcode": "PPC-95C7-7160-XK",
+    "mcode": "PPC-95C7-7160-MG",
     "name": "7160",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1429,7 +1429,7 @@
     ]
   },
   {
-    "mcode": "PPC-54DD-7161-XK",
+    "mcode": "PPC-54DD-7161-MG",
     "name": "7161",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1448,7 +1448,7 @@
     ]
   },
   {
-    "mcode": "PPC-DFF5-7162-XK",
+    "mcode": "PPC-DFF5-7162-MG",
     "name": "7162",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1467,7 +1467,7 @@
     ]
   },
   {
-    "mcode": "PPC-77E6-7163-XK",
+    "mcode": "PPC-77E6-7163-MG",
     "name": "7163",
     "series": "COLORPEDIA",
     "source": "atelier",
@@ -1486,7 +1486,7 @@
     ]
   },
   {
-    "mcode": "PPC-F495-1015e-XK",
+    "mcode": "PPC-F495-1015e-MG",
     "name": "1015e",
     "series": "LINO",
     "source": "atelier",
@@ -1505,8 +1505,8 @@
     ]
   },
   {
-    "mcode": "PPC-8FAE-14201-XK",
-    "name": "14201",
+    "mcode": "PPC-8FAE-14201-MG",
+    "name": "Chy Wenge",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1524,8 +1524,8 @@
     ]
   },
   {
-    "mcode": "PPC-3066-21901-XK",
-    "name": "21901",
+    "mcode": "PPC-3066-21901-MG",
+    "name": "Single Cherry",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1543,8 +1543,8 @@
     ]
   },
   {
-    "mcode": "PPC-6A7C-25401-XK",
-    "name": "25401",
+    "mcode": "PPC-6A7C-25401-MG",
+    "name": "Dark Wenge",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1562,8 +1562,8 @@
     ]
   },
   {
-    "mcode": "PPC-EECD-34101-XK",
-    "name": "34101",
+    "mcode": "PPC-EECD-34101-MG",
+    "name": "Fab Fabric",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1581,8 +1581,8 @@
     ]
   },
   {
-    "mcode": "PPC-3332-34102-XK",
-    "name": "34102",
+    "mcode": "PPC-3332-34102-MG",
+    "name": "Fab Fabric",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1600,8 +1600,8 @@
     ]
   },
   {
-    "mcode": "PPC-FF0C-34103-XK",
-    "name": "34103",
+    "mcode": "PPC-FF0C-34103-MG",
+    "name": "Fab Fabric",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1619,8 +1619,8 @@
     ]
   },
   {
-    "mcode": "PPC-E9C1-34104-XK",
-    "name": "34104",
+    "mcode": "PPC-E9C1-34104-MG",
+    "name": "Fab Fabric",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1638,8 +1638,8 @@
     ]
   },
   {
-    "mcode": "PPC-953C-34105-XK",
-    "name": "34105",
+    "mcode": "PPC-953C-34105-MG",
+    "name": "Fab Fabric",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1657,8 +1657,8 @@
     ]
   },
   {
-    "mcode": "PPC-213F-34601-XK",
-    "name": "34601",
+    "mcode": "PPC-213F-34601-MG",
+    "name": "Dot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1676,8 +1676,8 @@
     ]
   },
   {
-    "mcode": "PPC-611C-34605-XK",
-    "name": "34605",
+    "mcode": "PPC-611C-34605-MG",
+    "name": "Dot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1695,8 +1695,8 @@
     ]
   },
   {
-    "mcode": "PPC-E751-36501-XK",
-    "name": "36501",
+    "mcode": "PPC-E751-36501-MG",
+    "name": "Cambric Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1714,8 +1714,8 @@
     ]
   },
   {
-    "mcode": "PPC-4F86-36502-XK",
-    "name": "36502",
+    "mcode": "PPC-4F86-36502-MG",
+    "name": "Cambric Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1733,8 +1733,8 @@
     ]
   },
   {
-    "mcode": "PPC-4DFA-36503-XK",
-    "name": "36503",
+    "mcode": "PPC-4DFA-36503-MG",
+    "name": "Cambric Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1752,8 +1752,8 @@
     ]
   },
   {
-    "mcode": "PPC-BC9A-36504-XK",
-    "name": "36504",
+    "mcode": "PPC-BC9A-36504-MG",
+    "name": "Cambric Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1771,8 +1771,8 @@
     ]
   },
   {
-    "mcode": "PPC-5DF4-36601-XK",
-    "name": "36601",
+    "mcode": "PPC-5DF4-36601-MG",
+    "name": "Circuit",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1790,8 +1790,8 @@
     ]
   },
   {
-    "mcode": "PPC-EB38-36701-XK",
-    "name": "36701",
+    "mcode": "PPC-EB38-36701-MG",
+    "name": "Burberry",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1809,8 +1809,8 @@
     ]
   },
   {
-    "mcode": "PPC-B52C-36801-XK",
-    "name": "36801",
+    "mcode": "PPC-B52C-36801-MG",
+    "name": "Cusino",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1828,8 +1828,8 @@
     ]
   },
   {
-    "mcode": "PPC-E2FA-36802-XK",
-    "name": "36802",
+    "mcode": "PPC-E2FA-36802-MG",
+    "name": "Cusino",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1847,8 +1847,8 @@
     ]
   },
   {
-    "mcode": "PPC-78DD-36803-XK",
-    "name": "36803",
+    "mcode": "PPC-78DD-36803-MG",
+    "name": "Cusino",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1866,8 +1866,8 @@
     ]
   },
   {
-    "mcode": "PPC-C364-37001-XK",
-    "name": "37001",
+    "mcode": "PPC-C364-37001-MG",
+    "name": "Swizz Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1885,8 +1885,8 @@
     ]
   },
   {
-    "mcode": "PPC-8FF5-37801-XK",
-    "name": "37801",
+    "mcode": "PPC-8FF5-37801-MG",
+    "name": "Snow Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1904,8 +1904,8 @@
     ]
   },
   {
-    "mcode": "PPC-CB64-37802-XK",
-    "name": "37802",
+    "mcode": "PPC-CB64-37802-MG",
+    "name": "Snow Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1923,8 +1923,8 @@
     ]
   },
   {
-    "mcode": "PPC-FE13-37803-XK",
-    "name": "37803",
+    "mcode": "PPC-FE13-37803-MG",
+    "name": "Snow Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1942,8 +1942,8 @@
     ]
   },
   {
-    "mcode": "PPC-791C-37804-XK",
-    "name": "37804",
+    "mcode": "PPC-791C-37804-MG",
+    "name": "Snow Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1961,8 +1961,8 @@
     ]
   },
   {
-    "mcode": "PPC-BC3B-37901-XK",
-    "name": "37901",
+    "mcode": "PPC-BC3B-37901-MG",
+    "name": "Vintage Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1980,8 +1980,8 @@
     ]
   },
   {
-    "mcode": "PPC-10F0-37902-XK",
-    "name": "37902",
+    "mcode": "PPC-10F0-37902-MG",
+    "name": "Vintage Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -1999,8 +1999,8 @@
     ]
   },
   {
-    "mcode": "PPC-AB21-37903-XK",
-    "name": "37903",
+    "mcode": "PPC-AB21-37903-MG",
+    "name": "Vintage Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2018,8 +2018,8 @@
     ]
   },
   {
-    "mcode": "PPC-351D-38001-XK",
-    "name": "38001",
+    "mcode": "PPC-351D-38001-MG",
+    "name": "Twist Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2037,8 +2037,8 @@
     ]
   },
   {
-    "mcode": "PPC-96BC-38002-XK",
-    "name": "38002",
+    "mcode": "PPC-96BC-38002-MG",
+    "name": "Twist Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2056,8 +2056,8 @@
     ]
   },
   {
-    "mcode": "PPC-A6D9-38003-XK",
-    "name": "38003",
+    "mcode": "PPC-A6D9-38003-MG",
+    "name": "Twist Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2075,8 +2075,8 @@
     ]
   },
   {
-    "mcode": "PPC-1F44-38004-XK",
-    "name": "38004",
+    "mcode": "PPC-1F44-38004-MG",
+    "name": "Twist Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2094,8 +2094,8 @@
     ]
   },
   {
-    "mcode": "PPC-A768-38005-XK",
-    "name": "38005",
+    "mcode": "PPC-A768-38005-MG",
+    "name": "Twist Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2113,8 +2113,8 @@
     ]
   },
   {
-    "mcode": "PPC-DC13-38201-XK",
-    "name": "38201",
+    "mcode": "PPC-DC13-38201-MG",
+    "name": "Italian Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2132,8 +2132,8 @@
     ]
   },
   {
-    "mcode": "PPC-7B54-38204-XK",
-    "name": "38204",
+    "mcode": "PPC-7B54-38204-MG",
+    "name": "Italian Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2151,8 +2151,8 @@
     ]
   },
   {
-    "mcode": "PPC-E101-38301-XK",
-    "name": "38301",
+    "mcode": "PPC-E101-38301-MG",
+    "name": "Khadi",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2170,8 +2170,8 @@
     ]
   },
   {
-    "mcode": "PPC-829F-38303-XK",
-    "name": "38303",
+    "mcode": "PPC-829F-38303-MG",
+    "name": "Khadi",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2189,8 +2189,8 @@
     ]
   },
   {
-    "mcode": "PPC-5DCD-38304-XK",
-    "name": "38304",
+    "mcode": "PPC-5DCD-38304-MG",
+    "name": "Khadi",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2208,8 +2208,8 @@
     ]
   },
   {
-    "mcode": "PPC-FD1D-38502-XK",
-    "name": "38502",
+    "mcode": "PPC-FD1D-38502-MG",
+    "name": "Mogra Fl Red",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2227,8 +2227,8 @@
     ]
   },
   {
-    "mcode": "PPC-2D5E-38503-XK",
-    "name": "38503",
+    "mcode": "PPC-2D5E-38503-MG",
+    "name": "Mogra Fl Green",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2246,8 +2246,8 @@
     ]
   },
   {
-    "mcode": "PPC-A7F6-38504-XK",
-    "name": "38504",
+    "mcode": "PPC-A7F6-38504-MG",
+    "name": "Mogra Fl Blue",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2265,8 +2265,8 @@
     ]
   },
   {
-    "mcode": "PPC-1982-38505-XK",
-    "name": "38505",
+    "mcode": "PPC-1982-38505-MG",
+    "name": "Mogra Fl Purple",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2284,8 +2284,8 @@
     ]
   },
   {
-    "mcode": "PPC-4792-38601-XK",
-    "name": "38601",
+    "mcode": "PPC-4792-38601-MG",
+    "name": "Pansy Fl Red",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2303,8 +2303,8 @@
     ]
   },
   {
-    "mcode": "PPC-93DE-38602-XK",
-    "name": "38602",
+    "mcode": "PPC-93DE-38602-MG",
+    "name": "Pansy Fl Blue",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2322,8 +2322,8 @@
     ]
   },
   {
-    "mcode": "PPC-104D-38603-XK",
-    "name": "38603",
+    "mcode": "PPC-104D-38603-MG",
+    "name": "Pansy Fl Purple",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2341,8 +2341,8 @@
     ]
   },
   {
-    "mcode": "PPC-1EE9-38604-XK",
-    "name": "38604",
+    "mcode": "PPC-1EE9-38604-MG",
+    "name": "Pansy Fl Pink",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2360,8 +2360,8 @@
     ]
   },
   {
-    "mcode": "PPC-730C-38701-XK",
-    "name": "38701",
+    "mcode": "PPC-730C-38701-MG",
+    "name": "Star Fl Pink",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2379,8 +2379,8 @@
     ]
   },
   {
-    "mcode": "PPC-9E67-38702-XK",
-    "name": "38702",
+    "mcode": "PPC-9E67-38702-MG",
+    "name": "Star Fl Red",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2398,8 +2398,8 @@
     ]
   },
   {
-    "mcode": "PPC-74B3-38703-XK",
-    "name": "38703",
+    "mcode": "PPC-74B3-38703-MG",
+    "name": "Star Fl Green",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2417,8 +2417,8 @@
     ]
   },
   {
-    "mcode": "PPC-23DC-38704-XK",
-    "name": "38704",
+    "mcode": "PPC-23DC-38704-MG",
+    "name": "Star Fl Blue",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2436,8 +2436,8 @@
     ]
   },
   {
-    "mcode": "PPC-9D8A-38705-XK",
-    "name": "38705",
+    "mcode": "PPC-9D8A-38705-MG",
+    "name": "Star Fl Orange",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2455,8 +2455,8 @@
     ]
   },
   {
-    "mcode": "PPC-1325-38801-XK",
-    "name": "38801",
+    "mcode": "PPC-1325-38801-MG",
+    "name": "Bandhani Red",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2474,8 +2474,8 @@
     ]
   },
   {
-    "mcode": "PPC-020A-38803-XK",
-    "name": "38803",
+    "mcode": "PPC-020A-38803-MG",
+    "name": "Bandhani Green",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2493,8 +2493,8 @@
     ]
   },
   {
-    "mcode": "PPC-2B4F-38804-XK",
-    "name": "38804",
+    "mcode": "PPC-2B4F-38804-MG",
+    "name": "Bandhani Blue",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2512,8 +2512,8 @@
     ]
   },
   {
-    "mcode": "PPC-B635-38901-XK",
-    "name": "38901",
+    "mcode": "PPC-B635-38901-MG",
+    "name": "Iris Fl Pink",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2531,8 +2531,8 @@
     ]
   },
   {
-    "mcode": "PPC-2A69-38902-XK",
-    "name": "38902",
+    "mcode": "PPC-2A69-38902-MG",
+    "name": "Iris Fl Red",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2550,8 +2550,8 @@
     ]
   },
   {
-    "mcode": "PPC-62BB-38903-XK",
-    "name": "38903",
+    "mcode": "PPC-62BB-38903-MG",
+    "name": "Iris Fl Green",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2569,8 +2569,8 @@
     ]
   },
   {
-    "mcode": "PPC-2BE6-38904-XK",
-    "name": "38904",
+    "mcode": "PPC-2BE6-38904-MG",
+    "name": "Iris Fl Blue",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2588,8 +2588,8 @@
     ]
   },
   {
-    "mcode": "PPC-F540-38905-XK",
-    "name": "38905",
+    "mcode": "PPC-F540-38905-MG",
+    "name": "Iris Fl Purple",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2607,8 +2607,8 @@
     ]
   },
   {
-    "mcode": "PPC-6DE7-39201-XK",
-    "name": "39201",
+    "mcode": "PPC-6DE7-39201-MG",
+    "name": "Leather Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2626,8 +2626,8 @@
     ]
   },
   {
-    "mcode": "PPC-1B0F-39301-XK",
-    "name": "39301",
+    "mcode": "PPC-1B0F-39301-MG",
+    "name": "Chiffon Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2645,8 +2645,8 @@
     ]
   },
   {
-    "mcode": "PPC-222F-39302-XK",
-    "name": "39302",
+    "mcode": "PPC-222F-39302-MG",
+    "name": "Chiffon Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2664,8 +2664,8 @@
     ]
   },
   {
-    "mcode": "PPC-55E6-39401-XK",
-    "name": "39401",
+    "mcode": "PPC-55E6-39401-MG",
+    "name": "Rayon Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2683,8 +2683,8 @@
     ]
   },
   {
-    "mcode": "PPC-60F8-39402-XK",
-    "name": "39402",
+    "mcode": "PPC-60F8-39402-MG",
+    "name": "Rayon Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2702,8 +2702,8 @@
     ]
   },
   {
-    "mcode": "PPC-8428-39501-XK",
-    "name": "39501",
+    "mcode": "PPC-8428-39501-MG",
+    "name": "Blended Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2721,8 +2721,8 @@
     ]
   },
   {
-    "mcode": "PPC-EC6C-39502-XK",
-    "name": "39502",
+    "mcode": "PPC-EC6C-39502-MG",
+    "name": "Blended Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2740,8 +2740,8 @@
     ]
   },
   {
-    "mcode": "PPC-79CD-39503-XK",
-    "name": "39503",
+    "mcode": "PPC-79CD-39503-MG",
+    "name": "Blended Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2759,8 +2759,8 @@
     ]
   },
   {
-    "mcode": "PPC-7D59-39504-XK",
-    "name": "39504",
+    "mcode": "PPC-7D59-39504-MG",
+    "name": "Blended Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2778,8 +2778,8 @@
     ]
   },
   {
-    "mcode": "PPC-8157-39505-XK",
-    "name": "39505",
+    "mcode": "PPC-8157-39505-MG",
+    "name": "Blended Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2797,8 +2797,8 @@
     ]
   },
   {
-    "mcode": "PPC-E1A5-39601-XK",
-    "name": "39601",
+    "mcode": "PPC-E1A5-39601-MG",
+    "name": "Tartans Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2816,8 +2816,8 @@
     ]
   },
   {
-    "mcode": "PPC-8575-39602-XK",
-    "name": "39602",
+    "mcode": "PPC-8575-39602-MG",
+    "name": "Tartans Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2835,8 +2835,8 @@
     ]
   },
   {
-    "mcode": "PPC-F9E2-39603-XK",
-    "name": "39603",
+    "mcode": "PPC-F9E2-39603-MG",
+    "name": "Tartans Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2854,8 +2854,8 @@
     ]
   },
   {
-    "mcode": "PPC-282A-39701-XK",
-    "name": "39701",
+    "mcode": "PPC-282A-39701-MG",
+    "name": "Cheviot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2873,8 +2873,8 @@
     ]
   },
   {
-    "mcode": "PPC-A4F1-39702-XK",
-    "name": "39702",
+    "mcode": "PPC-A4F1-39702-MG",
+    "name": "Cheviot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2892,8 +2892,8 @@
     ]
   },
   {
-    "mcode": "PPC-7B6A-39703-XK",
-    "name": "39703",
+    "mcode": "PPC-7B6A-39703-MG",
+    "name": "Cheviot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2911,8 +2911,8 @@
     ]
   },
   {
-    "mcode": "PPC-0590-39704-XK",
-    "name": "39704",
+    "mcode": "PPC-0590-39704-MG",
+    "name": "Cheviot Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2930,8 +2930,8 @@
     ]
   },
   {
-    "mcode": "PPC-4232-39801-XK",
-    "name": "39801",
+    "mcode": "PPC-4232-39801-MG",
+    "name": "Gauze Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2949,8 +2949,8 @@
     ]
   },
   {
-    "mcode": "PPC-03E7-39802-XK",
-    "name": "39802",
+    "mcode": "PPC-03E7-39802-MG",
+    "name": "Gauze Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2968,8 +2968,8 @@
     ]
   },
   {
-    "mcode": "PPC-8A7E-39803-XK",
-    "name": "39803",
+    "mcode": "PPC-8A7E-39803-MG",
+    "name": "Gauze Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -2987,8 +2987,8 @@
     ]
   },
   {
-    "mcode": "PPC-EBF0-39804-XK",
-    "name": "39804",
+    "mcode": "PPC-EBF0-39804-MG",
+    "name": "Gauze Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3006,8 +3006,8 @@
     ]
   },
   {
-    "mcode": "PPC-A779-39901-XK",
-    "name": "39901",
+    "mcode": "PPC-A779-39901-MG",
+    "name": "Woven Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3025,8 +3025,8 @@
     ]
   },
   {
-    "mcode": "PPC-EBCE-39902-XK",
-    "name": "39902",
+    "mcode": "PPC-EBCE-39902-MG",
+    "name": "Woven Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3044,8 +3044,8 @@
     ]
   },
   {
-    "mcode": "PPC-8AD9-40001-XK",
-    "name": "40001",
+    "mcode": "PPC-8AD9-40001-MG",
+    "name": "Fine Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3063,8 +3063,8 @@
     ]
   },
   {
-    "mcode": "PPC-E0AA-40002-XK",
-    "name": "40002",
+    "mcode": "PPC-E0AA-40002-MG",
+    "name": "Fine Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3082,8 +3082,8 @@
     ]
   },
   {
-    "mcode": "PPC-4179-40003-XK",
-    "name": "40003",
+    "mcode": "PPC-4179-40003-MG",
+    "name": "Fine Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3101,8 +3101,8 @@
     ]
   },
   {
-    "mcode": "PPC-F966-40004-XK",
-    "name": "40004",
+    "mcode": "PPC-F966-40004-MG",
+    "name": "Fine Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3120,8 +3120,8 @@
     ]
   },
   {
-    "mcode": "PPC-8E02-40101-XK",
-    "name": "40101",
+    "mcode": "PPC-8E02-40101-MG",
+    "name": "Canadian Larch",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3139,8 +3139,8 @@
     ]
   },
   {
-    "mcode": "PPC-8525-40102-XK",
-    "name": "40102",
+    "mcode": "PPC-8525-40102-MG",
+    "name": "Canadian Larch",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3158,8 +3158,8 @@
     ]
   },
   {
-    "mcode": "PPC-A2E6-40103-XK",
-    "name": "40103",
+    "mcode": "PPC-A2E6-40103-MG",
+    "name": "Canadian Larch",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3177,8 +3177,8 @@
     ]
   },
   {
-    "mcode": "PPC-8EE9-40104-XK",
-    "name": "40104",
+    "mcode": "PPC-8EE9-40104-MG",
+    "name": "Canadian Larch",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3196,8 +3196,8 @@
     ]
   },
   {
-    "mcode": "PPC-3F5F-40201-XK",
-    "name": "40201",
+    "mcode": "PPC-3F5F-40201-MG",
+    "name": "Camely Teak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3215,8 +3215,8 @@
     ]
   },
   {
-    "mcode": "PPC-8A7E-40203-XK",
-    "name": "40203",
+    "mcode": "PPC-8A7E-40203-MG",
+    "name": "Camely Teak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3234,8 +3234,8 @@
     ]
   },
   {
-    "mcode": "PPC-9EDC-40204-XK",
-    "name": "40204",
+    "mcode": "PPC-9EDC-40204-MG",
+    "name": "Camely Teak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3253,8 +3253,8 @@
     ]
   },
   {
-    "mcode": "PPC-54D2-40301-XK",
-    "name": "40301",
+    "mcode": "PPC-54D2-40301-MG",
+    "name": "Herring Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3272,8 +3272,8 @@
     ]
   },
   {
-    "mcode": "PPC-E261-40302-XK",
-    "name": "40302",
+    "mcode": "PPC-E261-40302-MG",
+    "name": "Herring Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3291,8 +3291,8 @@
     ]
   },
   {
-    "mcode": "PPC-A168-40401-XK",
-    "name": "40401",
+    "mcode": "PPC-A168-40401-MG",
+    "name": "Threads",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3310,8 +3310,8 @@
     ]
   },
   {
-    "mcode": "PPC-CE05-40402-XK",
-    "name": "40402",
+    "mcode": "PPC-CE05-40402-MG",
+    "name": "Threads",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3329,8 +3329,8 @@
     ]
   },
   {
-    "mcode": "PPC-9B35-40501-XK",
-    "name": "40501",
+    "mcode": "PPC-9B35-40501-MG",
+    "name": "Rustic Linen",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3348,8 +3348,8 @@
     ]
   },
   {
-    "mcode": "PPC-1846-40601-XK",
-    "name": "40601",
+    "mcode": "PPC-1846-40601-MG",
+    "name": "Square Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3367,8 +3367,8 @@
     ]
   },
   {
-    "mcode": "PPC-7BD8-40602-XK",
-    "name": "40602",
+    "mcode": "PPC-7BD8-40602-MG",
+    "name": "Square Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3386,8 +3386,8 @@
     ]
   },
   {
-    "mcode": "PPC-1C20-40603-XK",
-    "name": "40603",
+    "mcode": "PPC-1C20-40603-MG",
+    "name": "Square Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3405,8 +3405,8 @@
     ]
   },
   {
-    "mcode": "PPC-1E2C-40701-XK",
-    "name": "40701",
+    "mcode": "PPC-1E2C-40701-MG",
+    "name": "Spanish Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3424,8 +3424,8 @@
     ]
   },
   {
-    "mcode": "PPC-DB2E-40702-XK",
-    "name": "40702",
+    "mcode": "PPC-DB2E-40702-MG",
+    "name": "Spanish Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3443,8 +3443,8 @@
     ]
   },
   {
-    "mcode": "PPC-77A1-40703-XK",
-    "name": "40703",
+    "mcode": "PPC-77A1-40703-MG",
+    "name": "Spanish Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3462,8 +3462,8 @@
     ]
   },
   {
-    "mcode": "PPC-60A7-40704-XK",
-    "name": "40704",
+    "mcode": "PPC-60A7-40704-MG",
+    "name": "Spanish Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3481,8 +3481,8 @@
     ]
   },
   {
-    "mcode": "PPC-34A1-40801-XK",
-    "name": "40801",
+    "mcode": "PPC-34A1-40801-MG",
+    "name": "Mighty Wood",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3500,8 +3500,8 @@
     ]
   },
   {
-    "mcode": "PPC-583A-40802-XK",
-    "name": "40802",
+    "mcode": "PPC-583A-40802-MG",
+    "name": "Mighty Wood",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3519,8 +3519,8 @@
     ]
   },
   {
-    "mcode": "PPC-29B4-40803-XK",
-    "name": "40803",
+    "mcode": "PPC-29B4-40803-MG",
+    "name": "Mighty Wood",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3538,8 +3538,8 @@
     ]
   },
   {
-    "mcode": "PPC-5814-40804-XK",
-    "name": "40804",
+    "mcode": "PPC-5814-40804-MG",
+    "name": "Mighty Wood",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3557,8 +3557,8 @@
     ]
   },
   {
-    "mcode": "PPC-7AEA-40901-XK",
-    "name": "40901",
+    "mcode": "PPC-7AEA-40901-MG",
+    "name": "Garnet",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3576,8 +3576,8 @@
     ]
   },
   {
-    "mcode": "PPC-0F5B-40902-XK",
-    "name": "40902",
+    "mcode": "PPC-0F5B-40902-MG",
+    "name": "Garnet",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3595,8 +3595,8 @@
     ]
   },
   {
-    "mcode": "PPC-4EB5-40903-XK",
-    "name": "40903",
+    "mcode": "PPC-4EB5-40903-MG",
+    "name": "Garnet",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3614,8 +3614,8 @@
     ]
   },
   {
-    "mcode": "PPC-FC4B-40904-XK",
-    "name": "40904",
+    "mcode": "PPC-FC4B-40904-MG",
+    "name": "Garnet",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3633,8 +3633,8 @@
     ]
   },
   {
-    "mcode": "PPC-0C28-41001-XK",
-    "name": "41001",
+    "mcode": "PPC-0C28-41001-MG",
+    "name": "Marble Brown",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3652,8 +3652,8 @@
     ]
   },
   {
-    "mcode": "PPC-79E2-41002-XK",
-    "name": "41002",
+    "mcode": "PPC-79E2-41002-MG",
+    "name": "Marble Brown",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3671,8 +3671,8 @@
     ]
   },
   {
-    "mcode": "PPC-EADB-41101-XK",
-    "name": "41101",
+    "mcode": "PPC-EADB-41101-MG",
+    "name": "Black Label",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3690,8 +3690,8 @@
     ]
   },
   {
-    "mcode": "PPC-D72F-41201-XK",
-    "name": "41201",
+    "mcode": "PPC-D72F-41201-MG",
+    "name": "Coco Walnut",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3709,8 +3709,8 @@
     ]
   },
   {
-    "mcode": "PPC-B822-41301-XK",
-    "name": "41301",
+    "mcode": "PPC-B822-41301-MG",
+    "name": "Straight Walnut",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3728,8 +3728,8 @@
     ]
   },
   {
-    "mcode": "PPC-1E26-41401-XK",
-    "name": "41401",
+    "mcode": "PPC-1E26-41401-MG",
+    "name": "Walnut",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3747,8 +3747,8 @@
     ]
   },
   {
-    "mcode": "PPC-7E2D-41501-XK",
-    "name": "41501",
+    "mcode": "PPC-7E2D-41501-MG",
+    "name": "Exotic Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3766,8 +3766,8 @@
     ]
   },
   {
-    "mcode": "PPC-A01D-41502-XK",
-    "name": "41502",
+    "mcode": "PPC-A01D-41502-MG",
+    "name": "Exotic Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3785,8 +3785,8 @@
     ]
   },
   {
-    "mcode": "PPC-5194-41601-XK",
-    "name": "41601",
+    "mcode": "PPC-5194-41601-MG",
+    "name": "Mesh Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3804,8 +3804,8 @@
     ]
   },
   {
-    "mcode": "PPC-C482-41602-XK",
-    "name": "41602",
+    "mcode": "PPC-C482-41602-MG",
+    "name": "Mesh Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3823,8 +3823,8 @@
     ]
   },
   {
-    "mcode": "PPC-F538-4163-XK",
-    "name": "4163",
+    "mcode": "PPC-F538-4163-MG",
+    "name": "Cambridge Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3842,8 +3842,8 @@
     ]
   },
   {
-    "mcode": "PPC-C256-41701-XK",
-    "name": "41701",
+    "mcode": "PPC-C256-41701-MG",
+    "name": "Terry Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3861,8 +3861,8 @@
     ]
   },
   {
-    "mcode": "PPC-8581-41702-XK",
-    "name": "41702",
+    "mcode": "PPC-8581-41702-MG",
+    "name": "Terry Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3880,8 +3880,8 @@
     ]
   },
   {
-    "mcode": "PPC-E212-41801-XK",
-    "name": "41801",
+    "mcode": "PPC-E212-41801-MG",
+    "name": "Dusk Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3899,8 +3899,8 @@
     ]
   },
   {
-    "mcode": "PPC-BB46-41802-XK",
-    "name": "41802",
+    "mcode": "PPC-BB46-41802-MG",
+    "name": "Dusk Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3918,8 +3918,8 @@
     ]
   },
   {
-    "mcode": "PPC-3F86-41902-XK",
-    "name": "41902",
+    "mcode": "PPC-3F86-41902-MG",
+    "name": "Rope Crush",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3937,8 +3937,8 @@
     ]
   },
   {
-    "mcode": "PPC-F2FF-41903-XK",
-    "name": "41903",
+    "mcode": "PPC-F2FF-41903-MG",
+    "name": "Rope Crush",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3956,8 +3956,8 @@
     ]
   },
   {
-    "mcode": "PPC-2326-41904-XK",
-    "name": "41904",
+    "mcode": "PPC-2326-41904-MG",
+    "name": "Rope Crush",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -3975,7 +3975,7 @@
     ]
   },
   {
-    "mcode": "PPC-CCC8-42301-XK",
+    "mcode": "PPC-CCC8-42301-MG",
     "name": "42301",
     "series": "LINO",
     "source": "atelier",
@@ -3994,7 +3994,7 @@
     ]
   },
   {
-    "mcode": "PPC-C9F3-42302-XK",
+    "mcode": "PPC-C9F3-42302-MG",
     "name": "42302",
     "series": "LINO",
     "source": "atelier",
@@ -4013,7 +4013,7 @@
     ]
   },
   {
-    "mcode": "PPC-1C90-42401-l-XK",
+    "mcode": "PPC-1C90-42401-l-MG",
     "name": "42401-l",
     "series": "LINO",
     "source": "atelier",
@@ -4032,7 +4032,7 @@
     ]
   },
   {
-    "mcode": "PPC-4D17-42402-XK",
+    "mcode": "PPC-4D17-42402-MG",
     "name": "42402",
     "series": "LINO",
     "source": "atelier",
@@ -4051,7 +4051,7 @@
     ]
   },
   {
-    "mcode": "PPC-9C4E-42501-XK",
+    "mcode": "PPC-9C4E-42501-MG",
     "name": "42501",
     "series": "LINO",
     "source": "atelier",
@@ -4070,7 +4070,7 @@
     ]
   },
   {
-    "mcode": "PPC-1FE0-42502-XK",
+    "mcode": "PPC-1FE0-42502-MG",
     "name": "42502",
     "series": "LINO",
     "source": "atelier",
@@ -4089,7 +4089,7 @@
     ]
   },
   {
-    "mcode": "PPC-F86E-42503-XK",
+    "mcode": "PPC-F86E-42503-MG",
     "name": "42503",
     "series": "LINO",
     "source": "atelier",
@@ -4108,7 +4108,7 @@
     ]
   },
   {
-    "mcode": "PPC-E038-42504-XK",
+    "mcode": "PPC-E038-42504-MG",
     "name": "42504",
     "series": "LINO",
     "source": "atelier",
@@ -4127,7 +4127,7 @@
     ]
   },
   {
-    "mcode": "PPC-90B3-42601-XK",
+    "mcode": "PPC-90B3-42601-MG",
     "name": "42601",
     "series": "LINO",
     "source": "atelier",
@@ -4146,7 +4146,7 @@
     ]
   },
   {
-    "mcode": "PPC-B206-42602-XK",
+    "mcode": "PPC-B206-42602-MG",
     "name": "42602",
     "series": "LINO",
     "source": "atelier",
@@ -4165,7 +4165,7 @@
     ]
   },
   {
-    "mcode": "PPC-FA67-42603-XK",
+    "mcode": "PPC-FA67-42603-MG",
     "name": "42603",
     "series": "LINO",
     "source": "atelier",
@@ -4184,7 +4184,7 @@
     ]
   },
   {
-    "mcode": "PPC-629C-42604-XK",
+    "mcode": "PPC-629C-42604-MG",
     "name": "42604",
     "series": "LINO",
     "source": "atelier",
@@ -4203,7 +4203,7 @@
     ]
   },
   {
-    "mcode": "PPC-EA30-43201-XK",
+    "mcode": "PPC-EA30-43201-MG",
     "name": "43201",
     "series": "LINO",
     "source": "atelier",
@@ -4222,7 +4222,7 @@
     ]
   },
   {
-    "mcode": "PPC-0BC5-43202-XK",
+    "mcode": "PPC-0BC5-43202-MG",
     "name": "43202",
     "series": "LINO",
     "source": "atelier",
@@ -4241,7 +4241,7 @@
     ]
   },
   {
-    "mcode": "PPC-195C-43203-XK",
+    "mcode": "PPC-195C-43203-MG",
     "name": "43203",
     "series": "LINO",
     "source": "atelier",
@@ -4260,7 +4260,7 @@
     ]
   },
   {
-    "mcode": "PPC-E3D1-43204-XK",
+    "mcode": "PPC-E3D1-43204-MG",
     "name": "43204",
     "series": "LINO",
     "source": "atelier",
@@ -4279,7 +4279,7 @@
     ]
   },
   {
-    "mcode": "PPC-4ECD-43301-XK",
+    "mcode": "PPC-4ECD-43301-MG",
     "name": "43301",
     "series": "LINO",
     "source": "atelier",
@@ -4298,7 +4298,7 @@
     ]
   },
   {
-    "mcode": "PPC-38FC-43302-XK",
+    "mcode": "PPC-38FC-43302-MG",
     "name": "43302",
     "series": "LINO",
     "source": "atelier",
@@ -4317,7 +4317,7 @@
     ]
   },
   {
-    "mcode": "PPC-89D1-43401-XK",
+    "mcode": "PPC-89D1-43401-MG",
     "name": "43401",
     "series": "LINO",
     "source": "atelier",
@@ -4336,7 +4336,7 @@
     ]
   },
   {
-    "mcode": "PPC-BADE-43402-XK",
+    "mcode": "PPC-BADE-43402-MG",
     "name": "43402",
     "series": "LINO",
     "source": "atelier",
@@ -4355,7 +4355,7 @@
     ]
   },
   {
-    "mcode": "PPC-4408-43403-XK",
+    "mcode": "PPC-4408-43403-MG",
     "name": "43403",
     "series": "LINO",
     "source": "atelier",
@@ -4374,7 +4374,7 @@
     ]
   },
   {
-    "mcode": "PPC-7474-43501-XK",
+    "mcode": "PPC-7474-43501-MG",
     "name": "43501",
     "series": "LINO",
     "source": "atelier",
@@ -4393,7 +4393,7 @@
     ]
   },
   {
-    "mcode": "PPC-A66C-43502-XK",
+    "mcode": "PPC-A66C-43502-MG",
     "name": "43502",
     "series": "LINO",
     "source": "atelier",
@@ -4412,7 +4412,7 @@
     ]
   },
   {
-    "mcode": "PPC-ECAF-43503-XK",
+    "mcode": "PPC-ECAF-43503-MG",
     "name": "43503",
     "series": "LINO",
     "source": "atelier",
@@ -4431,7 +4431,7 @@
     ]
   },
   {
-    "mcode": "PPC-8BE3-43504-XK",
+    "mcode": "PPC-8BE3-43504-MG",
     "name": "43504",
     "series": "LINO",
     "source": "atelier",
@@ -4450,7 +4450,7 @@
     ]
   },
   {
-    "mcode": "PPC-9729-43601-XK",
+    "mcode": "PPC-9729-43601-MG",
     "name": "43601",
     "series": "LINO",
     "source": "atelier",
@@ -4469,7 +4469,7 @@
     ]
   },
   {
-    "mcode": "PPC-6FFE-43602-XK",
+    "mcode": "PPC-6FFE-43602-MG",
     "name": "43602",
     "series": "LINO",
     "source": "atelier",
@@ -4488,7 +4488,7 @@
     ]
   },
   {
-    "mcode": "PPC-09CC-43603-XK",
+    "mcode": "PPC-09CC-43603-MG",
     "name": "43603",
     "series": "LINO",
     "source": "atelier",
@@ -4507,7 +4507,7 @@
     ]
   },
   {
-    "mcode": "PPC-93B0-43604-XK",
+    "mcode": "PPC-93B0-43604-MG",
     "name": "43604",
     "series": "LINO",
     "source": "atelier",
@@ -4526,7 +4526,7 @@
     ]
   },
   {
-    "mcode": "PPC-5BBE-43701-XK",
+    "mcode": "PPC-5BBE-43701-MG",
     "name": "43701",
     "series": "LINO",
     "source": "atelier",
@@ -4545,7 +4545,7 @@
     ]
   },
   {
-    "mcode": "PPC-E488-43702-XK",
+    "mcode": "PPC-E488-43702-MG",
     "name": "43702",
     "series": "LINO",
     "source": "atelier",
@@ -4564,7 +4564,7 @@
     ]
   },
   {
-    "mcode": "PPC-DDBF-43801-XK",
+    "mcode": "PPC-DDBF-43801-MG",
     "name": "43801",
     "series": "LINO",
     "source": "atelier",
@@ -4583,7 +4583,7 @@
     ]
   },
   {
-    "mcode": "PPC-B5B1-43802-XK",
+    "mcode": "PPC-B5B1-43802-MG",
     "name": "43802",
     "series": "LINO",
     "source": "atelier",
@@ -4602,7 +4602,7 @@
     ]
   },
   {
-    "mcode": "PPC-7009-43803-XK",
+    "mcode": "PPC-7009-43803-MG",
     "name": "43803",
     "series": "LINO",
     "source": "atelier",
@@ -4621,8 +4621,8 @@
     ]
   },
   {
-    "mcode": "PPC-9B9B-43901-XK",
-    "name": "43901",
+    "mcode": "PPC-9B9B-43901-MG",
+    "name": "Cavalli Ash",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4640,8 +4640,8 @@
     ]
   },
   {
-    "mcode": "PPC-9E28-43902-XK",
-    "name": "43902",
+    "mcode": "PPC-9E28-43902-MG",
+    "name": "Cavalli Ash",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4659,8 +4659,8 @@
     ]
   },
   {
-    "mcode": "PPC-390C-43903-XK",
-    "name": "43903",
+    "mcode": "PPC-390C-43903-MG",
+    "name": "Cavalli Ash",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4678,8 +4678,8 @@
     ]
   },
   {
-    "mcode": "PPC-7789-43904-XK",
-    "name": "43904",
+    "mcode": "PPC-7789-43904-MG",
+    "name": "Cavalli Ash",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4697,8 +4697,8 @@
     ]
   },
   {
-    "mcode": "PPC-ACD2-44001-XK",
-    "name": "44001",
+    "mcode": "PPC-ACD2-44001-MG",
+    "name": "Sorello Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4716,8 +4716,8 @@
     ]
   },
   {
-    "mcode": "PPC-AE0C-44002-XK",
-    "name": "44002",
+    "mcode": "PPC-AE0C-44002-MG",
+    "name": "Sorello Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4735,8 +4735,8 @@
     ]
   },
   {
-    "mcode": "PPC-8426-44003-XK",
-    "name": "44003",
+    "mcode": "PPC-8426-44003-MG",
+    "name": "Sorello Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4754,8 +4754,8 @@
     ]
   },
   {
-    "mcode": "PPC-5633-44004-XK",
-    "name": "44004",
+    "mcode": "PPC-5633-44004-MG",
+    "name": "Sorello Oak",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4773,8 +4773,8 @@
     ]
   },
   {
-    "mcode": "PPC-9BA8-44101-XK",
-    "name": "44101",
+    "mcode": "PPC-9BA8-44101-MG",
+    "name": "Cane Weave",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4792,8 +4792,8 @@
     ]
   },
   {
-    "mcode": "PPC-9B6D-44102-XK",
-    "name": "44102",
+    "mcode": "PPC-9B6D-44102-MG",
+    "name": "Cane Weave",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4811,8 +4811,8 @@
     ]
   },
   {
-    "mcode": "PPC-9A2E-44103-XK",
-    "name": "44103",
+    "mcode": "PPC-9A2E-44103-MG",
+    "name": "Cane Weave",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4830,8 +4830,8 @@
     ]
   },
   {
-    "mcode": "PPC-8D53-44201-XK",
-    "name": "44201",
+    "mcode": "PPC-8D53-44201-MG",
+    "name": "Twill",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4849,8 +4849,8 @@
     ]
   },
   {
-    "mcode": "PPC-09B0-44202-XK",
-    "name": "44202",
+    "mcode": "PPC-09B0-44202-MG",
+    "name": "Twill",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4868,8 +4868,8 @@
     ]
   },
   {
-    "mcode": "PPC-6A24-44203-XK",
-    "name": "44203",
+    "mcode": "PPC-6A24-44203-MG",
+    "name": "Twill",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4887,8 +4887,8 @@
     ]
   },
   {
-    "mcode": "PPC-1AAD-44301-XK",
-    "name": "44301",
+    "mcode": "PPC-1AAD-44301-MG",
+    "name": "Cortona",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4906,8 +4906,8 @@
     ]
   },
   {
-    "mcode": "PPC-9448-44302-XK",
-    "name": "44302",
+    "mcode": "PPC-9448-44302-MG",
+    "name": "Cortona",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4925,8 +4925,8 @@
     ]
   },
   {
-    "mcode": "PPC-4803-44303-XK",
-    "name": "44303",
+    "mcode": "PPC-4803-44303-MG",
+    "name": "Cortona",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4944,8 +4944,8 @@
     ]
   },
   {
-    "mcode": "PPC-AB35-44401-XK",
-    "name": "44401",
+    "mcode": "PPC-AB35-44401-MG",
+    "name": "Forma",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4963,8 +4963,8 @@
     ]
   },
   {
-    "mcode": "PPC-0AD2-44402-XK",
-    "name": "44402",
+    "mcode": "PPC-0AD2-44402-MG",
+    "name": "Forma",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -4982,8 +4982,8 @@
     ]
   },
   {
-    "mcode": "PPC-AC61-44403-XK",
-    "name": "44403",
+    "mcode": "PPC-AC61-44403-MG",
+    "name": "Forma",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -5001,8 +5001,8 @@
     ]
   },
   {
-    "mcode": "PPC-7F09-44501-XK",
-    "name": "44501",
+    "mcode": "PPC-7F09-44501-MG",
+    "name": "Trama Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -5020,8 +5020,8 @@
     ]
   },
   {
-    "mcode": "PPC-2E36-44502-XK",
-    "name": "44502",
+    "mcode": "PPC-2E36-44502-MG",
+    "name": "Trama Fab",
     "series": "LINO",
     "source": "atelier",
     "line": "decorative",
@@ -5039,7 +5039,7 @@
     ]
   },
   {
-    "mcode": "PPC-58E6-e-XK",
+    "mcode": "PPC-58E6-e-MG",
     "name": "e",
     "series": "LINO",
     "source": "atelier",
@@ -5170,7 +5170,7 @@
     ]
   },
   {
-    "mcode": "PPC-BA95-e-1007-XK",
+    "mcode": "PPC-BA95-e-1007-MG",
     "name": "e-1007",
     "series": "LINO",
     "source": "atelier",
@@ -5196,7 +5196,7 @@
     ]
   },
   {
-    "mcode": "PPC-69DC-e-black-oak-XK",
+    "mcode": "PPC-69DC-e-black-oak-MG",
     "name": "e-black-oak",
     "series": "LINO",
     "source": "atelier",
@@ -5215,7 +5215,7 @@
     ]
   },
   {
-    "mcode": "PPC-B58A-e-lemon-oak-XK",
+    "mcode": "PPC-B58A-e-lemon-oak-MG",
     "name": "e-lemon-oak",
     "series": "LINO",
     "source": "atelier",
@@ -5234,7 +5234,7 @@
     ]
   },
   {
-    "mcode": "PPC-6386-e-naina-teak-red-XK",
+    "mcode": "PPC-6386-e-naina-teak-red-MG",
     "name": "e-naina-teak-red",
     "series": "LINO",
     "source": "atelier",
@@ -5253,7 +5253,7 @@
     ]
   },
   {
-    "mcode": "PPC-4AF5-e1026-XK",
+    "mcode": "PPC-4AF5-e1026-MG",
     "name": "e1026",
     "series": "LINO",
     "source": "atelier",
@@ -5272,7 +5272,7 @@
     ]
   },
   {
-    "mcode": "PPC-37ED-e1027-XK",
+    "mcode": "PPC-37ED-e1027-MG",
     "name": "e1027",
     "series": "LINO",
     "source": "atelier",
@@ -5291,7 +5291,7 @@
     ]
   },
   {
-    "mcode": "PPC-C1D2-e1031-XK",
+    "mcode": "PPC-C1D2-e1031-MG",
     "name": "e1031",
     "series": "LINO",
     "source": "atelier",
@@ -5310,7 +5310,7 @@
     ]
   },
   {
-    "mcode": "PPC-83D9-e20101-XK",
+    "mcode": "PPC-83D9-e20101-MG",
     "name": "e20101",
     "series": "LINO",
     "source": "atelier",
@@ -5329,7 +5329,7 @@
     ]
   },
   {
-    "mcode": "PPC-28C9-e20102-XK",
+    "mcode": "PPC-28C9-e20102-MG",
     "name": "e20102",
     "series": "LINO",
     "source": "atelier",
@@ -5348,7 +5348,7 @@
     ]
   },
   {
-    "mcode": "PPC-8580-e20503-XK",
+    "mcode": "PPC-8580-e20503-MG",
     "name": "e20503",
     "series": "LINO",
     "source": "atelier",
@@ -5367,7 +5367,7 @@
     ]
   },
   {
-    "mcode": "PPC-BB15-e20504-XK",
+    "mcode": "PPC-BB15-e20504-MG",
     "name": "e20504",
     "series": "LINO",
     "source": "atelier",
@@ -5386,7 +5386,7 @@
     ]
   },
   {
-    "mcode": "PPC-6CA4-e20806-XK",
+    "mcode": "PPC-6CA4-e20806-MG",
     "name": "e20806",
     "series": "LINO",
     "source": "atelier",
@@ -5405,7 +5405,7 @@
     ]
   },
   {
-    "mcode": "PPC-33D3-e20807-XK",
+    "mcode": "PPC-33D3-e20807-MG",
     "name": "e20807",
     "series": "LINO",
     "source": "atelier",
@@ -5424,7 +5424,7 @@
     ]
   },
   {
-    "mcode": "PPC-D463-e22001-XK",
+    "mcode": "PPC-D463-e22001-MG",
     "name": "e22001",
     "series": "LINO",
     "source": "atelier",
@@ -5443,7 +5443,7 @@
     ]
   },
   {
-    "mcode": "PPC-F7EB-e22801-XK",
+    "mcode": "PPC-F7EB-e22801-MG",
     "name": "e22801",
     "series": "LINO",
     "source": "atelier",
@@ -5462,7 +5462,7 @@
     ]
   },
   {
-    "mcode": "PPC-1A08-e22806-XK",
+    "mcode": "PPC-1A08-e22806-MG",
     "name": "e22806",
     "series": "LINO",
     "source": "atelier",
@@ -5481,7 +5481,7 @@
     ]
   },
   {
-    "mcode": "PPC-003E-e23501-XK",
+    "mcode": "PPC-003E-e23501-MG",
     "name": "e23501",
     "series": "LINO",
     "source": "atelier",
@@ -5500,7 +5500,7 @@
     ]
   },
   {
-    "mcode": "PPC-3E56-e23502-XK",
+    "mcode": "PPC-3E56-e23502-MG",
     "name": "e23502",
     "series": "LINO",
     "source": "atelier",
@@ -5519,7 +5519,7 @@
     ]
   },
   {
-    "mcode": "PPC-264C-e24203-XK",
+    "mcode": "PPC-264C-e24203-MG",
     "name": "e24203",
     "series": "LINO",
     "source": "atelier",
@@ -5538,7 +5538,7 @@
     ]
   },
   {
-    "mcode": "PPC-A763-e24204-XK",
+    "mcode": "PPC-A763-e24204-MG",
     "name": "e24204",
     "series": "LINO",
     "source": "atelier",
@@ -5557,7 +5557,7 @@
     ]
   },
   {
-    "mcode": "PPC-87F4-e31701-XK",
+    "mcode": "PPC-87F4-e31701-MG",
     "name": "e31701",
     "series": "LINO",
     "source": "atelier",
@@ -5576,7 +5576,7 @@
     ]
   },
   {
-    "mcode": "PPC-97CD-e31702-XK",
+    "mcode": "PPC-97CD-e31702-MG",
     "name": "e31702",
     "series": "LINO",
     "source": "atelier",
@@ -5595,7 +5595,7 @@
     ]
   },
   {
-    "mcode": "PPC-7B0F-e31703-XK",
+    "mcode": "PPC-7B0F-e31703-MG",
     "name": "e31703",
     "series": "LINO",
     "source": "atelier",
@@ -5614,7 +5614,7 @@
     ]
   },
   {
-    "mcode": "PPC-426D-e31704-XK",
+    "mcode": "PPC-426D-e31704-MG",
     "name": "e31704",
     "series": "LINO",
     "source": "atelier",
@@ -5633,7 +5633,7 @@
     ]
   },
   {
-    "mcode": "PPC-4F5E-e31705-XK",
+    "mcode": "PPC-4F5E-e31705-MG",
     "name": "e31705",
     "series": "LINO",
     "source": "atelier",
@@ -5652,7 +5652,7 @@
     ]
   },
   {
-    "mcode": "PPC-64C0-e31706-XK",
+    "mcode": "PPC-64C0-e31706-MG",
     "name": "e31706",
     "series": "LINO",
     "source": "atelier",
@@ -5671,7 +5671,7 @@
     ]
   },
   {
-    "mcode": "PPC-DD01-1001-XK",
+    "mcode": "PPC-DD01-1001-MG",
     "name": "1001",
     "series": "NATURAL",
     "source": "atelier",
@@ -5697,7 +5697,7 @@
     ]
   },
   {
-    "mcode": "PPC-9F6B-1003-XK",
+    "mcode": "PPC-9F6B-1003-MG",
     "name": "1003",
     "series": "NATURAL",
     "source": "atelier",
@@ -5730,7 +5730,7 @@
     ]
   },
   {
-    "mcode": "PPC-70B8-1004-XK",
+    "mcode": "PPC-70B8-1004-MG",
     "name": "1004",
     "series": "NATURAL",
     "source": "atelier",
@@ -5763,7 +5763,7 @@
     ]
   },
   {
-    "mcode": "PPC-8554-1006-XK",
+    "mcode": "PPC-8554-1006-MG",
     "name": "1006",
     "series": "NATURAL",
     "source": "atelier",
@@ -5782,7 +5782,7 @@
     ]
   },
   {
-    "mcode": "PPC-1CCA-1007-XK",
+    "mcode": "PPC-1CCA-1007-MG",
     "name": "1007",
     "series": "NATURAL",
     "source": "atelier",
@@ -5801,7 +5801,7 @@
     ]
   },
   {
-    "mcode": "PPC-FF1E-1008-XK",
+    "mcode": "PPC-FF1E-1008-MG",
     "name": "1008",
     "series": "NATURAL",
     "source": "atelier",
@@ -5827,7 +5827,7 @@
     ]
   },
   {
-    "mcode": "PPC-DD2D-1011-XK",
+    "mcode": "PPC-DD2D-1011-MG",
     "name": "1011",
     "series": "NATURAL",
     "source": "atelier",
@@ -5853,7 +5853,7 @@
     ]
   },
   {
-    "mcode": "PPC-899A-1012-XK",
+    "mcode": "PPC-899A-1012-MG",
     "name": "1012",
     "series": "NATURAL",
     "source": "atelier",
@@ -5886,7 +5886,7 @@
     ]
   },
   {
-    "mcode": "PPC-BA5B-1013-XK",
+    "mcode": "PPC-BA5B-1013-MG",
     "name": "1013",
     "series": "NATURAL",
     "source": "atelier",
@@ -5912,7 +5912,7 @@
     ]
   },
   {
-    "mcode": "PPC-6AB9-1015-XK",
+    "mcode": "PPC-6AB9-1015-MG",
     "name": "1015",
     "series": "NATURAL",
     "source": "atelier",
@@ -5952,7 +5952,7 @@
     ]
   },
   {
-    "mcode": "PPC-49AE-1016-XK",
+    "mcode": "PPC-49AE-1016-MG",
     "name": "1016",
     "series": "NATURAL",
     "source": "atelier",
@@ -5971,7 +5971,7 @@
     ]
   },
   {
-    "mcode": "PPC-4DD2-1017-XK",
+    "mcode": "PPC-4DD2-1017-MG",
     "name": "1017",
     "series": "NATURAL",
     "source": "atelier",
@@ -5990,7 +5990,7 @@
     ]
   },
   {
-    "mcode": "PPC-00E2-1021-XK",
+    "mcode": "PPC-00E2-1021-MG",
     "name": "1021",
     "series": "NATURAL",
     "source": "atelier",
@@ -6023,7 +6023,7 @@
     ]
   },
   {
-    "mcode": "PPC-1388-1023-XK",
+    "mcode": "PPC-1388-1023-MG",
     "name": "1023",
     "series": "NATURAL",
     "source": "atelier",
@@ -6042,7 +6042,7 @@
     ]
   },
   {
-    "mcode": "PPC-1283-1024-XK",
+    "mcode": "PPC-1283-1024-MG",
     "name": "1024",
     "series": "NATURAL",
     "source": "atelier",
@@ -6061,7 +6061,7 @@
     ]
   },
   {
-    "mcode": "PPC-BCA2-1025-XK",
+    "mcode": "PPC-BCA2-1025-MG",
     "name": "1025",
     "series": "NATURAL",
     "source": "atelier",
@@ -6080,7 +6080,7 @@
     ]
   },
   {
-    "mcode": "PPC-1837-1026-XK",
+    "mcode": "PPC-1837-1026-MG",
     "name": "1026",
     "series": "NATURAL",
     "source": "atelier",
@@ -6106,7 +6106,7 @@
     ]
   },
   {
-    "mcode": "PPC-5410-1030-XK",
+    "mcode": "PPC-5410-1030-MG",
     "name": "1030",
     "series": "NATURAL",
     "source": "atelier",
@@ -6132,7 +6132,7 @@
     ]
   },
   {
-    "mcode": "PPC-2904-1034-XK",
+    "mcode": "PPC-2904-1034-MG",
     "name": "1034",
     "series": "NATURAL",
     "source": "atelier",
@@ -6158,7 +6158,7 @@
     ]
   },
   {
-    "mcode": "PPC-3D41-1036-XK",
+    "mcode": "PPC-3D41-1036-MG",
     "name": "1036",
     "series": "NATURAL",
     "source": "atelier",
@@ -6177,7 +6177,7 @@
     ]
   },
   {
-    "mcode": "PPC-EA10-1040-XK",
+    "mcode": "PPC-EA10-1040-MG",
     "name": "1040",
     "series": "NATURAL",
     "source": "atelier",
@@ -6196,7 +6196,7 @@
     ]
   },
   {
-    "mcode": "PPC-8A8E-1041-XK",
+    "mcode": "PPC-8A8E-1041-MG",
     "name": "1041",
     "series": "NATURAL",
     "source": "atelier",
@@ -6215,7 +6215,7 @@
     ]
   },
   {
-    "mcode": "PPC-8B2D-1042-XK",
+    "mcode": "PPC-8B2D-1042-MG",
     "name": "1042",
     "series": "NATURAL",
     "source": "atelier",
@@ -6241,7 +6241,7 @@
     ]
   },
   {
-    "mcode": "PPC-070D-1043-XK",
+    "mcode": "PPC-070D-1043-MG",
     "name": "1043",
     "series": "NATURAL",
     "source": "atelier",
@@ -6274,7 +6274,7 @@
     ]
   },
   {
-    "mcode": "PPC-F673-1044-XK",
+    "mcode": "PPC-F673-1044-MG",
     "name": "1044",
     "series": "NATURAL",
     "source": "atelier",
@@ -6300,7 +6300,7 @@
     ]
   },
   {
-    "mcode": "PPC-7776-1046-XK",
+    "mcode": "PPC-7776-1046-MG",
     "name": "1046",
     "series": "NATURAL",
     "source": "atelier",
@@ -6319,7 +6319,7 @@
     ]
   },
   {
-    "mcode": "PPC-FDCD-1047-XK",
+    "mcode": "PPC-FDCD-1047-MG",
     "name": "1047",
     "series": "NATURAL",
     "source": "atelier",
@@ -6345,7 +6345,7 @@
     ]
   },
   {
-    "mcode": "PPC-23A6-1049-XK",
+    "mcode": "PPC-23A6-1049-MG",
     "name": "1049",
     "series": "NATURAL",
     "source": "atelier",
@@ -6364,7 +6364,7 @@
     ]
   },
   {
-    "mcode": "PPC-EC88-1050-XK",
+    "mcode": "PPC-EC88-1050-MG",
     "name": "1050",
     "series": "NATURAL",
     "source": "atelier",
@@ -6404,7 +6404,7 @@
     ]
   },
   {
-    "mcode": "PPC-6896-1052-XK",
+    "mcode": "PPC-6896-1052-MG",
     "name": "1052",
     "series": "NATURAL",
     "source": "atelier",
@@ -6437,7 +6437,7 @@
     ]
   },
   {
-    "mcode": "PPC-9587-1057-XK",
+    "mcode": "PPC-9587-1057-MG",
     "name": "1057",
     "series": "NATURAL",
     "source": "atelier",
@@ -6463,7 +6463,7 @@
     ]
   },
   {
-    "mcode": "PPC-2B66-1059-XK",
+    "mcode": "PPC-2B66-1059-MG",
     "name": "1059",
     "series": "NATURAL",
     "source": "atelier",
@@ -6496,7 +6496,7 @@
     ]
   },
   {
-    "mcode": "PPC-76A9-1064-XK",
+    "mcode": "PPC-76A9-1064-MG",
     "name": "1064",
     "series": "NATURAL",
     "source": "atelier",
@@ -6515,7 +6515,7 @@
     ]
   },
   {
-    "mcode": "PPC-3C19-1065-XK",
+    "mcode": "PPC-3C19-1065-MG",
     "name": "1065",
     "series": "NATURAL",
     "source": "atelier",
@@ -6534,7 +6534,7 @@
     ]
   },
   {
-    "mcode": "PPC-418E-1067-XK",
+    "mcode": "PPC-418E-1067-MG",
     "name": "1067",
     "series": "NATURAL",
     "source": "atelier",
@@ -6553,7 +6553,7 @@
     ]
   },
   {
-    "mcode": "PPC-B77F-1068-XK",
+    "mcode": "PPC-B77F-1068-MG",
     "name": "1068",
     "series": "NATURAL",
     "source": "atelier",
@@ -6593,7 +6593,7 @@
     ]
   },
   {
-    "mcode": "PPC-2B9A-1069-XK",
+    "mcode": "PPC-2B9A-1069-MG",
     "name": "1069",
     "series": "NATURAL",
     "source": "atelier",
@@ -6619,7 +6619,7 @@
     ]
   },
   {
-    "mcode": "PPC-CAD6-1070-XK",
+    "mcode": "PPC-CAD6-1070-MG",
     "name": "1070",
     "series": "NATURAL",
     "source": "atelier",
@@ -6652,7 +6652,7 @@
     ]
   },
   {
-    "mcode": "PPC-2CE5-1071-XK",
+    "mcode": "PPC-2CE5-1071-MG",
     "name": "1071",
     "series": "NATURAL",
     "source": "atelier",
@@ -6685,7 +6685,7 @@
     ]
   },
   {
-    "mcode": "PPC-6B41-1072-XK",
+    "mcode": "PPC-6B41-1072-MG",
     "name": "1072",
     "series": "NATURAL",
     "source": "atelier",
@@ -6704,7 +6704,7 @@
     ]
   },
   {
-    "mcode": "PPC-2B34-1073-XK",
+    "mcode": "PPC-2B34-1073-MG",
     "name": "1073",
     "series": "NATURAL",
     "source": "atelier",
@@ -6751,7 +6751,7 @@
     ]
   },
   {
-    "mcode": "PPC-1C60-1074-XK",
+    "mcode": "PPC-1C60-1074-MG",
     "name": "1074",
     "series": "NATURAL",
     "source": "atelier",
@@ -6777,7 +6777,7 @@
     ]
   },
   {
-    "mcode": "PPC-6998-1075-XK",
+    "mcode": "PPC-6998-1075-MG",
     "name": "1075",
     "series": "NATURAL",
     "source": "atelier",
@@ -6796,7 +6796,7 @@
     ]
   },
   {
-    "mcode": "PPC-8D25-1076-XK",
+    "mcode": "PPC-8D25-1076-MG",
     "name": "1076",
     "series": "NATURAL",
     "source": "atelier",
@@ -6822,7 +6822,7 @@
     ]
   },
   {
-    "mcode": "PPC-0920-1078-XK",
+    "mcode": "PPC-0920-1078-MG",
     "name": "1078",
     "series": "NATURAL",
     "source": "atelier",
@@ -6862,7 +6862,7 @@
     ]
   },
   {
-    "mcode": "PPC-05FA-1079-XK",
+    "mcode": "PPC-05FA-1079-MG",
     "name": "1079",
     "series": "NATURAL",
     "source": "atelier",
@@ -6902,7 +6902,7 @@
     ]
   },
   {
-    "mcode": "PPC-0CF9-1080-XK",
+    "mcode": "PPC-0CF9-1080-MG",
     "name": "1080",
     "series": "NATURAL",
     "source": "atelier",
@@ -6935,7 +6935,7 @@
     ]
   },
   {
-    "mcode": "PPC-A874-1081-XK",
+    "mcode": "PPC-A874-1081-MG",
     "name": "1081",
     "series": "NATURAL",
     "source": "atelier",
@@ -6961,7 +6961,7 @@
     ]
   },
   {
-    "mcode": "PPC-6627-1082-XK",
+    "mcode": "PPC-6627-1082-MG",
     "name": "1082",
     "series": "NATURAL",
     "source": "atelier",
@@ -6980,7 +6980,7 @@
     ]
   },
   {
-    "mcode": "PPC-EC99-1084-XK",
+    "mcode": "PPC-EC99-1084-MG",
     "name": "1084",
     "series": "NATURAL",
     "source": "atelier",
@@ -7006,7 +7006,7 @@
     ]
   },
   {
-    "mcode": "PPC-97E3-1085-XK",
+    "mcode": "PPC-97E3-1085-MG",
     "name": "1085",
     "series": "NATURAL",
     "source": "atelier",
@@ -7032,7 +7032,7 @@
     ]
   },
   {
-    "mcode": "PPC-07F9-1087-XK",
+    "mcode": "PPC-07F9-1087-MG",
     "name": "1087",
     "series": "NATURAL",
     "source": "atelier",
@@ -7051,7 +7051,7 @@
     ]
   },
   {
-    "mcode": "PPC-8313-1088-XK",
+    "mcode": "PPC-8313-1088-MG",
     "name": "1088",
     "series": "NATURAL",
     "source": "atelier",
@@ -7077,7 +7077,7 @@
     ]
   },
   {
-    "mcode": "PPC-BEFA-1090-XK",
+    "mcode": "PPC-BEFA-1090-MG",
     "name": "1090",
     "series": "NATURAL",
     "source": "atelier",
@@ -7096,7 +7096,7 @@
     ]
   },
   {
-    "mcode": "PPC-789E-1091-XK",
+    "mcode": "PPC-789E-1091-MG",
     "name": "1091",
     "series": "NATURAL",
     "source": "atelier",
@@ -7129,7 +7129,7 @@
     ]
   },
   {
-    "mcode": "PPC-14B2-1092-XK",
+    "mcode": "PPC-14B2-1092-MG",
     "name": "1092",
     "series": "NATURAL",
     "source": "atelier",
@@ -7169,7 +7169,7 @@
     ]
   },
   {
-    "mcode": "PPC-27B3-1093-XK",
+    "mcode": "PPC-27B3-1093-MG",
     "name": "1093",
     "series": "NATURAL",
     "source": "atelier",
@@ -7202,7 +7202,7 @@
     ]
   },
   {
-    "mcode": "PPC-D3A3-1094-XK",
+    "mcode": "PPC-D3A3-1094-MG",
     "name": "1094",
     "series": "NATURAL",
     "source": "atelier",
@@ -7221,7 +7221,7 @@
     ]
   },
   {
-    "mcode": "PPC-1F6A-1095-XK",
+    "mcode": "PPC-1F6A-1095-MG",
     "name": "1095",
     "series": "NATURAL",
     "source": "atelier",
@@ -7268,7 +7268,7 @@
     ]
   },
   {
-    "mcode": "PPC-6C20-1096-XK",
+    "mcode": "PPC-6C20-1096-MG",
     "name": "1096",
     "series": "NATURAL",
     "source": "atelier",
@@ -7294,7 +7294,7 @@
     ]
   },
   {
-    "mcode": "PPC-9D98-1097-XK",
+    "mcode": "PPC-9D98-1097-MG",
     "name": "1097",
     "series": "NATURAL",
     "source": "atelier",
@@ -7327,7 +7327,7 @@
     ]
   },
   {
-    "mcode": "PPC-9AE1-1098-XK",
+    "mcode": "PPC-9AE1-1098-MG",
     "name": "1098",
     "series": "NATURAL",
     "source": "atelier",
@@ -7367,7 +7367,7 @@
     ]
   },
   {
-    "mcode": "PPC-0200-1099-XK",
+    "mcode": "PPC-0200-1099-MG",
     "name": "1099",
     "series": "NATURAL",
     "source": "atelier",
@@ -7407,7 +7407,7 @@
     ]
   },
   {
-    "mcode": "PPC-B124-1100-XK",
+    "mcode": "PPC-B124-1100-MG",
     "name": "1100",
     "series": "NATURAL",
     "source": "atelier",
@@ -7454,7 +7454,7 @@
     ]
   },
   {
-    "mcode": "PPC-5512-1101-XK",
+    "mcode": "PPC-5512-1101-MG",
     "name": "1101",
     "series": "NATURAL",
     "source": "atelier",
@@ -7501,7 +7501,7 @@
     ]
   },
   {
-    "mcode": "PPC-7C9F-1102-XK",
+    "mcode": "PPC-7C9F-1102-MG",
     "name": "1102",
     "series": "NATURAL",
     "source": "atelier",
@@ -7548,7 +7548,7 @@
     ]
   },
   {
-    "mcode": "PPC-E083-1103-XK",
+    "mcode": "PPC-E083-1103-MG",
     "name": "1103",
     "series": "NATURAL",
     "source": "atelier",
@@ -7567,7 +7567,7 @@
     ]
   },
   {
-    "mcode": "PPC-A699-1104-XK",
+    "mcode": "PPC-A699-1104-MG",
     "name": "1104",
     "series": "NATURAL",
     "source": "atelier",
@@ -7600,7 +7600,7 @@
     ]
   },
   {
-    "mcode": "PPC-7CB3-1105-XK",
+    "mcode": "PPC-7CB3-1105-MG",
     "name": "1105",
     "series": "NATURAL",
     "source": "atelier",
@@ -7619,7 +7619,7 @@
     ]
   },
   {
-    "mcode": "PPC-9B42-1106-XK",
+    "mcode": "PPC-9B42-1106-MG",
     "name": "1106",
     "series": "NATURAL",
     "source": "atelier",
@@ -7666,7 +7666,7 @@
     ]
   },
   {
-    "mcode": "PPC-FEE8-1107-XK",
+    "mcode": "PPC-FEE8-1107-MG",
     "name": "1107",
     "series": "NATURAL",
     "source": "atelier",
@@ -7720,7 +7720,7 @@
     ]
   },
   {
-    "mcode": "PPC-282C-1108-XK",
+    "mcode": "PPC-282C-1108-MG",
     "name": "1108",
     "series": "NATURAL",
     "source": "atelier",
@@ -7760,7 +7760,7 @@
     ]
   },
   {
-    "mcode": "PPC-2F70-1109-XK",
+    "mcode": "PPC-2F70-1109-MG",
     "name": "1109",
     "series": "NATURAL",
     "source": "atelier",
@@ -7800,7 +7800,7 @@
     ]
   },
   {
-    "mcode": "PPC-5339-1110-XK",
+    "mcode": "PPC-5339-1110-MG",
     "name": "1110",
     "series": "NATURAL",
     "source": "atelier",
@@ -7840,7 +7840,7 @@
     ]
   },
   {
-    "mcode": "PPC-011C-1111-XK",
+    "mcode": "PPC-011C-1111-MG",
     "name": "1111",
     "series": "NATURAL",
     "source": "atelier",
@@ -7880,7 +7880,7 @@
     ]
   },
   {
-    "mcode": "PPC-7161-1112-XK",
+    "mcode": "PPC-7161-1112-MG",
     "name": "1112",
     "series": "NATURAL",
     "source": "atelier",
@@ -7920,7 +7920,7 @@
     ]
   },
   {
-    "mcode": "PPC-3CA1-1113-XK",
+    "mcode": "PPC-3CA1-1113-MG",
     "name": "1113",
     "series": "NATURAL",
     "source": "atelier",
@@ -7960,7 +7960,7 @@
     ]
   },
   {
-    "mcode": "PPC-870F-1114-XK",
+    "mcode": "PPC-870F-1114-MG",
     "name": "1114",
     "series": "NATURAL",
     "source": "atelier",
@@ -8000,7 +8000,7 @@
     ]
   },
   {
-    "mcode": "PPC-04B6-1115-XK",
+    "mcode": "PPC-04B6-1115-MG",
     "name": "1115",
     "series": "NATURAL",
     "source": "atelier",
@@ -8047,7 +8047,7 @@
     ]
   },
   {
-    "mcode": "PPC-259F-1116-XK",
+    "mcode": "PPC-259F-1116-MG",
     "name": "1116",
     "series": "NATURAL",
     "source": "atelier",
@@ -8087,7 +8087,7 @@
     ]
   },
   {
-    "mcode": "PPC-E6BA-1117-XK",
+    "mcode": "PPC-E6BA-1117-MG",
     "name": "1117",
     "series": "NATURAL",
     "source": "atelier",
@@ -8120,7 +8120,7 @@
     ]
   },
   {
-    "mcode": "PPC-FBAA-1118-XK",
+    "mcode": "PPC-FBAA-1118-MG",
     "name": "1118",
     "series": "NATURAL",
     "source": "atelier",
@@ -8160,7 +8160,7 @@
     ]
   },
   {
-    "mcode": "PPC-CEDF-1119-XK",
+    "mcode": "PPC-CEDF-1119-MG",
     "name": "1119",
     "series": "NATURAL",
     "source": "atelier",
@@ -8200,7 +8200,7 @@
     ]
   },
   {
-    "mcode": "PPC-1592-1120-XK",
+    "mcode": "PPC-1592-1120-MG",
     "name": "1120",
     "series": "NATURAL",
     "source": "atelier",
@@ -8240,7 +8240,7 @@
     ]
   },
   {
-    "mcode": "PPC-784E-1121-XK",
+    "mcode": "PPC-784E-1121-MG",
     "name": "1121",
     "series": "NATURAL",
     "source": "atelier",
@@ -8280,7 +8280,7 @@
     ]
   },
   {
-    "mcode": "PPC-00FD-1122-XK",
+    "mcode": "PPC-00FD-1122-MG",
     "name": "1122",
     "series": "NATURAL",
     "source": "atelier",
@@ -8320,7 +8320,7 @@
     ]
   },
   {
-    "mcode": "PPC-CF75-1123-XK",
+    "mcode": "PPC-CF75-1123-MG",
     "name": "1123",
     "series": "NATURAL",
     "source": "atelier",
@@ -8360,7 +8360,7 @@
     ]
   },
   {
-    "mcode": "PPC-FF33-1124-XK",
+    "mcode": "PPC-FF33-1124-MG",
     "name": "1124",
     "series": "NATURAL",
     "source": "atelier",
@@ -8400,7 +8400,7 @@
     ]
   },
   {
-    "mcode": "PPC-5BBD-1125-XK",
+    "mcode": "PPC-5BBD-1125-MG",
     "name": "1125",
     "series": "NATURAL",
     "source": "atelier",
@@ -8440,7 +8440,7 @@
     ]
   },
   {
-    "mcode": "PPC-E83F-1126-XK",
+    "mcode": "PPC-E83F-1126-MG",
     "name": "1126",
     "series": "NATURAL",
     "source": "atelier",
@@ -8480,7 +8480,7 @@
     ]
   },
   {
-    "mcode": "PPC-2E5A-1127-XK",
+    "mcode": "PPC-2E5A-1127-MG",
     "name": "1127",
     "series": "NATURAL",
     "source": "atelier",
@@ -8520,7 +8520,7 @@
     ]
   },
   {
-    "mcode": "PPC-F0A3-1128-XK",
+    "mcode": "PPC-F0A3-1128-MG",
     "name": "1128",
     "series": "NATURAL",
     "source": "atelier",
@@ -8560,7 +8560,7 @@
     ]
   },
   {
-    "mcode": "PPC-6A08-1129-XK",
+    "mcode": "PPC-6A08-1129-MG",
     "name": "1129",
     "series": "NATURAL",
     "source": "atelier",
@@ -8600,7 +8600,7 @@
     ]
   },
   {
-    "mcode": "PPC-5416-1130-XK",
+    "mcode": "PPC-5416-1130-MG",
     "name": "1130",
     "series": "NATURAL",
     "source": "atelier",
@@ -8633,7 +8633,7 @@
     ]
   },
   {
-    "mcode": "PPC-619B-1142-XK",
+    "mcode": "PPC-619B-1142-MG",
     "name": "1142",
     "series": "NATURAL",
     "source": "atelier",
@@ -8673,7 +8673,7 @@
     ]
   },
   {
-    "mcode": "PPC-BC4D-1143-XK",
+    "mcode": "PPC-BC4D-1143-MG",
     "name": "1143",
     "series": "NATURAL",
     "source": "atelier",
@@ -8713,7 +8713,7 @@
     ]
   },
   {
-    "mcode": "PPC-4B19-1144-XK",
+    "mcode": "PPC-4B19-1144-MG",
     "name": "1144",
     "series": "NATURAL",
     "source": "atelier",
@@ -8753,7 +8753,7 @@
     ]
   },
   {
-    "mcode": "PPC-BE69-1145-XK",
+    "mcode": "PPC-BE69-1145-MG",
     "name": "1145",
     "series": "NATURAL",
     "source": "atelier",
@@ -8793,7 +8793,7 @@
     ]
   },
   {
-    "mcode": "PPC-B25B-1146-XK",
+    "mcode": "PPC-B25B-1146-MG",
     "name": "1146",
     "series": "NATURAL",
     "source": "atelier",
@@ -8833,7 +8833,7 @@
     ]
   },
   {
-    "mcode": "PPC-CE14-6009-XK",
+    "mcode": "PPC-CE14-6009-MG",
     "name": "6009",
     "series": "NATURAL",
     "source": "atelier",
@@ -8852,7 +8852,7 @@
     ]
   },
   {
-    "mcode": "PPC-E547-n1131-XK",
+    "mcode": "PPC-E547-n1131-MG",
     "name": "n1131",
     "series": "NATURAL",
     "source": "atelier",
@@ -8892,7 +8892,7 @@
     ]
   },
   {
-    "mcode": "PPC-8D99-n1132-XK",
+    "mcode": "PPC-8D99-n1132-MG",
     "name": "n1132",
     "series": "NATURAL",
     "source": "atelier",
@@ -8932,7 +8932,7 @@
     ]
   },
   {
-    "mcode": "PPC-BAF4-n1133-XK",
+    "mcode": "PPC-BAF4-n1133-MG",
     "name": "n1133",
     "series": "NATURAL",
     "source": "atelier",
@@ -8972,7 +8972,7 @@
     ]
   },
   {
-    "mcode": "PPC-A991-n1134-XK",
+    "mcode": "PPC-A991-n1134-MG",
     "name": "n1134",
     "series": "NATURAL",
     "source": "atelier",
@@ -9012,7 +9012,7 @@
     ]
   },
   {
-    "mcode": "PPC-603B-n1135-XK",
+    "mcode": "PPC-603B-n1135-MG",
     "name": "n1135",
     "series": "NATURAL",
     "source": "atelier",
@@ -9052,7 +9052,7 @@
     ]
   },
   {
-    "mcode": "PPC-D87F-n1136-XK",
+    "mcode": "PPC-D87F-n1136-MG",
     "name": "n1136",
     "series": "NATURAL",
     "source": "atelier",
@@ -9092,7 +9092,7 @@
     ]
   },
   {
-    "mcode": "PPC-1A6E-n1137-XK",
+    "mcode": "PPC-1A6E-n1137-MG",
     "name": "n1137",
     "series": "NATURAL",
     "source": "atelier",
@@ -9111,7 +9111,7 @@
     ]
   },
   {
-    "mcode": "PPC-41CC-n1139-XK",
+    "mcode": "PPC-41CC-n1139-MG",
     "name": "n1139",
     "series": "NATURAL",
     "source": "atelier",
@@ -9151,7 +9151,7 @@
     ]
   },
   {
-    "mcode": "PPC-A95B-n1140-XK",
+    "mcode": "PPC-A95B-n1140-MG",
     "name": "n1140",
     "series": "NATURAL",
     "source": "atelier",
@@ -9184,7 +9184,7 @@
     ]
   },
   {
-    "mcode": "PPC-07C5-n1141-XK",
+    "mcode": "PPC-07C5-n1141-MG",
     "name": "n1141",
     "series": "NATURAL",
     "source": "atelier",
@@ -9224,7 +9224,7 @@
     ]
   },
   {
-    "mcode": "PPC-5F3E-11000-XK",
+    "mcode": "PPC-5F3E-11000-MG",
     "name": "11000",
     "series": "NXT",
     "source": "atelier",
@@ -9243,7 +9243,7 @@
     ]
   },
   {
-    "mcode": "PPC-5DC4-11002-XK",
+    "mcode": "PPC-5DC4-11002-MG",
     "name": "11002",
     "series": "NXT",
     "source": "atelier",
@@ -9262,7 +9262,7 @@
     ]
   },
   {
-    "mcode": "PPC-5D49-11003-XK",
+    "mcode": "PPC-5D49-11003-MG",
     "name": "11003",
     "series": "NXT",
     "source": "atelier",
@@ -9281,7 +9281,7 @@
     ]
   },
   {
-    "mcode": "PPC-5CCA-11004-XK",
+    "mcode": "PPC-5CCA-11004-MG",
     "name": "11004",
     "series": "NXT",
     "source": "atelier",
@@ -9307,7 +9307,7 @@
     ]
   },
   {
-    "mcode": "PPC-5C4F-11005-XK",
+    "mcode": "PPC-5C4F-11005-MG",
     "name": "11005",
     "series": "NXT",
     "source": "atelier",
@@ -9326,7 +9326,7 @@
     ]
   },
   {
-    "mcode": "PPC-A3D0-11006-XK",
+    "mcode": "PPC-A3D0-11006-MG",
     "name": "11006",
     "series": "NXT",
     "source": "atelier",
@@ -9345,7 +9345,7 @@
     ]
   },
   {
-    "mcode": "PPC-A355-11007-XK",
+    "mcode": "PPC-A355-11007-MG",
     "name": "11007",
     "series": "NXT",
     "source": "atelier",
@@ -9364,7 +9364,7 @@
     ]
   },
   {
-    "mcode": "PPC-A2D6-11008-XK",
+    "mcode": "PPC-A2D6-11008-MG",
     "name": "11008",
     "series": "NXT",
     "source": "atelier",
@@ -9383,7 +9383,7 @@
     ]
   },
   {
-    "mcode": "PPC-A4FA-11020-XK",
+    "mcode": "PPC-A4FA-11020-MG",
     "name": "11020",
     "series": "NXT",
     "source": "atelier",
@@ -9402,7 +9402,7 @@
     ]
   },
   {
-    "mcode": "PPC-AB05-11023-XK",
+    "mcode": "PPC-AB05-11023-MG",
     "name": "11023",
     "series": "NXT",
     "source": "atelier",
@@ -9421,7 +9421,7 @@
     ]
   },
   {
-    "mcode": "PPC-AA86-11024-XK",
+    "mcode": "PPC-AA86-11024-MG",
     "name": "11024",
     "series": "NXT",
     "source": "atelier",
@@ -9440,7 +9440,7 @@
     ]
   },
   {
-    "mcode": "PPC-A98C-11026-XK",
+    "mcode": "PPC-A98C-11026-MG",
     "name": "11026",
     "series": "NXT",
     "source": "atelier",
@@ -9459,7 +9459,7 @@
     ]
   },
   {
-    "mcode": "PPC-AD29-11035-XK",
+    "mcode": "PPC-AD29-11035-MG",
     "name": "11035",
     "series": "NXT",
     "source": "atelier",
@@ -9478,7 +9478,7 @@
     ]
   },
   {
-    "mcode": "PPC-AC2F-11037-XK",
+    "mcode": "PPC-AC2F-11037-MG",
     "name": "11037",
     "series": "NXT",
     "source": "atelier",
@@ -9497,7 +9497,7 @@
     ]
   },
   {
-    "mcode": "PPC-B3B0-11038-XK",
+    "mcode": "PPC-B3B0-11038-MG",
     "name": "11038",
     "series": "NXT",
     "source": "atelier",
@@ -9516,7 +9516,7 @@
     ]
   },
   {
-    "mcode": "PPC-B23B-11041-XK",
+    "mcode": "PPC-B23B-11041-MG",
     "name": "11041",
     "series": "NXT",
     "source": "atelier",
@@ -9535,7 +9535,7 @@
     ]
   },
   {
-    "mcode": "PPC-B7C7-11045-XK",
+    "mcode": "PPC-B7C7-11045-MG",
     "name": "11045",
     "series": "NXT",
     "source": "atelier",
@@ -9554,7 +9554,7 @@
     ]
   },
   {
-    "mcode": "PPC-B5D3-11049-XK",
+    "mcode": "PPC-B5D3-11049-MG",
     "name": "11049",
     "series": "NXT",
     "source": "atelier",
@@ -9573,7 +9573,7 @@
     ]
   },
   {
-    "mcode": "PPC-BAE5-11055-XK",
+    "mcode": "PPC-BAE5-11055-MG",
     "name": "11055",
     "series": "NXT",
     "source": "atelier",
@@ -9592,7 +9592,7 @@
     ]
   },
   {
-    "mcode": "PPC-B8F1-11059-XK",
+    "mcode": "PPC-B8F1-11059-MG",
     "name": "11059",
     "series": "NXT",
     "source": "atelier",
@@ -9611,7 +9611,7 @@
     ]
   },
   {
-    "mcode": "PPC-811C-11074-XK",
+    "mcode": "PPC-811C-11074-MG",
     "name": "11074",
     "series": "NXT",
     "source": "atelier",
@@ -9630,7 +9630,7 @@
     ]
   },
   {
-    "mcode": "PPC-9001-11107-XK",
+    "mcode": "PPC-9001-11107-MG",
     "name": "11107",
     "series": "NXT",
     "source": "atelier",
@@ -9649,7 +9649,7 @@
     ]
   },
   {
-    "mcode": "PPC-9E19-11627-XK",
+    "mcode": "PPC-9E19-11627-MG",
     "name": "11627",
     "series": "NXT",
     "source": "atelier",
@@ -9668,7 +9668,7 @@
     ]
   },
   {
-    "mcode": "PPC-9CA0-11630-XK",
+    "mcode": "PPC-9CA0-11630-MG",
     "name": "11630",
     "series": "NXT",
     "source": "atelier",
@@ -9687,7 +9687,7 @@
     ]
   },
   {
-    "mcode": "PPC-E32B-11633-XK",
+    "mcode": "PPC-E32B-11633-MG",
     "name": "11633",
     "series": "NXT",
     "source": "atelier",
@@ -9706,7 +9706,7 @@
     ]
   },
   {
-    "mcode": "PPC-E03D-11639-XK",
+    "mcode": "PPC-E03D-11639-MG",
     "name": "11639",
     "series": "NXT",
     "source": "atelier",
@@ -9725,7 +9725,7 @@
     ]
   },
   {
-    "mcode": "PPC-E54A-11644-XK",
+    "mcode": "PPC-E54A-11644-MG",
     "name": "11644",
     "series": "NXT",
     "source": "atelier",
@@ -9744,7 +9744,7 @@
     ]
   },
   {
-    "mcode": "PPC-EBD5-11647-XK",
+    "mcode": "PPC-EBD5-11647-MG",
     "name": "11647",
     "series": "NXT",
     "source": "atelier",
@@ -9763,7 +9763,7 @@
     ]
   },
   {
-    "mcode": "PPC-E8E7-11653-XK",
+    "mcode": "PPC-E8E7-11653-MG",
     "name": "11653",
     "series": "NXT",
     "source": "atelier",
@@ -9782,7 +9782,7 @@
     ]
   },
   {
-    "mcode": "PPC-0D89-12347-XK",
+    "mcode": "PPC-0D89-12347-MG",
     "name": "12347",
     "series": "NXT",
     "source": "atelier",
@@ -9801,7 +9801,7 @@
     ]
   },
   {
-    "mcode": "PPC-E0F0-12638-XK",
+    "mcode": "PPC-E0F0-12638-MG",
     "name": "12638",
     "series": "NXT",
     "source": "atelier",
@@ -9820,7 +9820,7 @@
     ]
   },
   {
-    "mcode": "PPC-D05C-15234-XK",
+    "mcode": "PPC-D05C-15234-MG",
     "name": "15234",
     "series": "NXT",
     "source": "atelier",
@@ -9839,7 +9839,7 @@
     ]
   },
   {
-    "mcode": "PPC-040E-15336-XK",
+    "mcode": "PPC-040E-15336-MG",
     "name": "15336",
     "series": "NXT",
     "source": "atelier",
@@ -9858,7 +9858,7 @@
     ]
   },
   {
-    "mcode": "PPC-0B93-15337-XK",
+    "mcode": "PPC-0B93-15337-MG",
     "name": "15337",
     "series": "NXT",
     "source": "atelier",
@@ -9877,7 +9877,7 @@
     ]
   },
   {
-    "mcode": "PPC-1E8C-15378-XK",
+    "mcode": "PPC-1E8C-15378-MG",
     "name": "15378",
     "series": "NXT",
     "source": "atelier",
@@ -9896,7 +9896,7 @@
     ]
   },
   {
-    "mcode": "PPC-639E-15384-XK",
+    "mcode": "PPC-639E-15384-MG",
     "name": "15384",
     "series": "NXT",
     "source": "atelier",
@@ -9915,7 +9915,7 @@
     ]
   },
   {
-    "mcode": "PPC-62A4-15386-XK",
+    "mcode": "PPC-62A4-15386-MG",
     "name": "15386",
     "series": "NXT",
     "source": "atelier",
@@ -9934,7 +9934,7 @@
     ]
   },
   {
-    "mcode": "PPC-6229-15387-XK",
+    "mcode": "PPC-6229-15387-MG",
     "name": "15387",
     "series": "NXT",
     "source": "atelier",
@@ -9953,7 +9953,7 @@
     ]
   },
   {
-    "mcode": "PPC-65C1-15395-XK",
+    "mcode": "PPC-65C1-15395-MG",
     "name": "15395",
     "series": "NXT",
     "source": "atelier",
@@ -9972,7 +9972,7 @@
     ]
   },
   {
-    "mcode": "PPC-6542-15396-XK",
+    "mcode": "PPC-6542-15396-MG",
     "name": "15396",
     "series": "NXT",
     "source": "atelier",
@@ -9991,7 +9991,7 @@
     ]
   },
   {
-    "mcode": "PPC-6B4E-15400-XK",
+    "mcode": "PPC-6B4E-15400-MG",
     "name": "15400",
     "series": "NXT",
     "source": "atelier",
@@ -10010,7 +10010,7 @@
     ]
   },
   {
-    "mcode": "PPC-6DF1-15411-XK",
+    "mcode": "PPC-6DF1-15411-MG",
     "name": "15411",
     "series": "NXT",
     "source": "atelier",
@@ -10029,7 +10029,7 @@
     ]
   },
   {
-    "mcode": "PPC-40EA-15452-XK",
+    "mcode": "PPC-40EA-15452-MG",
     "name": "15452",
     "series": "NXT",
     "source": "atelier",
@@ -10048,7 +10048,7 @@
     ]
   },
   {
-    "mcode": "PPC-4DAC-15474-XK",
+    "mcode": "PPC-4DAC-15474-MG",
     "name": "15474",
     "series": "NXT",
     "source": "atelier",
@@ -10067,7 +10067,7 @@
     ]
   },
   {
-    "mcode": "PPC-54E1-15491-XK",
+    "mcode": "PPC-54E1-15491-MG",
     "name": "15491",
     "series": "NXT",
     "source": "atelier",
@@ -10086,7 +10086,7 @@
     ]
   },
   {
-    "mcode": "PPC-5A6E-15496-XK",
+    "mcode": "PPC-5A6E-15496-MG",
     "name": "15496",
     "series": "NXT",
     "source": "atelier",
@@ -10105,7 +10105,7 @@
     ]
   },
   {
-    "mcode": "PPC-5974-15498-XK",
+    "mcode": "PPC-5974-15498-MG",
     "name": "15498",
     "series": "NXT",
     "source": "atelier",
@@ -10124,7 +10124,7 @@
     ]
   },
   {
-    "mcode": "PPC-5D0C-15506-XK",
+    "mcode": "PPC-5D0C-15506-MG",
     "name": "15506",
     "series": "NXT",
     "source": "atelier",
@@ -10143,7 +10143,7 @@
     ]
   },
   {
-    "mcode": "PPC-5C91-15507-XK",
+    "mcode": "PPC-5C91-15507-MG",
     "name": "15507",
     "series": "NXT",
     "source": "atelier",
@@ -10162,7 +10162,7 @@
     ]
   },
   {
-    "mcode": "PPC-A1A3-15513-XK",
+    "mcode": "PPC-A1A3-15513-MG",
     "name": "15513",
     "series": "NXT",
     "source": "atelier",
@@ -10181,7 +10181,7 @@
     ]
   },
   {
-    "mcode": "PPC-A7AF-15517-XK",
+    "mcode": "PPC-A7AF-15517-MG",
     "name": "15517",
     "series": "NXT",
     "source": "atelier",
@@ -10200,7 +10200,7 @@
     ]
   },
   {
-    "mcode": "PPC-B1FE-15544-XK",
+    "mcode": "PPC-B1FE-15544-MG",
     "name": "15544",
     "series": "NXT",
     "source": "atelier",
@@ -10219,7 +10219,7 @@
     ]
   },
   {
-    "mcode": "PPC-B084-15546-XK",
+    "mcode": "PPC-B084-15546-MG",
     "name": "15546",
     "series": "NXT",
     "source": "atelier",
@@ -10238,7 +10238,7 @@
     ]
   },
   {
-    "mcode": "PPC-B78A-15548-XK",
+    "mcode": "PPC-B78A-15548-MG",
     "name": "15548",
     "series": "NXT",
     "source": "atelier",
@@ -10257,7 +10257,7 @@
     ]
   },
   {
-    "mcode": "PPC-B596-15552-XK",
+    "mcode": "PPC-B596-15552-MG",
     "name": "15552",
     "series": "NXT",
     "source": "atelier",
@@ -10276,7 +10276,7 @@
     ]
   },
   {
-    "mcode": "PPC-CD99-21227-XK",
+    "mcode": "PPC-CD99-21227-MG",
     "name": "21227",
     "series": "NXT",
     "source": "atelier",
@@ -10295,7 +10295,7 @@
     ]
   },
   {
-    "mcode": "PPC-F24D-21671-XK",
+    "mcode": "PPC-F24D-21671-MG",
     "name": "21671",
     "series": "NXT",
     "source": "atelier",
@@ -10314,7 +10314,7 @@
     ]
   },
   {
-    "mcode": "PPC-C4CB-21713-XK",
+    "mcode": "PPC-C4CB-21713-MG",
     "name": "21713",
     "series": "NXT",
     "source": "atelier",
@@ -10333,7 +10333,7 @@
     ]
   },
   {
-    "mcode": "PPC-A08A-25020-XK",
+    "mcode": "PPC-A08A-25020-MG",
     "name": "25020",
     "series": "NXT",
     "source": "atelier",
@@ -10352,7 +10352,7 @@
     ]
   },
   {
-    "mcode": "PPC-AB2D-25031-XK",
+    "mcode": "PPC-AB2D-25031-MG",
     "name": "25031",
     "series": "NXT",
     "source": "atelier",
@@ -10371,7 +10371,7 @@
     ]
   },
   {
-    "mcode": "PPC-A939-25035-XK",
+    "mcode": "PPC-A939-25035-MG",
     "name": "25035",
     "series": "NXT",
     "source": "atelier",
@@ -10390,7 +10390,7 @@
     ]
   },
   {
-    "mcode": "PPC-B358-25046-XK",
+    "mcode": "PPC-B358-25046-MG",
     "name": "25046",
     "series": "NXT",
     "source": "atelier",
@@ -10409,7 +10409,7 @@
     ]
   },
   {
-    "mcode": "PPC-8879-25099-XK",
+    "mcode": "PPC-8879-25099-MG",
     "name": "25099",
     "series": "NXT",
     "source": "atelier",
@@ -10428,7 +10428,7 @@
     ]
   },
   {
-    "mcode": "PPC-C64A-25212-XK",
+    "mcode": "PPC-C64A-25212-MG",
     "name": "25212",
     "series": "NXT",
     "source": "atelier",
@@ -10447,7 +10447,7 @@
     ]
   },
   {
-    "mcode": "PPC-C5CF-25213-XK",
+    "mcode": "PPC-C5CF-25213-MG",
     "name": "25213",
     "series": "NXT",
     "source": "atelier",
@@ -10466,7 +10466,7 @@
     ]
   },
   {
-    "mcode": "PPC-C550-25214-XK",
+    "mcode": "PPC-C550-25214-MG",
     "name": "25214",
     "series": "NXT",
     "source": "atelier",
@@ -10485,7 +10485,7 @@
     ]
   },
   {
-    "mcode": "PPC-CA62-25220-XK",
+    "mcode": "PPC-CA62-25220-MG",
     "name": "25220",
     "series": "NXT",
     "source": "atelier",
@@ -10504,7 +10504,7 @@
     ]
   },
   {
-    "mcode": "PPC-D62A-25244-XK",
+    "mcode": "PPC-D62A-25244-MG",
     "name": "25244",
     "series": "NXT",
     "source": "atelier",
@@ -10523,7 +10523,7 @@
     ]
   },
   {
-    "mcode": "PPC-37DD-25303-XK",
+    "mcode": "PPC-37DD-25303-MG",
     "name": "25303",
     "series": "NXT",
     "source": "atelier",
@@ -10542,7 +10542,7 @@
     ]
   },
   {
-    "mcode": "PPC-5D48-9002-YP",
+    "mcode": "PPC-5D48-9002-BY",
     "name": "9002",
     "series": "SIGNATURE",
     "variants": [
@@ -10583,7 +10583,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-5C4E-9004-YP",
+    "mcode": "PPC-5C4E-9004-BY",
     "name": "9004",
     "series": "SIGNATURE",
     "variants": [
@@ -10624,7 +10624,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-A25A-9008-YP",
+    "mcode": "PPC-A25A-9008-BY",
     "name": "9008",
     "series": "SIGNATURE",
     "variants": [
@@ -10672,7 +10672,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-A578-9018-YP",
+    "mcode": "PPC-A578-9018-BY",
     "name": "Belle Oak",
     "series": "SIGNATURE",
     "variants": [
@@ -10699,7 +10699,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-AA89-9023-YP",
+    "mcode": "PPC-AA89-9023-BY",
     "name": "Snuf Elm",
     "series": "SIGNATURE",
     "variants": [
@@ -10747,7 +10747,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-AF1C-9030-YP",
+    "mcode": "PPC-AF1C-9030-BY",
     "name": "Royal Walnut",
     "series": "SIGNATURE",
     "variants": [
@@ -10774,7 +10774,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-AEA1-9031-YP",
+    "mcode": "PPC-AEA1-9031-BY",
     "name": "9031",
     "series": "SIGNATURE",
     "variants": [
@@ -10794,7 +10794,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-ACAD-9035-YP",
+    "mcode": "PPC-ACAD-9035-BY",
     "name": "Arabina Oak",
     "series": "SIGNATURE",
     "variants": [
@@ -10828,7 +10828,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B334-9038-YP",
+    "mcode": "PPC-B334-9038-BY",
     "name": "Globe Walnut",
     "series": "SIGNATURE",
     "variants": [
@@ -10869,7 +10869,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B0C0-9042-YP",
+    "mcode": "PPC-B0C0-9042-BY",
     "name": "Wood Cross",
     "series": "SIGNATURE",
     "variants": [
@@ -10917,7 +10917,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B74B-9045-YP",
+    "mcode": "PPC-B74B-9045-BY",
     "name": "Berlin Ashwood",
     "series": "SIGNATURE",
     "variants": [
@@ -10965,7 +10965,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B6CC-9046-YP",
+    "mcode": "PPC-B6CC-9046-BY",
     "name": "Jameson Walnut",
     "series": "SIGNATURE",
     "variants": [
@@ -10999,7 +10999,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B651-9047-YP",
+    "mcode": "PPC-B651-9047-BY",
     "name": "Czar Beach",
     "series": "SIGNATURE",
     "variants": [
@@ -11040,7 +11040,7 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-B5D2-9048-YP",
+    "mcode": "PPC-B5D2-9048-BY",
     "name": "Modern Pine",
     "series": "SIGNATURE",
     "variants": [
@@ -11081,8 +11081,8 @@
     "source_url": null
   },
   {
-    "mcode": "PPC-CA02-4001-XK",
-    "name": "4001",
+    "mcode": "PPC-CA02-4001-MG",
+    "name": "Aster Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11100,8 +11100,8 @@
     ]
   },
   {
-    "mcode": "PPC-1E9C-4002-XK",
-    "name": "4002",
+    "mcode": "PPC-1E9C-4002-MG",
+    "name": "Prado Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11133,8 +11133,8 @@
     ]
   },
   {
-    "mcode": "PPC-55C5-4003-XK",
-    "name": "4003",
+    "mcode": "PPC-55C5-4003-MG",
+    "name": "Straight Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11166,8 +11166,8 @@
     ]
   },
   {
-    "mcode": "PPC-C2C7-4004-XK",
-    "name": "4004",
+    "mcode": "PPC-C2C7-4004-MG",
+    "name": "French Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11192,8 +11192,8 @@
     ]
   },
   {
-    "mcode": "PPC-DD4C-4005-XK",
-    "name": "4005",
+    "mcode": "PPC-DD4C-4005-MG",
+    "name": "Raw Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11225,8 +11225,8 @@
     ]
   },
   {
-    "mcode": "PPC-AF4C-4006-XK",
-    "name": "4006",
+    "mcode": "PPC-AF4C-4006-MG",
+    "name": "Brentwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11258,8 +11258,8 @@
     ]
   },
   {
-    "mcode": "PPC-55BA-4007-XK",
-    "name": "4007",
+    "mcode": "PPC-55BA-4007-MG",
+    "name": "Carisma",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11291,8 +11291,8 @@
     ]
   },
   {
-    "mcode": "PPC-7E7E-4010-XK",
-    "name": "4010",
+    "mcode": "PPC-7E7E-4010-MG",
+    "name": "Indian Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11324,8 +11324,8 @@
     ]
   },
   {
-    "mcode": "PPC-7CA8-4012-XK",
-    "name": "4012",
+    "mcode": "PPC-7CA8-4012-MG",
+    "name": "Caramel Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11364,8 +11364,8 @@
     ]
   },
   {
-    "mcode": "PPC-144A-4014-XK",
-    "name": "4014",
+    "mcode": "PPC-144A-4014-MG",
+    "name": "Softwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11390,8 +11390,8 @@
     ]
   },
   {
-    "mcode": "PPC-E5CE-4015-XK",
-    "name": "4015",
+    "mcode": "PPC-E5CE-4015-MG",
+    "name": "Crackwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11430,8 +11430,8 @@
     ]
   },
   {
-    "mcode": "PPC-248D-4016-XK",
-    "name": "4016",
+    "mcode": "PPC-248D-4016-MG",
+    "name": "Australian Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11456,8 +11456,8 @@
     ]
   },
   {
-    "mcode": "PPC-A4F9-4017-XK",
-    "name": "4017",
+    "mcode": "PPC-A4F9-4017-MG",
+    "name": "Straw Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11482,8 +11482,8 @@
     ]
   },
   {
-    "mcode": "PPC-E67B-4019-XK",
-    "name": "4019",
+    "mcode": "PPC-E67B-4019-MG",
+    "name": "Turkish Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11501,8 +11501,8 @@
     ]
   },
   {
-    "mcode": "PPC-6C95-4021-XK",
-    "name": "4021",
+    "mcode": "PPC-6C95-4021-MG",
+    "name": "Sapelle New",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11520,8 +11520,8 @@
     ]
   },
   {
-    "mcode": "PPC-E1A8-4022-XK",
-    "name": "4022",
+    "mcode": "PPC-E1A8-4022-MG",
+    "name": "Turkish Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11560,8 +11560,8 @@
     ]
   },
   {
-    "mcode": "PPC-D3AC-4023-XK",
-    "name": "4023",
+    "mcode": "PPC-D3AC-4023-MG",
+    "name": "Mystic Concrete",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11586,8 +11586,8 @@
     ]
   },
   {
-    "mcode": "PPC-2A40-4024-XK",
-    "name": "4024",
+    "mcode": "PPC-2A40-4024-MG",
+    "name": "Sand Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11619,8 +11619,8 @@
     ]
   },
   {
-    "mcode": "PPC-B3DA-4025-XK",
-    "name": "4025",
+    "mcode": "PPC-B3DA-4025-MG",
+    "name": "Agacia",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11652,8 +11652,8 @@
     ]
   },
   {
-    "mcode": "PPC-1262-4026-XK",
-    "name": "4026",
+    "mcode": "PPC-1262-4026-MG",
+    "name": "Giantwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11692,8 +11692,8 @@
     ]
   },
   {
-    "mcode": "PPC-EB89-4027-XK",
-    "name": "4027",
+    "mcode": "PPC-EB89-4027-MG",
+    "name": "Pecan",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11718,8 +11718,8 @@
     ]
   },
   {
-    "mcode": "PPC-BFF7-4028-XK",
-    "name": "4028",
+    "mcode": "PPC-BFF7-4028-MG",
+    "name": "Gleaning Cedar",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11758,8 +11758,8 @@
     ]
   },
   {
-    "mcode": "PPC-CA6F-4029-XK",
-    "name": "4029",
+    "mcode": "PPC-CA6F-4029-MG",
+    "name": "Swedish Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11798,8 +11798,8 @@
     ]
   },
   {
-    "mcode": "PPC-E37A-4030-XK",
-    "name": "4030",
+    "mcode": "PPC-E37A-4030-MG",
+    "name": "Canadian Pine",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11831,8 +11831,8 @@
     ]
   },
   {
-    "mcode": "PPC-FEFD-4031-XK",
-    "name": "4031",
+    "mcode": "PPC-FEFD-4031-MG",
+    "name": "Bucolic Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11857,8 +11857,8 @@
     ]
   },
   {
-    "mcode": "PPC-9F26-4032-XK",
-    "name": "4032",
+    "mcode": "PPC-9F26-4032-MG",
+    "name": "Chalet Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11883,8 +11883,8 @@
     ]
   },
   {
-    "mcode": "PPC-A748-4033-XK",
-    "name": "4033",
+    "mcode": "PPC-A748-4033-MG",
+    "name": "Brazilian Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11923,8 +11923,8 @@
     ]
   },
   {
-    "mcode": "PPC-A65E-4034-XK",
-    "name": "4034",
+    "mcode": "PPC-A65E-4034-MG",
+    "name": "02 Wujin Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11942,8 +11942,8 @@
     ]
   },
   {
-    "mcode": "PPC-4F28-4035-XK",
-    "name": "4035",
+    "mcode": "PPC-4F28-4035-MG",
+    "name": "American Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -11968,8 +11968,8 @@
     ]
   },
   {
-    "mcode": "PPC-5BA1-4036-XK",
-    "name": "4036",
+    "mcode": "PPC-5BA1-4036-MG",
+    "name": "Peacock Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12001,7 +12001,7 @@
     ]
   },
   {
-    "mcode": "PPC-D07C-4036-04-peacock-wood-XK",
+    "mcode": "PPC-D07C-4036-04-peacock-wood-MG",
     "name": "4036-04-peacock-wood",
     "series": "VOGUE",
     "source": "atelier",
@@ -12020,8 +12020,8 @@
     ]
   },
   {
-    "mcode": "PPC-AAB0-4037-XK",
-    "name": "4037",
+    "mcode": "PPC-AAB0-4037-MG",
+    "name": "Apple Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12060,8 +12060,8 @@
     ]
   },
   {
-    "mcode": "PPC-6251-4038-XK",
-    "name": "4038",
+    "mcode": "PPC-6251-4038-MG",
+    "name": "Legno Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12100,8 +12100,8 @@
     ]
   },
   {
-    "mcode": "PPC-5A2A-4039-XK",
-    "name": "4039",
+    "mcode": "PPC-5A2A-4039-MG",
+    "name": "Unique Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12140,8 +12140,8 @@
     ]
   },
   {
-    "mcode": "PPC-0AE4-4041-XK",
-    "name": "4041",
+    "mcode": "PPC-0AE4-4041-MG",
+    "name": "Indian Sap",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12180,8 +12180,8 @@
     ]
   },
   {
-    "mcode": "PPC-9655-4042-XK",
-    "name": "4042",
+    "mcode": "PPC-9655-4042-MG",
+    "name": "Kontio Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12220,8 +12220,8 @@
     ]
   },
   {
-    "mcode": "PPC-7B04-4043-XK",
-    "name": "4043",
+    "mcode": "PPC-7B04-4043-MG",
+    "name": "Shredder",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12239,8 +12239,8 @@
     ]
   },
   {
-    "mcode": "PPC-A299-4044-XK",
-    "name": "4044",
+    "mcode": "PPC-A299-4044-MG",
+    "name": "Carton Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12258,8 +12258,8 @@
     ]
   },
   {
-    "mcode": "PPC-CBF5-4046-XK",
-    "name": "4046",
+    "mcode": "PPC-CBF5-4046-MG",
+    "name": "Sparkling Fibre",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12298,8 +12298,8 @@
     ]
   },
   {
-    "mcode": "PPC-0B34-4047-XK",
-    "name": "4047",
+    "mcode": "PPC-0B34-4047-MG",
+    "name": "Matalic Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12331,8 +12331,8 @@
     ]
   },
   {
-    "mcode": "PPC-B1D4-4049-XK",
-    "name": "4049",
+    "mcode": "PPC-B1D4-4049-MG",
+    "name": "Taupe Concrete",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12364,8 +12364,8 @@
     ]
   },
   {
-    "mcode": "PPC-BB7A-4050-XK",
-    "name": "4050",
+    "mcode": "PPC-BB7A-4050-MG",
+    "name": "Core Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12397,8 +12397,8 @@
     ]
   },
   {
-    "mcode": "PPC-BEC3-4051-XK",
-    "name": "4051",
+    "mcode": "PPC-BEC3-4051-MG",
+    "name": "Colombia Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12430,8 +12430,8 @@
     ]
   },
   {
-    "mcode": "PPC-7DC0-4052-XK",
-    "name": "4052",
+    "mcode": "PPC-7DC0-4052-MG",
+    "name": "Neelambar Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12456,8 +12456,8 @@
     ]
   },
   {
-    "mcode": "PPC-FB0A-4053-XK",
-    "name": "4053",
+    "mcode": "PPC-FB0A-4053-MG",
+    "name": "Ralph Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12489,8 +12489,8 @@
     ]
   },
   {
-    "mcode": "PPC-9B16-4054-XK",
-    "name": "4054",
+    "mcode": "PPC-9B16-4054-MG",
+    "name": "Rivera Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12508,8 +12508,8 @@
     ]
   },
   {
-    "mcode": "PPC-38F6-4055-XK",
-    "name": "4055",
+    "mcode": "PPC-38F6-4055-MG",
+    "name": "Magas Walnat",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12534,8 +12534,8 @@
     ]
   },
   {
-    "mcode": "PPC-200F-4060-XK",
-    "name": "4060",
+    "mcode": "PPC-200F-4060-MG",
+    "name": "Koto Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12560,8 +12560,8 @@
     ]
   },
   {
-    "mcode": "PPC-AF43-4061-XK",
-    "name": "4061",
+    "mcode": "PPC-AF43-4061-MG",
+    "name": "Virola Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12593,8 +12593,8 @@
     ]
   },
   {
-    "mcode": "PPC-619B-4062-XK",
-    "name": "4062",
+    "mcode": "PPC-619B-4062-MG",
+    "name": "Samba Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12626,8 +12626,8 @@
     ]
   },
   {
-    "mcode": "PPC-7072-4063-XK",
-    "name": "4063",
+    "mcode": "PPC-7072-4063-MG",
+    "name": "Hasting Sandal",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12659,8 +12659,8 @@
     ]
   },
   {
-    "mcode": "PPC-DABC-4064-XK",
-    "name": "4064",
+    "mcode": "PPC-DABC-4064-MG",
+    "name": "01 Caspio Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12706,8 +12706,8 @@
     ]
   },
   {
-    "mcode": "PPC-A095-4065-XK",
-    "name": "4065",
+    "mcode": "PPC-A095-4065-MG",
+    "name": "Bianco Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12746,8 +12746,8 @@
     ]
   },
   {
-    "mcode": "PPC-352E-4066-XK",
-    "name": "4066",
+    "mcode": "PPC-352E-4066-MG",
+    "name": "Cross Veneer",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12786,8 +12786,8 @@
     ]
   },
   {
-    "mcode": "PPC-F077-4067-XK",
-    "name": "4067",
+    "mcode": "PPC-F077-4067-MG",
+    "name": "Taj Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12805,8 +12805,8 @@
     ]
   },
   {
-    "mcode": "PPC-9FCC-4068-XK",
-    "name": "4068",
+    "mcode": "PPC-9FCC-4068-MG",
+    "name": "Toasted Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12824,8 +12824,8 @@
     ]
   },
   {
-    "mcode": "PPC-C8A0-4069-XK",
-    "name": "4069",
+    "mcode": "PPC-C8A0-4069-MG",
+    "name": "Elton Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12843,8 +12843,8 @@
     ]
   },
   {
-    "mcode": "PPC-3B18-4070-XK",
-    "name": "4070",
+    "mcode": "PPC-3B18-4070-MG",
+    "name": "Nordic Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12876,8 +12876,8 @@
     ]
   },
   {
-    "mcode": "PPC-2F5C-4071-XK",
-    "name": "4071",
+    "mcode": "PPC-2F5C-4071-MG",
+    "name": "Malabar Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12909,8 +12909,8 @@
     ]
   },
   {
-    "mcode": "PPC-A4C9-4072-XK",
-    "name": "4072",
+    "mcode": "PPC-A4C9-4072-MG",
+    "name": "Zarikotta",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12942,8 +12942,8 @@
     ]
   },
   {
-    "mcode": "PPC-A72A-4073-XK",
-    "name": "4073",
+    "mcode": "PPC-A72A-4073-MG",
+    "name": "Delano Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -12968,8 +12968,8 @@
     ]
   },
   {
-    "mcode": "PPC-37A8-4074-XK",
-    "name": "4074",
+    "mcode": "PPC-37A8-4074-MG",
+    "name": "Sunsim Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13001,8 +13001,8 @@
     ]
   },
   {
-    "mcode": "PPC-B179-4075-XK",
-    "name": "4075",
+    "mcode": "PPC-B179-4075-MG",
+    "name": "Bonvoy Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13034,8 +13034,8 @@
     ]
   },
   {
-    "mcode": "PPC-F910-4077-XK",
-    "name": "4077",
+    "mcode": "PPC-F910-4077-MG",
+    "name": "Irish Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13074,8 +13074,8 @@
     ]
   },
   {
-    "mcode": "PPC-E956-4078-XK",
-    "name": "4078",
+    "mcode": "PPC-E956-4078-MG",
+    "name": "Mellow Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13107,8 +13107,8 @@
     ]
   },
   {
-    "mcode": "PPC-86A3-4079-XK",
-    "name": "4079",
+    "mcode": "PPC-86A3-4079-MG",
+    "name": "Sky Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13147,8 +13147,8 @@
     ]
   },
   {
-    "mcode": "PPC-F5CA-4080-XK",
-    "name": "4080",
+    "mcode": "PPC-F5CA-4080-MG",
+    "name": "Macaroon",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13180,8 +13180,8 @@
     ]
   },
   {
-    "mcode": "PPC-AAB1-4081-XK",
-    "name": "4081",
+    "mcode": "PPC-AAB1-4081-MG",
+    "name": "African Avodire",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13220,8 +13220,8 @@
     ]
   },
   {
-    "mcode": "PPC-170C-4082-XK",
-    "name": "4082",
+    "mcode": "PPC-170C-4082-MG",
+    "name": "Iroko Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13239,8 +13239,8 @@
     ]
   },
   {
-    "mcode": "PPC-9161-4083-XK",
-    "name": "4083",
+    "mcode": "PPC-9161-4083-MG",
+    "name": "Desert Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13265,8 +13265,8 @@
     ]
   },
   {
-    "mcode": "PPC-3158-4086-XK",
-    "name": "4086",
+    "mcode": "PPC-3158-4086-MG",
+    "name": "Cottage Pine",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13305,8 +13305,8 @@
     ]
   },
   {
-    "mcode": "PPC-B5D5-4087-XK",
-    "name": "4087",
+    "mcode": "PPC-B5D5-4087-MG",
+    "name": "Palladio Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13345,8 +13345,8 @@
     ]
   },
   {
-    "mcode": "PPC-185A-4088-XK",
-    "name": "4088",
+    "mcode": "PPC-185A-4088-MG",
+    "name": "Latin Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13378,8 +13378,8 @@
     ]
   },
   {
-    "mcode": "PPC-A923-4089-XK",
-    "name": "4089",
+    "mcode": "PPC-A923-4089-MG",
+    "name": "Chicago Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13397,8 +13397,8 @@
     ]
   },
   {
-    "mcode": "PPC-1965-4090-XK",
-    "name": "4090",
+    "mcode": "PPC-1965-4090-MG",
+    "name": "Volcanic Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13437,8 +13437,8 @@
     ]
   },
   {
-    "mcode": "PPC-C95A-4092-XK",
-    "name": "4092",
+    "mcode": "PPC-C95A-4092-MG",
+    "name": "Line River Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13463,8 +13463,8 @@
     ]
   },
   {
-    "mcode": "PPC-A791-4093-XK",
-    "name": "4093",
+    "mcode": "PPC-A791-4093-MG",
+    "name": "Horn Beam",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13482,8 +13482,8 @@
     ]
   },
   {
-    "mcode": "PPC-CBA0-4094-XK",
-    "name": "4094",
+    "mcode": "PPC-CBA0-4094-MG",
+    "name": "Bilsted",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13508,8 +13508,8 @@
     ]
   },
   {
-    "mcode": "PPC-6124-4096-XK",
-    "name": "4096",
+    "mcode": "PPC-6124-4096-MG",
+    "name": "Celtic Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13534,8 +13534,8 @@
     ]
   },
   {
-    "mcode": "PPC-711B-4097-XK",
-    "name": "4097",
+    "mcode": "PPC-711B-4097-MG",
+    "name": "Tamarack",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13560,8 +13560,8 @@
     ]
   },
   {
-    "mcode": "PPC-399B-4098-XK",
-    "name": "4098",
+    "mcode": "PPC-399B-4098-MG",
+    "name": "Shell Hickory",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13586,8 +13586,8 @@
     ]
   },
   {
-    "mcode": "PPC-1A45-4099-XK",
-    "name": "4099",
+    "mcode": "PPC-1A45-4099-MG",
+    "name": "Eiche Hickory",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13605,8 +13605,8 @@
     ]
   },
   {
-    "mcode": "PPC-FFFE-4100-XK",
-    "name": "4100",
+    "mcode": "PPC-FFFE-4100-MG",
+    "name": "River Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13638,8 +13638,8 @@
     ]
   },
   {
-    "mcode": "PPC-07EE-4101-XK",
-    "name": "4101",
+    "mcode": "PPC-07EE-4101-MG",
+    "name": "Magnolia Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13671,8 +13671,8 @@
     ]
   },
   {
-    "mcode": "PPC-D574-4102-XK",
-    "name": "4102",
+    "mcode": "PPC-D574-4102-MG",
+    "name": "Pearl Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13697,8 +13697,8 @@
     ]
   },
   {
-    "mcode": "PPC-C89D-4103-XK",
-    "name": "4103",
+    "mcode": "PPC-C89D-4103-MG",
+    "name": "Diamond Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13737,8 +13737,8 @@
     ]
   },
   {
-    "mcode": "PPC-0AAE-4104-XK",
-    "name": "4104",
+    "mcode": "PPC-0AAE-4104-MG",
+    "name": "Embossed Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13777,8 +13777,8 @@
     ]
   },
   {
-    "mcode": "PPC-D198-4105-XK",
-    "name": "4105",
+    "mcode": "PPC-D198-4105-MG",
+    "name": "Terrazzo",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13803,8 +13803,8 @@
     ]
   },
   {
-    "mcode": "PPC-CF95-4106-XK",
-    "name": "4106",
+    "mcode": "PPC-CF95-4106-MG",
+    "name": "Kalhari Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13843,8 +13843,8 @@
     ]
   },
   {
-    "mcode": "PPC-D56F-4107-XK",
-    "name": "4107",
+    "mcode": "PPC-D56F-4107-MG",
+    "name": "Nettle Tree",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13883,8 +13883,8 @@
     ]
   },
   {
-    "mcode": "PPC-501E-4108-XK",
-    "name": "4108",
+    "mcode": "PPC-501E-4108-MG",
+    "name": "Illusion",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13909,8 +13909,8 @@
     ]
   },
   {
-    "mcode": "PPC-FCD6-4109-XK",
-    "name": "4109",
+    "mcode": "PPC-FCD6-4109-MG",
+    "name": "Enamel Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13935,8 +13935,8 @@
     ]
   },
   {
-    "mcode": "PPC-989D-4110-XK",
-    "name": "4110",
+    "mcode": "PPC-989D-4110-MG",
+    "name": "Peugeot Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13968,8 +13968,8 @@
     ]
   },
   {
-    "mcode": "PPC-4D18-4111-XK",
-    "name": "4111",
+    "mcode": "PPC-4D18-4111-MG",
+    "name": "Green Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -13994,8 +13994,8 @@
     ]
   },
   {
-    "mcode": "PPC-5DE6-4112-XK",
-    "name": "4112",
+    "mcode": "PPC-5DE6-4112-MG",
+    "name": "Gingle Teak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14034,8 +14034,8 @@
     ]
   },
   {
-    "mcode": "PPC-8634-4113-XK",
-    "name": "4113",
+    "mcode": "PPC-8634-4113-MG",
+    "name": "Sahara Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14074,8 +14074,8 @@
     ]
   },
   {
-    "mcode": "PPC-E932-4114-XK",
-    "name": "4114",
+    "mcode": "PPC-E932-4114-MG",
+    "name": "Emboss Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14107,8 +14107,8 @@
     ]
   },
   {
-    "mcode": "PPC-B6F0-4116-XK",
-    "name": "4116",
+    "mcode": "PPC-B6F0-4116-MG",
+    "name": "Travertine Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14140,8 +14140,8 @@
     ]
   },
   {
-    "mcode": "PPC-1F66-4117-XK",
-    "name": "4117",
+    "mcode": "PPC-1F66-4117-MG",
+    "name": "Clair Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14180,8 +14180,8 @@
     ]
   },
   {
-    "mcode": "PPC-AF0E-4118-XK",
-    "name": "4118",
+    "mcode": "PPC-AF0E-4118-MG",
+    "name": "Eclipse Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14199,8 +14199,8 @@
     ]
   },
   {
-    "mcode": "PPC-6806-4119-XK",
-    "name": "4119",
+    "mcode": "PPC-6806-4119-MG",
+    "name": "Rugged Metal",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14232,8 +14232,8 @@
     ]
   },
   {
-    "mcode": "PPC-3FB9-4120-XK",
-    "name": "4120",
+    "mcode": "PPC-3FB9-4120-MG",
+    "name": "Morroccan",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14258,8 +14258,8 @@
     ]
   },
   {
-    "mcode": "PPC-D882-4121-XK",
-    "name": "4121",
+    "mcode": "PPC-D882-4121-MG",
+    "name": "Bristol Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14298,8 +14298,8 @@
     ]
   },
   {
-    "mcode": "PPC-D2B4-4122-XK",
-    "name": "4122",
+    "mcode": "PPC-D2B4-4122-MG",
+    "name": "Lucent Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14338,8 +14338,8 @@
     ]
   },
   {
-    "mcode": "PPC-750F-4123-XK",
-    "name": "4123",
+    "mcode": "PPC-750F-4123-MG",
+    "name": "Tundra Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14371,8 +14371,8 @@
     ]
   },
   {
-    "mcode": "PPC-8D73-4124-XK",
-    "name": "4124",
+    "mcode": "PPC-8D73-4124-MG",
+    "name": "Wood Lander",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14404,8 +14404,8 @@
     ]
   },
   {
-    "mcode": "PPC-83BA-4125-XK",
-    "name": "4125",
+    "mcode": "PPC-83BA-4125-MG",
+    "name": "Tehran Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14437,8 +14437,8 @@
     ]
   },
   {
-    "mcode": "PPC-8DA4-4126-XK",
-    "name": "4126",
+    "mcode": "PPC-8DA4-4126-MG",
+    "name": "Honey Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14477,8 +14477,8 @@
     ]
   },
   {
-    "mcode": "PPC-3955-4127-XK",
-    "name": "4127",
+    "mcode": "PPC-3955-4127-MG",
+    "name": "Metallic Ash",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14517,8 +14517,8 @@
     ]
   },
   {
-    "mcode": "PPC-0FEC-4128-XK",
-    "name": "4128",
+    "mcode": "PPC-0FEC-4128-MG",
+    "name": "Tupelo Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14550,8 +14550,8 @@
     ]
   },
   {
-    "mcode": "PPC-780F-4129-XK",
-    "name": "4129",
+    "mcode": "PPC-780F-4129-MG",
+    "name": "Savina Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14590,8 +14590,8 @@
     ]
   },
   {
-    "mcode": "PPC-83F4-4130-XK",
-    "name": "4130",
+    "mcode": "PPC-83F4-4130-MG",
+    "name": "Sumer Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14630,8 +14630,8 @@
     ]
   },
   {
-    "mcode": "PPC-C45A-4131-XK",
-    "name": "4131",
+    "mcode": "PPC-C45A-4131-MG",
+    "name": "Kalkata Jute",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14656,8 +14656,8 @@
     ]
   },
   {
-    "mcode": "PPC-ACFD-4132-XK",
-    "name": "4132",
+    "mcode": "PPC-ACFD-4132-MG",
+    "name": "Marquina Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14696,8 +14696,8 @@
     ]
   },
   {
-    "mcode": "PPC-8669-4133-XK",
-    "name": "4133",
+    "mcode": "PPC-8669-4133-MG",
+    "name": "01 Neoteric Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14743,8 +14743,8 @@
     ]
   },
   {
-    "mcode": "PPC-F166-4134-XK",
-    "name": "4134",
+    "mcode": "PPC-F166-4134-MG",
+    "name": "Coimbra",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14769,8 +14769,8 @@
     ]
   },
   {
-    "mcode": "PPC-DCA2-4135-XK",
-    "name": "4135",
+    "mcode": "PPC-DCA2-4135-MG",
+    "name": "Java Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14809,8 +14809,8 @@
     ]
   },
   {
-    "mcode": "PPC-6F54-4136-XK",
-    "name": "4136",
+    "mcode": "PPC-6F54-4136-MG",
+    "name": "Castle Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14849,8 +14849,8 @@
     ]
   },
   {
-    "mcode": "PPC-DF3E-4139-XK",
-    "name": "4139",
+    "mcode": "PPC-DF3E-4139-MG",
+    "name": "Urban Concrete",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14889,8 +14889,8 @@
     ]
   },
   {
-    "mcode": "PPC-8944-4140-XK",
-    "name": "4140",
+    "mcode": "PPC-8944-4140-MG",
+    "name": "Cut Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14929,8 +14929,8 @@
     ]
   },
   {
-    "mcode": "PPC-A9F1-4141-XK",
-    "name": "4141",
+    "mcode": "PPC-A9F1-4141-MG",
+    "name": "Classic Louver",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -14969,8 +14969,8 @@
     ]
   },
   {
-    "mcode": "PPC-1F7E-4142-XK",
-    "name": "4142",
+    "mcode": "PPC-1F7E-4142-MG",
+    "name": "Hampshire Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15009,8 +15009,8 @@
     ]
   },
   {
-    "mcode": "PPC-AC2C-4143-XK",
-    "name": "4143",
+    "mcode": "PPC-AC2C-4143-MG",
+    "name": "Chicago Steel",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15035,8 +15035,8 @@
     ]
   },
   {
-    "mcode": "PPC-D494-4144-XK",
-    "name": "4144",
+    "mcode": "PPC-D494-4144-MG",
+    "name": "Saturno Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15075,8 +15075,8 @@
     ]
   },
   {
-    "mcode": "PPC-9221-4145-XK",
-    "name": "4145",
+    "mcode": "PPC-9221-4145-MG",
+    "name": "Southern Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15115,8 +15115,8 @@
     ]
   },
   {
-    "mcode": "PPC-3E61-4146-XK",
-    "name": "4146",
+    "mcode": "PPC-3E61-4146-MG",
+    "name": "Fluted Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15134,8 +15134,8 @@
     ]
   },
   {
-    "mcode": "PPC-9610-4147-XK",
-    "name": "4147",
+    "mcode": "PPC-9610-4147-MG",
+    "name": "Wooden Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15174,8 +15174,8 @@
     ]
   },
   {
-    "mcode": "PPC-B248-4148-XK",
-    "name": "4148",
+    "mcode": "PPC-B248-4148-MG",
+    "name": "Walnut Louver Light",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15214,8 +15214,8 @@
     ]
   },
   {
-    "mcode": "PPC-77E7-4149-XK",
-    "name": "4149",
+    "mcode": "PPC-77E7-4149-MG",
+    "name": "Livid Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15254,8 +15254,8 @@
     ]
   },
   {
-    "mcode": "PPC-00CD-4150-XK",
-    "name": "4150",
+    "mcode": "PPC-00CD-4150-MG",
+    "name": "Tiger Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15294,8 +15294,8 @@
     ]
   },
   {
-    "mcode": "PPC-01A7-4151-XK",
-    "name": "4151",
+    "mcode": "PPC-01A7-4151-MG",
+    "name": "Noce Curleis",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15334,8 +15334,8 @@
     ]
   },
   {
-    "mcode": "PPC-3BB7-4152-XK",
-    "name": "4152",
+    "mcode": "PPC-3BB7-4152-MG",
+    "name": "Leon Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15374,8 +15374,8 @@
     ]
   },
   {
-    "mcode": "PPC-BF1D-4153-XK",
-    "name": "4153",
+    "mcode": "PPC-BF1D-4153-MG",
+    "name": "Dandy Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15421,8 +15421,8 @@
     ]
   },
   {
-    "mcode": "PPC-5488-4154-XK",
-    "name": "4154",
+    "mcode": "PPC-5488-4154-MG",
+    "name": "Havana Carrara",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15440,8 +15440,8 @@
     ]
   },
   {
-    "mcode": "PPC-42F5-4155-XK",
-    "name": "4155",
+    "mcode": "PPC-42F5-4155-MG",
+    "name": "Torino Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15466,8 +15466,8 @@
     ]
   },
   {
-    "mcode": "PPC-5F7C-4157-XK",
-    "name": "4157",
+    "mcode": "PPC-5F7C-4157-MG",
+    "name": "Torano",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15485,8 +15485,8 @@
     ]
   },
   {
-    "mcode": "PPC-16CA-4158-XK",
-    "name": "4158",
+    "mcode": "PPC-16CA-4158-MG",
+    "name": "Pentagonal Prism",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15525,8 +15525,8 @@
     ]
   },
   {
-    "mcode": "PPC-16A4-4159-XK",
-    "name": "4159",
+    "mcode": "PPC-16A4-4159-MG",
+    "name": "Wild Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15565,8 +15565,8 @@
     ]
   },
   {
-    "mcode": "PPC-B381-4160-XK",
-    "name": "4160",
+    "mcode": "PPC-B381-4160-MG",
+    "name": "Alamo Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15605,8 +15605,8 @@
     ]
   },
   {
-    "mcode": "PPC-5263-4161-XK",
-    "name": "4161",
+    "mcode": "PPC-5263-4161-MG",
+    "name": "Sessile Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15645,8 +15645,8 @@
     ]
   },
   {
-    "mcode": "PPC-A42E-4162-XK",
-    "name": "4162",
+    "mcode": "PPC-A42E-4162-MG",
+    "name": "Eucalyptus Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15685,8 +15685,8 @@
     ]
   },
   {
-    "mcode": "PPC-F5381-4163-XK",
-    "name": "4163",
+    "mcode": "PPC-F5381-4163-MG",
+    "name": "Cambridge Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15718,8 +15718,8 @@
     ]
   },
   {
-    "mcode": "PPC-E38A-4164-XK",
-    "name": "4164",
+    "mcode": "PPC-E38A-4164-MG",
+    "name": "Graph Checks",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15751,8 +15751,8 @@
     ]
   },
   {
-    "mcode": "PPC-51C5-4165-XK",
-    "name": "4165",
+    "mcode": "PPC-51C5-4165-MG",
+    "name": "Plateau Apple",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15798,8 +15798,8 @@
     ]
   },
   {
-    "mcode": "PPC-E4CE-4166-XK",
-    "name": "4166",
+    "mcode": "PPC-E4CE-4166-MG",
+    "name": "Shisham",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15838,8 +15838,8 @@
     ]
   },
   {
-    "mcode": "PPC-BA3C-4167-XK",
-    "name": "4167",
+    "mcode": "PPC-BA3C-4167-MG",
+    "name": "Metropolis Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -15878,7 +15878,7 @@
     ]
   },
   {
-    "mcode": "PPC-689A-4168-XK",
+    "mcode": "PPC-689A-4168-MG",
     "name": "4168",
     "series": "VOGUE",
     "source": "atelier",
@@ -15918,7 +15918,7 @@
     ]
   },
   {
-    "mcode": "PPC-7B74-4169-XK",
+    "mcode": "PPC-7B74-4169-MG",
     "name": "4169",
     "series": "VOGUE",
     "source": "atelier",
@@ -15958,7 +15958,7 @@
     ]
   },
   {
-    "mcode": "PPC-CCCD-4170-XK",
+    "mcode": "PPC-CCCD-4170-MG",
     "name": "4170",
     "series": "VOGUE",
     "source": "atelier",
@@ -15998,8 +15998,8 @@
     ]
   },
   {
-    "mcode": "PPC-DA73-4171-XK",
-    "name": "4171",
+    "mcode": "PPC-DA73-4171-MG",
+    "name": "Classic Planked Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16038,8 +16038,8 @@
     ]
   },
   {
-    "mcode": "PPC-8EF8-4172-XK",
-    "name": "4172",
+    "mcode": "PPC-8EF8-4172-MG",
+    "name": "Burl Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16078,8 +16078,8 @@
     ]
   },
   {
-    "mcode": "PPC-1FFD-4173-XK",
-    "name": "4173",
+    "mcode": "PPC-1FFD-4173-MG",
+    "name": "Black Portoro",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16097,8 +16097,8 @@
     ]
   },
   {
-    "mcode": "PPC-4F0E-4174-XK",
-    "name": "4174",
+    "mcode": "PPC-4F0E-4174-MG",
+    "name": "Osb",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16130,8 +16130,8 @@
     ]
   },
   {
-    "mcode": "PPC-2DAD-4175-XK",
-    "name": "4175",
+    "mcode": "PPC-2DAD-4175-MG",
+    "name": "Calacatta Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16149,8 +16149,8 @@
     ]
   },
   {
-    "mcode": "PPC-EDA5-4176-XK",
-    "name": "4176",
+    "mcode": "PPC-EDA5-4176-MG",
+    "name": "Mystic Louvers",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16182,8 +16182,8 @@
     ]
   },
   {
-    "mcode": "PPC-9303-4177-XK",
-    "name": "4177",
+    "mcode": "PPC-9303-4177-MG",
+    "name": "Metallic Louvers",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16222,8 +16222,8 @@
     ]
   },
   {
-    "mcode": "PPC-E90A-4178-XK",
-    "name": "4178",
+    "mcode": "PPC-E90A-4178-MG",
+    "name": "Marbelite",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16248,8 +16248,8 @@
     ]
   },
   {
-    "mcode": "PPC-30E2-4179-XK",
-    "name": "4179",
+    "mcode": "PPC-30E2-4179-MG",
+    "name": "Lime Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16288,8 +16288,8 @@
     ]
   },
   {
-    "mcode": "PPC-93AC-418-XK",
-    "name": "418",
+    "mcode": "PPC-93AC-418-MG",
+    "name": "Canyon Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16307,8 +16307,8 @@
     ]
   },
   {
-    "mcode": "PPC-5E18-4180-XK",
-    "name": "4180",
+    "mcode": "PPC-5E18-4180-MG",
+    "name": "Moonstone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16347,8 +16347,8 @@
     ]
   },
   {
-    "mcode": "PPC-5CB8-4181-XK",
-    "name": "4181",
+    "mcode": "PPC-5CB8-4181-MG",
+    "name": "Mosaic",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16387,8 +16387,8 @@
     ]
   },
   {
-    "mcode": "PPC-1BB8-4182-XK",
-    "name": "4182",
+    "mcode": "PPC-1BB8-4182-MG",
+    "name": "Fluted Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16427,8 +16427,8 @@
     ]
   },
   {
-    "mcode": "PPC-2DD5-4184-XK",
-    "name": "4184",
+    "mcode": "PPC-2DD5-4184-MG",
+    "name": "Corten Steel",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16467,8 +16467,8 @@
     ]
   },
   {
-    "mcode": "PPC-A09F-4185-XK",
-    "name": "4185",
+    "mcode": "PPC-A09F-4185-MG",
+    "name": "Sundarban Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16507,8 +16507,8 @@
     ]
   },
   {
-    "mcode": "PPC-8962-4186-XK",
-    "name": "4186",
+    "mcode": "PPC-8962-4186-MG",
+    "name": "Melodic Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16547,8 +16547,8 @@
     ]
   },
   {
-    "mcode": "PPC-43DF-4187-XK",
-    "name": "4187",
+    "mcode": "PPC-43DF-4187-MG",
+    "name": "Magic Line",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16587,8 +16587,8 @@
     ]
   },
   {
-    "mcode": "PPC-9AB9-4188-XK",
-    "name": "4188",
+    "mcode": "PPC-9AB9-4188-MG",
+    "name": "Santa Monica",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16613,8 +16613,8 @@
     ]
   },
   {
-    "mcode": "PPC-71F9-4189-XK",
-    "name": "4189",
+    "mcode": "PPC-71F9-4189-MG",
+    "name": "Firestone Flute",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16646,8 +16646,8 @@
     ]
   },
   {
-    "mcode": "PPC-1F00-419-XK",
-    "name": "419",
+    "mcode": "PPC-1F00-419-MG",
+    "name": "Canyon Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16665,8 +16665,8 @@
     ]
   },
   {
-    "mcode": "PPC-8F5E-4190-XK",
-    "name": "4190",
+    "mcode": "PPC-8F5E-4190-MG",
+    "name": "Cementone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16705,8 +16705,8 @@
     ]
   },
   {
-    "mcode": "PPC-544E-4191-XK",
-    "name": "4191",
+    "mcode": "PPC-544E-4191-MG",
+    "name": "Twister",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16738,8 +16738,8 @@
     ]
   },
   {
-    "mcode": "PPC-F56F-4192-XK",
-    "name": "4192",
+    "mcode": "PPC-F56F-4192-MG",
+    "name": "Clifton Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16778,8 +16778,8 @@
     ]
   },
   {
-    "mcode": "PPC-385C-4193-XK",
-    "name": "4193",
+    "mcode": "PPC-385C-4193-MG",
+    "name": "Arctic Fishbone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16825,8 +16825,8 @@
     ]
   },
   {
-    "mcode": "PPC-319A-4194-XK",
-    "name": "4194",
+    "mcode": "PPC-319A-4194-MG",
+    "name": "Walnut Creek",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16865,8 +16865,8 @@
     ]
   },
   {
-    "mcode": "PPC-3003-4195-XK",
-    "name": "4195",
+    "mcode": "PPC-3003-4195-MG",
+    "name": "Prime Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16905,8 +16905,8 @@
     ]
   },
   {
-    "mcode": "PPC-756D-4196-XK",
-    "name": "4196",
+    "mcode": "PPC-756D-4196-MG",
+    "name": "Montego Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16945,8 +16945,8 @@
     ]
   },
   {
-    "mcode": "PPC-4431-4197-XK",
-    "name": "4197",
+    "mcode": "PPC-4431-4197-MG",
+    "name": "Falcon Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -16985,8 +16985,8 @@
     ]
   },
   {
-    "mcode": "PPC-B273-4198-XK",
-    "name": "4198",
+    "mcode": "PPC-B273-4198-MG",
+    "name": "Sonam Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17011,8 +17011,8 @@
     ]
   },
   {
-    "mcode": "PPC-AEF2-4199-XK",
-    "name": "4199",
+    "mcode": "PPC-AEF2-4199-MG",
+    "name": "Jose",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17030,8 +17030,8 @@
     ]
   },
   {
-    "mcode": "PPC-7A95-420-XK",
-    "name": "420",
+    "mcode": "PPC-7A95-420-MG",
+    "name": "Canyon Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17049,8 +17049,8 @@
     ]
   },
   {
-    "mcode": "PPC-C79F-4200-XK",
-    "name": "4200",
+    "mcode": "PPC-C79F-4200-MG",
+    "name": "Cyana",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17089,8 +17089,8 @@
     ]
   },
   {
-    "mcode": "PPC-48C2-4201-XK",
-    "name": "4201",
+    "mcode": "PPC-48C2-4201-MG",
+    "name": "Country Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17115,8 +17115,8 @@
     ]
   },
   {
-    "mcode": "PPC-4DF7-4202-XK",
-    "name": "4202",
+    "mcode": "PPC-4DF7-4202-MG",
+    "name": "Esspranzo",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17155,8 +17155,8 @@
     ]
   },
   {
-    "mcode": "PPC-7DEB-4203-XK",
-    "name": "4203",
+    "mcode": "PPC-7DEB-4203-MG",
+    "name": "Silk Teak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17195,8 +17195,8 @@
     ]
   },
   {
-    "mcode": "PPC-5C5A-4204-XK",
-    "name": "4204",
+    "mcode": "PPC-5C5A-4204-MG",
+    "name": "Volakas Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17235,8 +17235,8 @@
     ]
   },
   {
-    "mcode": "PPC-544A-4205-XK",
-    "name": "4205",
+    "mcode": "PPC-544A-4205-MG",
+    "name": "Marina Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17275,8 +17275,8 @@
     ]
   },
   {
-    "mcode": "PPC-D6B9-4206-XK",
-    "name": "4206",
+    "mcode": "PPC-D6B9-4206-MG",
+    "name": "Imperial Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17315,8 +17315,8 @@
     ]
   },
   {
-    "mcode": "PPC-664B-4207-XK",
-    "name": "4207",
+    "mcode": "PPC-664B-4207-MG",
+    "name": "Sandal Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17355,8 +17355,8 @@
     ]
   },
   {
-    "mcode": "PPC-E364-4208-XK",
-    "name": "4208",
+    "mcode": "PPC-E364-4208-MG",
+    "name": "Kishangarh Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17388,8 +17388,8 @@
     ]
   },
   {
-    "mcode": "PPC-E422-4208-02-v-XK",
-    "name": "4208-02-v",
+    "mcode": "PPC-E422-4208-02-v-MG",
+    "name": "Kishangarh Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17407,8 +17407,8 @@
     ]
   },
   {
-    "mcode": "PPC-BC9D-4209-XK",
-    "name": "4209",
+    "mcode": "PPC-BC9D-4209-MG",
+    "name": "Metal Wave",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17447,8 +17447,8 @@
     ]
   },
   {
-    "mcode": "PPC-1C76-421-XK",
-    "name": "421",
+    "mcode": "PPC-1C76-421-MG",
+    "name": "Canyon Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17466,8 +17466,8 @@
     ]
   },
   {
-    "mcode": "PPC-C0D2-4210-XK",
-    "name": "4210",
+    "mcode": "PPC-C0D2-4210-MG",
+    "name": "Persian Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17506,8 +17506,8 @@
     ]
   },
   {
-    "mcode": "PPC-70D4-4211-XK",
-    "name": "4211",
+    "mcode": "PPC-70D4-4211-MG",
+    "name": "Amazon Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17546,8 +17546,8 @@
     ]
   },
   {
-    "mcode": "PPC-094E-4212-XK",
-    "name": "4212",
+    "mcode": "PPC-094E-4212-MG",
+    "name": "Vintage Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17572,8 +17572,8 @@
     ]
   },
   {
-    "mcode": "PPC-3AAD-4213-XK",
-    "name": "4213",
+    "mcode": "PPC-3AAD-4213-MG",
+    "name": "Milano Carrara",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17591,8 +17591,8 @@
     ]
   },
   {
-    "mcode": "PPC-47B4-4214-XK",
-    "name": "4214",
+    "mcode": "PPC-47B4-4214-MG",
+    "name": "Quartzite",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17624,8 +17624,8 @@
     ]
   },
   {
-    "mcode": "PPC-020C-422-XK",
-    "name": "422",
+    "mcode": "PPC-020C-422-MG",
+    "name": "Canyon Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17643,8 +17643,8 @@
     ]
   },
   {
-    "mcode": "PPC-05C9-4269-XK",
-    "name": "4269",
+    "mcode": "PPC-05C9-4269-MG",
+    "name": "Aurora Onyx",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17683,8 +17683,8 @@
     ]
   },
   {
-    "mcode": "PPC-504E-4270-XK",
-    "name": "4270",
+    "mcode": "PPC-504E-4270-MG",
+    "name": "Champagne Vein",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17730,8 +17730,8 @@
     ]
   },
   {
-    "mcode": "PPC-30F7-4271-XK",
-    "name": "4271",
+    "mcode": "PPC-30F7-4271-MG",
+    "name": "Shisham Sunrise",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17749,8 +17749,8 @@
     ]
   },
   {
-    "mcode": "PPC-7DF0-4272-XK",
-    "name": "4272",
+    "mcode": "PPC-7DF0-4272-MG",
+    "name": "Golden Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17782,8 +17782,8 @@
     ]
   },
   {
-    "mcode": "PPC-9CB0-4273-XK",
-    "name": "4273",
+    "mcode": "PPC-9CB0-4273-MG",
+    "name": "Hard Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17822,8 +17822,8 @@
     ]
   },
   {
-    "mcode": "PPC-51CB-4274-XK",
-    "name": "4274",
+    "mcode": "PPC-51CB-4274-MG",
+    "name": "Rafttan",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17862,8 +17862,8 @@
     ]
   },
   {
-    "mcode": "PPC-B35F-4275-XK",
-    "name": "4275",
+    "mcode": "PPC-B35F-4275-MG",
+    "name": "Granvera",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17902,8 +17902,8 @@
     ]
   },
   {
-    "mcode": "PPC-8A77-4276-XK",
-    "name": "4276",
+    "mcode": "PPC-8A77-4276-MG",
+    "name": "Moltena",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17942,8 +17942,8 @@
     ]
   },
   {
-    "mcode": "PPC-EB5D-4277-XK",
-    "name": "4277",
+    "mcode": "PPC-EB5D-4277-MG",
+    "name": "Roman Terra",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -17989,8 +17989,8 @@
     ]
   },
   {
-    "mcode": "PPC-E3F0-4278-XK",
-    "name": "4278",
+    "mcode": "PPC-E3F0-4278-MG",
+    "name": "Nova Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18029,8 +18029,8 @@
     ]
   },
   {
-    "mcode": "PPC-4259-4279-XK",
-    "name": "4279",
+    "mcode": "PPC-4259-4279-MG",
+    "name": "Noctura",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18076,8 +18076,8 @@
     ]
   },
   {
-    "mcode": "PPC-22F4-4280-XK",
-    "name": "4280",
+    "mcode": "PPC-22F4-4280-MG",
+    "name": "Rin Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18116,8 +18116,8 @@
     ]
   },
   {
-    "mcode": "PPC-77C9-4281-XK",
-    "name": "4281",
+    "mcode": "PPC-77C9-4281-MG",
+    "name": "Valdoro Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18156,8 +18156,8 @@
     ]
   },
   {
-    "mcode": "PPC-9834-4282-XK",
-    "name": "4282",
+    "mcode": "PPC-9834-4282-MG",
+    "name": "Asahi Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18196,8 +18196,8 @@
     ]
   },
   {
-    "mcode": "PPC-A86E-4291-XK",
-    "name": "4291",
+    "mcode": "PPC-A86E-4291-MG",
+    "name": "Silva Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18236,8 +18236,8 @@
     ]
   },
   {
-    "mcode": "PPC-89AF-4292-XK",
-    "name": "4292",
+    "mcode": "PPC-89AF-4292-MG",
+    "name": "Sierra",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -18276,7 +18276,7 @@
     ]
   },
   {
-    "mcode": "PPC-1B37-v4215-XK",
+    "mcode": "PPC-1B37-v4215-MG",
     "name": "v4215",
     "series": "VOGUE",
     "source": "atelier",
@@ -18316,7 +18316,7 @@
     ]
   },
   {
-    "mcode": "PPC-3080-v4216-XK",
+    "mcode": "PPC-3080-v4216-MG",
     "name": "v4216",
     "series": "VOGUE",
     "source": "atelier",
@@ -18356,7 +18356,7 @@
     ]
   },
   {
-    "mcode": "PPC-85C1-v4217-XK",
+    "mcode": "PPC-85C1-v4217-MG",
     "name": "v4217",
     "series": "VOGUE",
     "source": "atelier",
@@ -18396,7 +18396,7 @@
     ]
   },
   {
-    "mcode": "PPC-709C-v4218-XK",
+    "mcode": "PPC-709C-v4218-MG",
     "name": "v4218",
     "series": "VOGUE",
     "source": "atelier",
@@ -18436,7 +18436,7 @@
     ]
   },
   {
-    "mcode": "PPC-1915-v4219-XK",
+    "mcode": "PPC-1915-v4219-MG",
     "name": "v4219",
     "series": "VOGUE",
     "source": "atelier",
@@ -18476,7 +18476,7 @@
     ]
   },
   {
-    "mcode": "PPC-F321-v4220-XK",
+    "mcode": "PPC-F321-v4220-MG",
     "name": "v4220",
     "series": "VOGUE",
     "source": "atelier",
@@ -18516,7 +18516,7 @@
     ]
   },
   {
-    "mcode": "PPC-2FFA-v4221-XK",
+    "mcode": "PPC-2FFA-v4221-MG",
     "name": "v4221",
     "series": "VOGUE",
     "source": "atelier",
@@ -18556,7 +18556,7 @@
     ]
   },
   {
-    "mcode": "PPC-D382-v4222-XK",
+    "mcode": "PPC-D382-v4222-MG",
     "name": "v4222",
     "series": "VOGUE",
     "source": "atelier",
@@ -18596,7 +18596,7 @@
     ]
   },
   {
-    "mcode": "PPC-A359-v4224-XK",
+    "mcode": "PPC-A359-v4224-MG",
     "name": "v4224",
     "series": "VOGUE",
     "source": "atelier",
@@ -18636,7 +18636,7 @@
     ]
   },
   {
-    "mcode": "PPC-8819-v4226-XK",
+    "mcode": "PPC-8819-v4226-MG",
     "name": "v4226",
     "series": "VOGUE",
     "source": "atelier",
@@ -18676,7 +18676,7 @@
     ]
   },
   {
-    "mcode": "PPC-283F-v4228-XK",
+    "mcode": "PPC-283F-v4228-MG",
     "name": "v4228",
     "series": "VOGUE",
     "source": "atelier",
@@ -18716,7 +18716,7 @@
     ]
   },
   {
-    "mcode": "PPC-359A-v4229-XK",
+    "mcode": "PPC-359A-v4229-MG",
     "name": "v4229",
     "series": "VOGUE",
     "source": "atelier",
@@ -18756,7 +18756,7 @@
     ]
   },
   {
-    "mcode": "PPC-ACED-v4230-XK",
+    "mcode": "PPC-ACED-v4230-MG",
     "name": "v4230",
     "series": "VOGUE",
     "source": "atelier",
@@ -18796,7 +18796,7 @@
     ]
   },
   {
-    "mcode": "PPC-27D0-v4231-XK",
+    "mcode": "PPC-27D0-v4231-MG",
     "name": "v4231",
     "series": "VOGUE",
     "source": "atelier",
@@ -18829,7 +18829,7 @@
     ]
   },
   {
-    "mcode": "PPC-F3E9-v4232-XK",
+    "mcode": "PPC-F3E9-v4232-MG",
     "name": "v4232",
     "series": "VOGUE",
     "source": "atelier",
@@ -18862,7 +18862,7 @@
     ]
   },
   {
-    "mcode": "PPC-A329-v4243-XK",
+    "mcode": "PPC-A329-v4243-MG",
     "name": "v4243",
     "series": "VOGUE",
     "source": "atelier",
@@ -18881,7 +18881,7 @@
     ]
   },
   {
-    "mcode": "PPC-293E-v4247-XK",
+    "mcode": "PPC-293E-v4247-MG",
     "name": "v4247",
     "series": "VOGUE",
     "source": "atelier",
@@ -18900,7 +18900,7 @@
     ]
   },
   {
-    "mcode": "PPC-DBCC-v4261-XK",
+    "mcode": "PPC-DBCC-v4261-MG",
     "name": "v4261",
     "series": "VOGUE",
     "source": "atelier",
@@ -18919,7 +18919,7 @@
     ]
   },
   {
-    "mcode": "MIPFC-WTRF-RB97-YP",
+    "mcode": "MIPFC-WTRF-RB97-BY",
     "name": "MIPFC",
     "series": "INSULATION",
     "look": "stone",
@@ -18937,7 +18937,7 @@
     ]
   },
   {
-    "mcode": "MIPPC-SILV-RB97-YP",
+    "mcode": "MIPPC-SILV-RB97-BY",
     "name": "MIPPC",
     "series": "INSULATION",
     "look": "stone",
@@ -18955,7 +18955,7 @@
     ]
   },
   {
-    "mcode": "PPC-1065-15062-XK",
+    "mcode": "PPC-1065-15062-MG",
     "name": "15062",
     "series": "NXT",
     "source": "atelier",
@@ -18974,8 +18974,8 @@
     ]
   },
   {
-    "mcode": "PPC-56CC-4267-XK",
-    "name": "4267",
+    "mcode": "PPC-56CC-4267-MG",
+    "name": "02 Oak Crest",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19014,7 +19014,7 @@
     ]
   },
   {
-    "mcode": "PPC-D993-1028-XK",
+    "mcode": "PPC-D993-1028-MG",
     "name": "1028",
     "series": "NATURAL",
     "source": "atelier",
@@ -19033,8 +19033,8 @@
     ]
   },
   {
-    "mcode": "PPC-5ED1-4266-XK",
-    "name": "4266",
+    "mcode": "PPC-5ED1-4266-MG",
+    "name": "02 Savanna Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19066,8 +19066,8 @@
     ]
   },
   {
-    "mcode": "PPC-232A-4265-XK",
-    "name": "4265",
+    "mcode": "PPC-232A-4265-MG",
+    "name": "Arctic Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19092,8 +19092,8 @@
     ]
   },
   {
-    "mcode": "PPC-CD6A-4264-XK",
-    "name": "4264",
+    "mcode": "PPC-CD6A-4264-MG",
+    "name": "Mocha Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19125,8 +19125,8 @@
     ]
   },
   {
-    "mcode": "PPC-D7C4-4263-XK",
-    "name": "4263",
+    "mcode": "PPC-D7C4-4263-MG",
+    "name": "Imperial Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19158,8 +19158,8 @@
     ]
   },
   {
-    "mcode": "PPC-275D-4262-XK",
-    "name": "4262",
+    "mcode": "PPC-275D-4262-MG",
+    "name": "Maharaja Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19198,8 +19198,8 @@
     ]
   },
   {
-    "mcode": "PPC-B0F0-4261-XK",
-    "name": "4261",
+    "mcode": "PPC-B0F0-4261-MG",
+    "name": "Dawnwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19231,8 +19231,8 @@
     ]
   },
   {
-    "mcode": "PPC-3EC9-4260-XK",
-    "name": "4260",
+    "mcode": "PPC-3EC9-4260-MG",
+    "name": "Regal Marquina",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19271,8 +19271,8 @@
     ]
   },
   {
-    "mcode": "PPC-CE48-4259-XK",
-    "name": "4259",
+    "mcode": "PPC-CE48-4259-MG",
+    "name": "02 Cosmic Slate",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19304,8 +19304,8 @@
     ]
   },
   {
-    "mcode": "PPC-2101-4258-XK",
-    "name": "4258",
+    "mcode": "PPC-2101-4258-MG",
+    "name": "Blacktide Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19344,8 +19344,8 @@
     ]
   },
   {
-    "mcode": "PPC-69AD-4257-XK",
-    "name": "4257",
+    "mcode": "PPC-69AD-4257-MG",
+    "name": "04 Tuscan Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19384,8 +19384,8 @@
     ]
   },
   {
-    "mcode": "PPC-6669-4255-XK",
-    "name": "4255",
+    "mcode": "PPC-6669-4255-MG",
+    "name": "Phantom Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19424,8 +19424,8 @@
     ]
   },
   {
-    "mcode": "PPC-04D0-4254-XK",
-    "name": "4254",
+    "mcode": "PPC-04D0-4254-MG",
+    "name": "02 Autumn Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19464,8 +19464,8 @@
     ]
   },
   {
-    "mcode": "PPC-D733-4252-XK",
-    "name": "4252",
+    "mcode": "PPC-D733-4252-MG",
+    "name": "Slate Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19497,8 +19497,8 @@
     ]
   },
   {
-    "mcode": "PPC-AD89-4253-XK",
-    "name": "4253",
+    "mcode": "PPC-AD89-4253-MG",
+    "name": "Eldorado Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19537,8 +19537,8 @@
     ]
   },
   {
-    "mcode": "PPC-5423-4251-XK",
-    "name": "4251",
+    "mcode": "PPC-5423-4251-MG",
+    "name": "Nebula Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19556,8 +19556,8 @@
     ]
   },
   {
-    "mcode": "PPC-1D05-4250-XK",
-    "name": "4250",
+    "mcode": "PPC-1D05-4250-MG",
+    "name": "Canyon Bark",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19596,8 +19596,8 @@
     ]
   },
   {
-    "mcode": "PPC-304E-4249-XK",
-    "name": "4249",
+    "mcode": "PPC-304E-4249-MG",
+    "name": "Nordic Wood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19636,8 +19636,8 @@
     ]
   },
   {
-    "mcode": "PPC-BB7A-4247-XK",
-    "name": "4247",
+    "mcode": "PPC-BB7A-4247-MG",
+    "name": "Amberwave Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19662,8 +19662,8 @@
     ]
   },
   {
-    "mcode": "PPC-19AF-4246-XK",
-    "name": "4246",
+    "mcode": "PPC-19AF-4246-MG",
+    "name": "Cigarwood",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19702,8 +19702,8 @@
     ]
   },
   {
-    "mcode": "PPC-12F6-4245-XK",
-    "name": "4245",
+    "mcode": "PPC-12F6-4245-MG",
+    "name": "Aurora Marble",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19721,8 +19721,8 @@
     ]
   },
   {
-    "mcode": "PPC-36E2-4244-XK",
-    "name": "4244",
+    "mcode": "PPC-36E2-4244-MG",
+    "name": "02 Silverstone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19761,8 +19761,8 @@
     ]
   },
   {
-    "mcode": "PPC-A5CC-4243-XK",
-    "name": "4243",
+    "mcode": "PPC-A5CC-4243-MG",
+    "name": "Mg Rattan",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19787,8 +19787,8 @@
     ]
   },
   {
-    "mcode": "PPC-8580-4241-XK",
-    "name": "4241",
+    "mcode": "PPC-8580-4241-MG",
+    "name": "Auric Stone",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19806,8 +19806,8 @@
     ]
   },
   {
-    "mcode": "PPC-73E0-4242-XK",
-    "name": "4242",
+    "mcode": "PPC-73E0-4242-MG",
+    "name": "Onyx",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19825,8 +19825,8 @@
     ]
   },
   {
-    "mcode": "PPC-4036-4240-XK",
-    "name": "4240",
+    "mcode": "PPC-4036-4240-MG",
+    "name": "Crystal Slate",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19844,8 +19844,8 @@
     ]
   },
   {
-    "mcode": "PPC-578F-4239-XK",
-    "name": "4239",
+    "mcode": "PPC-578F-4239-MG",
+    "name": "Elysian Oak",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19891,8 +19891,8 @@
     ]
   },
   {
-    "mcode": "PPC-0EC5-4238-XK",
-    "name": "4238",
+    "mcode": "PPC-0EC5-4238-MG",
+    "name": "Galen Chestnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19938,8 +19938,8 @@
     ]
   },
   {
-    "mcode": "PPC-B4FE-4236-XK",
-    "name": "4236",
+    "mcode": "PPC-B4FE-4236-MG",
+    "name": "Ridge Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -19978,8 +19978,8 @@
     ]
   },
   {
-    "mcode": "PPC-6336-4235-XK",
-    "name": "4235",
+    "mcode": "PPC-6336-4235-MG",
+    "name": "Arrowhead Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -20018,8 +20018,8 @@
     ]
   },
   {
-    "mcode": "PPC-94C2-4234-XK",
-    "name": "4234",
+    "mcode": "PPC-94C2-4234-MG",
+    "name": "Swan Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -20058,8 +20058,8 @@
     ]
   },
   {
-    "mcode": "PPC-B896-4233-XK",
-    "name": "4233",
+    "mcode": "PPC-B896-4233-MG",
+    "name": "Marble Supreme",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
@@ -20098,8 +20098,8 @@
     ]
   },
   {
-    "mcode": "PPC-65F9-4232-XK",
-    "name": "4232",
+    "mcode": "PPC-65F9-4232-MG",
+    "name": "Crosscut Walnut",
     "series": "VOGUE",
     "source": "atelier",
     "line": "decorative",
