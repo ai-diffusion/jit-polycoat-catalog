@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jit Polycoat Enterprise — Decorative CFB catalog</title>
+  <meta name="description" content="World’s largest decorative cement fiberboard catalog. 750 real designs, 1,587 SKUs. PVC-free, VOC-free Polymer Paper Composite." />
+  <style>
+    :root { --bg:#0c0b09; --ink:#f4efe4; --muted:#b9b09f; --line:#2a261f; --gold:#c4a574; --card:#15130f; }
+    * { box-sizing: border-box; }
+    body { margin:0; font: 15px/1.45 ui-sans-serif, system-ui, sans-serif; background:var(--bg); color:var(--ink); }
+    a { color: var(--gold); }
+    header { padding: 28px 24px 12px; max-width: 1280px; margin: 0 auto; }
+    .kicker { letter-spacing:.18em; text-transform:uppercase; font-size:11px; color:var(--gold); }
+    h1 { font-family: Georgia, "Times New Roman", serif; font-weight:500; font-size: clamp(28px, 4vw, 44px); margin:8px 0 6px; }
+    .sub { color:var(--muted); max-width: 62ch; }
+    .links { display:flex; flex-wrap:wrap; gap:10px 18px; margin:16px 0 8px; font-size:13px; }
+    .toolbar { display:flex; flex-wrap:wrap; gap:10px; padding: 8px 24px 20px; max-width:1280px; margin:0 auto; align-items:center; }
+    input, select { background:#1b1813; color:var(--ink); border:1px solid var(--line); border-radius:8px; padding:10px 12px; font: inherit; }
+    input { min-width: 240px; flex:1; }
+    .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(180px,1fr)); gap:14px; padding: 0 24px 80px; max-width:1280px; margin:0 auto; }
+    article { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; }
+    article img { width:100%; aspect-ratio:1/1; object-fit:cover; display:block; background:#1a1712; }
+    article .meta { padding:10px 12px 12px; }
+    article h3 { margin:0 0 4px; font-size:14px; font-weight:600; }
+    .sku, .series { color:var(--muted); font-size:11px; letter-spacing:.04em; }
+    .more { display:block; margin: 0 auto 64px; background:transparent; color:var(--ink); border:1px solid var(--gold); border-radius:999px; padding:12px 22px; cursor:pointer; font:inherit; }
+    footer { border-top:1px solid var(--line); padding:24px; color:var(--muted); font-size:13px; max-width:1280px; margin:0 auto; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="kicker">Jit Polycoat Enterprise · Mumbai</div>
+    <h1>World’s largest decorative cement fiberboard catalog</h1>
+    <p class="sub">PVC-free / VOC-free Polymer Paper Composite laminated onto 4×4 ft cement fiber boards. Real Match Graphics + Baaya SKUs only — 750 designs, 1,587 colourways. Staging catalog for African distributors.</p>
+    <div class="links">
+      <a href="./catalog.json">catalog.json</a>
+      <a href="https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json">catalog.json (GitHub raw)</a>
+    </div>
+  </header>
+  <div class="toolbar">
+    <input id="q" type="search" placeholder="Search name, SKU, trade code…" />
+    <select id="series">
+      <option value="">All series</option>
+      <option>ATELIER</option>
+      <option>SIGNATURE</option>
+      <option>NXT</option>
+      <option>NATURAL</option>
+      <option>VOGUE</option>
+      <option>LINO</option>
+      <option>COLORPEDIA</option>
+      <option>INSULATION</option>
+    </select>
+    <span id="count" class="sku"></span>
+  </div>
+  <div class="grid" id="grid"></div>
+  <button class="more" id="more" hidden>Load more</button>
+  <footer>
+    Help: jitpolycoat@gmail.com · Do not invent SKUs · MIPPC/MIPFC are underside insulation, not face finishes.
+  </footer>
+  <script>
+    const IMG_BASES = [
+      "./",
+      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/",
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/"
+    ];
+    const PAGE = 24;
+    let all = [], shown = 0, filtered = [];
+    const grid = document.getElementById("grid");
+    const more = document.getElementById("more");
+    const count = document.getElementById("count");
+    const q = document.getElementById("q");
+    const series = document.getElementById("series");
+
+    function apply() {
+      const query = q.value.trim().toLowerCase();
+      const ser = series.value;
+      filtered = all.filter((d) => {
+        if (ser && d.series !== ser) return false;
+        if (!query) return true;
+        const blob = [d.name, d.mcode, d.series, ...(d.variants || []).map(v => v.sku)].join(" ").toLowerCase();
+        return blob.includes(query);
+      });
+      shown = 0;
+      grid.innerHTML = "";
+      paint();
+    }
+
+    function paint() {
+      const slice = filtered.slice(shown, shown + PAGE);
+      for (const d of slice) {
+        const v = (d.variants && d.variants[0]) || {};
+        const hi = (v.hi || "").replace(/^\//, "");
+        const src = hi ? IMG_BASES[0] + hi : "";
+        const fallbacks = hi ? IMG_BASES.slice(1).map((b) => b + hi) : [];
+        const el = document.createElement("article");
+        const img = `<img loading="lazy" alt="" src="${src}" ${fallbacks.length ? `data-fb="${fallbacks.join("|")}"` : ""} onerror="window.__imgFb && window.__imgFb(this)" />`;
+        el.innerHTML = `${img}<div class="meta"><div class="series">${d.series || ""}${d.featured ? " · featured" : ""}</div><h3>${d.name || ""}</h3><div class="sku">${v.sku || ""} · ${d.mcode || ""}</div></div>`;
+        grid.appendChild(el);
+      }
+      shown += slice.length;
+      count.textContent = filtered.length + " designs";
+      more.hidden = shown >= filtered.length;
+    }
+
+    window.__imgFb = function (img) {
+      const rest = (img.getAttribute("data-fb") || "").split("|").filter(Boolean);
+      if (!rest.length) return;
+      img.setAttribute("data-fb", rest.slice(1).join("|"));
+      img.src = rest[0];
+    };
+
+    const CAT_URLS = [
+      "./catalog.json",
+      "https://raw.githubusercontent.com/ai-diffusion/jit-polycoat-catalog/main/catalog.json",
+      "https://cdn.jsdelivr.net/gh/ai-diffusion/jit-polycoat-catalog@main/catalog.json"
+    ];
+    async function loadCatalog() {
+      for (const url of CAT_URLS) {
+        try {
+          const r = await fetch(url);
+          if (!r.ok) continue;
+          all = await r.json();
+          apply();
+          return;
+        } catch (e) {}
+      }
+      count.textContent = "Could not load catalog.json";
+    }
+    loadCatalog();
+
+    q.addEventListener("input", apply);
+    series.addEventListener("change", apply);
+    more.addEventListener("click", paint);
+  </script>
+</body>
+</html>
