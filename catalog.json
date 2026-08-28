@@ -2,34 +2,34 @@
   {
     "mcode": "PPC-AD28-9034-BY",
     "name": "Kioko Herringbone",
-    "series": "ATELIER",
+    "series": "HD",
     "variants": [
       {
         "id": "01",
         "vlabel": "01",
         "hi": "/swatches/cc0017ad28yp-01.jpg",
-        "sheet": "/sheets/PPC-WA0001-9034-01-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0001-9034-01-BYHD.jpg",
         "sku": "9034-01"
       },
       {
         "id": "02",
         "vlabel": "02",
         "hi": "/swatches/cc0017ad28yp-02.jpg",
-        "sheet": "/sheets/PPC-WA0001-9034-02-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0001-9034-02-BYHD.jpg",
         "sku": "9034-02"
       },
       {
         "id": "03",
         "vlabel": "03",
         "hi": "/swatches/cc0017ad28yp-03.jpg",
-        "sheet": "/sheets/PPC-WA0001-9034-03-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0001-9034-03-BYHD.jpg",
         "sku": "9034-03"
       },
       {
         "id": "04",
         "vlabel": "04",
         "hi": "/swatches/cc0017ad28yp-04.jpg",
-        "sheet": "/sheets/PPC-WA0001-9034-04-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0001-9034-04-BYHD.jpg",
         "sku": "9034-04"
       }
     ],
@@ -177,41 +177,41 @@
   {
     "mcode": "PPC-AC2E-9036-BY",
     "name": "Mocka Oak",
-    "series": "ATELIER",
+    "series": "HD",
     "variants": [
       {
         "id": "02",
         "vlabel": "02",
         "hi": "/swatches/cc0017ac2eyp-02.jpg",
-        "sheet": "/sheets/PPC-WA0002-9036-02-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0002-9036-02-BYHD.jpg",
         "sku": "9036-02"
       },
       {
         "id": "03",
         "vlabel": "03",
         "hi": "/swatches/cc0017ac2eyp-03.jpg",
-        "sheet": "/sheets/PPC-WA0002-9036-03-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0002-9036-03-BYHD.jpg",
         "sku": "9036-03"
       },
       {
         "id": "04",
         "vlabel": "04",
         "hi": "/swatches/cc0017ac2eyp-04.jpg",
-        "sheet": "/sheets/PPC-WA0002-9036-04-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0002-9036-04-BYHD.jpg",
         "sku": "9036-04"
       },
       {
         "id": "05",
         "vlabel": "05",
         "hi": "/swatches/cc0017ac2eyp-05.jpg",
-        "sheet": "/sheets/PPC-WA0002-9036-05-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0002-9036-05-BYHD.jpg",
         "sku": "9036-05"
       },
       {
         "id": "06",
         "vlabel": "06",
         "hi": "/swatches/cc0017ac2eyp-06.jpg",
-        "sheet": "/sheets/PPC-WA0002-9036-06-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0002-9036-06-BYHD.jpg",
         "sku": "9036-06"
       }
     ],
@@ -223,41 +223,41 @@
   {
     "mcode": "PPC-B3B3-9037-BY",
     "name": "Cherry Veneer",
-    "series": "ATELIER",
+    "series": "HD",
     "variants": [
       {
         "id": "01",
         "vlabel": "01",
         "hi": "/swatches/cc0017b3b3yp-01.jpg",
-        "sheet": "/sheets/PPC-WA0003-9037-01-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0003-9037-01-BYHD.jpg",
         "sku": "9037-01"
       },
       {
         "id": "02",
         "vlabel": "02",
         "hi": "/swatches/cc0017b3b3yp-02.jpg",
-        "sheet": "/sheets/PPC-WA0003-9037-02-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0003-9037-02-BYHD.jpg",
         "sku": "9037-02"
       },
       {
         "id": "03",
         "vlabel": "03",
         "hi": "/swatches/cc0017b3b3yp-03.jpg",
-        "sheet": "/sheets/PPC-WA0003-9037-03-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0003-9037-03-BYHD.jpg",
         "sku": "9037-03"
       },
       {
         "id": "04",
         "vlabel": "04",
         "hi": "/swatches/cc0017b3b3yp-04.jpg",
-        "sheet": "/sheets/PPC-WA0003-9037-04-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0003-9037-04-BYHD.jpg",
         "sku": "9037-04"
       },
       {
         "id": "05",
         "vlabel": "05",
         "hi": "/swatches/cc0017b3b3yp-05.jpg",
-        "sheet": "/sheets/PPC-WA0003-9037-05-BYATL.jpg",
+        "sheet": "/sheets/PPC-WA0003-9037-05-BYHD.jpg",
         "sku": "9037-05"
       }
     ],
